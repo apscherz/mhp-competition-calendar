@@ -1,6 +1,9 @@
 name: Update calendars
 
 on:
+permissions:
+  contents: write
+
   schedule:
     - cron: "17 10 * * *"
   workflow_dispatch:
