@@ -1,33 +1,9 @@
 [
   {
-    "name": "Home brewers competition Niech Swiat Pozna Twoje Piwo 2026",
-    "judging_date": "2026-02-19",
-    "entry_deadline": "2026-02-13",
-    "location": "Wieprz, \u015bl\u0105skie, PL"
-  },
-  {
-    "name": "Kansas City Bier Meisters 43rd Annual Homebrew Competition",
-    "judging_date": "2026-02-21",
-    "entry_deadline": "2026-02-01",
-    "location": "Kansas City, MO, US"
-  },
-  {
     "name": "Midwinter Madness - Stouts & Belgian Beers",
     "judging_date": "2026-02-21",
     "entry_deadline": "2026-02-13",
     "location": "Eugene, OR, US"
-  },
-  {
-    "name": "El Dorado County Fair Homebrew and Microbrew Competition",
-    "judging_date": "2026-02-21",
-    "entry_deadline": "2026-02-07",
-    "location": "Placerville, CA, US"
-  },
-  {
-    "name": "Bluegrass Cup",
-    "judging_date": "2026-02-21",
-    "entry_deadline": "2026-01-21",
-    "location": "Lexington, Kentucky, US"
   },
   {
     "name": "BrewIT goes BLONDE",
@@ -36,10 +12,22 @@
     "location": "Campogalliano, Modena, IT"
   },
   {
-    "name": "Flannelfest Homebrew Competition",
-    "judging_date": "2026-02-23",
+    "name": "Bluegrass Cup",
+    "judging_date": "2026-02-21",
+    "entry_deadline": "2026-01-21",
+    "location": "Lexington, Kentucky, US"
+  },
+  {
+    "name": "El Dorado County Fair Homebrew and Microbrew Competition",
+    "judging_date": "2026-02-21",
     "entry_deadline": "2026-02-07",
-    "location": "JANESVILLE, WI, US"
+    "location": "Placerville, CA, US"
+  },
+  {
+    "name": "Kansas City Bier Meisters 43rd Annual Homebrew Competition",
+    "judging_date": "2026-02-21",
+    "entry_deadline": "2026-02-01",
+    "location": "Kansas City, MO, US"
   },
   {
     "name": "Copa Desierto de Sonora 2026",
@@ -48,16 +36,16 @@
     "location": "Hermosillo, Sonora, MX"
   },
   {
+    "name": "Flannelfest Homebrew Competition",
+    "judging_date": "2026-02-23",
+    "entry_deadline": "2026-02-07",
+    "location": "JANESVILLE, WI, US"
+  },
+  {
     "name": "VI CERTAMEN HOMEBREWER ESTRELLA GALICIA",
     "judging_date": "2026-02-27",
     "entry_deadline": "2025-11-05",
     "location": "A Coru\u00f1a, Galicia, ES"
-  },
-  {
-    "name": "Port City Plunder 8th Annual",
-    "judging_date": "2026-02-28",
-    "entry_deadline": "2026-01-16",
-    "location": "Wilmington, NC, US"
   },
   {
     "name": "Goulburn Show 2026 - Homebrew Competition",
@@ -66,16 +54,40 @@
     "location": "GOULBURN, New South Wales, AU"
   },
   {
-    "name": "UK National Homebrew Competition",
+    "name": "Extravaganza!",
     "judging_date": "2026-02-28",
-    "entry_deadline": "2026-02-20",
-    "location": ", GB"
+    "entry_deadline": "2026-01-16",
+    "location": "Memphis, TN, US"
+  },
+  {
+    "name": "Craft On The Moon Compettion 2026",
+    "judging_date": "2026-02-28",
+    "entry_deadline": "2026-02-25",
+    "location": "Chanthaburi, TH"
+  },
+  {
+    "name": "Concurso Brasileiro de Cervejas",
+    "judging_date": "2026-02-28",
+    "entry_deadline": "2026-01-31",
+    "location": "Blumenau, Santa Catarina, BR"
   },
   {
     "name": "Bockfest",
     "judging_date": "2026-02-28",
     "entry_deadline": "2026-02-21",
     "location": "Hamilton, OH, US"
+  },
+  {
+    "name": "Port City Plunder 8th Annual",
+    "judging_date": "2026-02-28",
+    "entry_deadline": "2026-01-16",
+    "location": "Wilmington, NC, US"
+  },
+  {
+    "name": "UK National Homebrew Competition",
+    "judging_date": "2026-02-28",
+    "entry_deadline": "2026-02-20",
+    "location": ", GB"
   },
   {
     "name": "SNAFU Winterfest 2026",
@@ -90,30 +102,6 @@
     "location": ", Victoria, AU"
   },
   {
-    "name": "Concurso Brasileiro de Cervejas",
-    "judging_date": "2026-02-28",
-    "entry_deadline": "2026-01-31",
-    "location": "Blumenau, Santa Catarina, BR"
-  },
-  {
-    "name": "Craft On The Moon Compettion 2026",
-    "judging_date": "2026-02-28",
-    "entry_deadline": "2026-02-25",
-    "location": "Chanthaburi, TH"
-  },
-  {
-    "name": "Extravaganza!",
-    "judging_date": "2026-02-28",
-    "entry_deadline": "2026-01-16",
-    "location": "Memphis, TN, US"
-  },
-  {
-    "name": "SheBrew Homebrew Competition 2026",
-    "judging_date": "2026-03-01",
-    "entry_deadline": "2026-02-20",
-    "location": "Portland, OR, US"
-  },
-  {
     "name": "Barcelona Beer Challenge",
     "judging_date": "2026-03-01",
     "entry_deadline": "2026-01-31",
@@ -126,22 +114,16 @@
     "location": "Calgary, Alberta, CA"
   },
   {
+    "name": "SheBrew Homebrew Competition 2026",
+    "judging_date": "2026-03-01",
+    "entry_deadline": "2026-02-20",
+    "location": "Portland, OR, US"
+  },
+  {
     "name": "III Copa das Acervas",
     "judging_date": "2026-03-05",
     "entry_deadline": "2026-02-21",
     "location": "Blumenau, SC, BR"
-  },
-  {
-    "name": "Homebrewtah Beer and Cider Competition",
-    "judging_date": "2026-03-07",
-    "entry_deadline": "2026-03-01",
-    "location": "Salt Lake City, UT,"
-  },
-  {
-    "name": "XIII Concurso Nacional de Cervejas Caseiras e Artesanais",
-    "judging_date": "2026-03-07",
-    "entry_deadline": "2026-02-28",
-    "location": "Lisbon, PT"
   },
   {
     "name": "Salt City Brew Club Competition",
@@ -150,10 +132,10 @@
     "location": "Liverpool, New York, US"
   },
   {
-    "name": "XIII Concurso Nacional de Cervejas Caseiras e Artesanais",
+    "name": "Homebrewtah Beer and Cider Competition",
     "judging_date": "2026-03-07",
-    "entry_deadline": "2026-02-28",
-    "location": "Lisbon, PT"
+    "entry_deadline": "2026-03-01",
+    "location": "Salt Lake City, UT,"
   },
   {
     "name": "10th Annual Pennsylvania Homebrew Open",
@@ -168,16 +150,28 @@
     "location": "Des Moines, IA, US"
   },
   {
-    "name": "33rd Annual Peach State Brew Off",
+    "name": "IBU Open",
     "judging_date": "2026-03-07",
-    "entry_deadline": "2026-02-04",
-    "location": "Atlanta, GA, US"
+    "entry_deadline": "2026-02-14",
+    "location": "Des Moines, IA, US"
   },
   {
     "name": "Homebrewtah Beer and Cider Competition",
     "judging_date": "2026-03-07",
     "entry_deadline": "2026-03-01",
     "location": "Salt Lake City, UT,"
+  },
+  {
+    "name": "33rd Annual Peach State Brew Off",
+    "judging_date": "2026-03-07",
+    "entry_deadline": "2026-02-04",
+    "location": "Atlanta, GA, US"
+  },
+  {
+    "name": "Kreat\u00edv S\u00f6rf\u0151z\u0151k Versenye",
+    "judging_date": "2026-03-07",
+    "entry_deadline": "2026-03-04",
+    "location": "Budapest, HU"
   },
   {
     "name": "Best Florida Beer Professional Competition 2026",
@@ -222,10 +216,10 @@
     "location": "Portland, Oregon, US"
   },
   {
-    "name": "Autumn Invitational",
+    "name": "Valhalla: The Mead-ing Of Life",
     "judging_date": "2026-03-14",
-    "entry_deadline": "2026-02-28",
-    "location": "Upper Hutt, NZ"
+    "entry_deadline": "2026-02-14",
+    "location": "Delta, PA, US"
   },
   {
     "name": "28th Annual Drunk Monk Challenge",
@@ -234,16 +228,16 @@
     "location": "Aurora, IL, US"
   },
   {
+    "name": "Autumn Invitational",
+    "judging_date": "2026-03-14",
+    "entry_deadline": "2026-02-28",
+    "location": "Upper Hutt, NZ"
+  },
+  {
     "name": "Coconut Cup - 2026",
     "judging_date": "2026-03-14",
     "entry_deadline": "2026-02-12",
     "location": "Miami, FL, US"
-  },
-  {
-    "name": "Valhalla: The Mead-ing Of Life",
-    "judging_date": "2026-03-14",
-    "entry_deadline": "2026-02-14",
-    "location": "Delta, PA, US"
   },
   {
     "name": "Saint Malo Craft Beer Expo Homebrew Competition 2026",
@@ -252,16 +246,16 @@
     "location": "Rennes, FR"
   },
   {
-    "name": "2026 National Homebrew Competition First Round - San Diego, CA",
-    "judging_date": "2026-03-15",
-    "entry_deadline": "2026-02-25",
-    "location": "San Diego, CA, US"
-  },
-  {
     "name": "Trinacria Homebrewers Championship 2026 - I Tappa",
     "judging_date": "2026-03-15",
     "entry_deadline": "2026-03-11",
     "location": "Aci Castello (CT), Non-USA, Non-Canada, IT"
+  },
+  {
+    "name": "2026 National Homebrew Competition First Round - San Diego, CA",
+    "judging_date": "2026-03-15",
+    "entry_deadline": "2026-02-25",
+    "location": "San Diego, CA, US"
   },
   {
     "name": "Copa Cervecera Del Pacifico",
@@ -270,7 +264,7 @@
     "location": "Ensenada, Baja California, MX"
   },
   {
-    "name": "Valkyries Horn Mead Competition - Commercial",
+    "name": "Valkyries Horn Mead Competition - Amateur",
     "judging_date": "2026-03-20",
     "entry_deadline": "2026-02-20",
     "location": "Minnetonka, MN, US"
@@ -282,7 +276,7 @@
     "location": "Woodinville, WA, US"
   },
   {
-    "name": "Valkyries Horn Mead Competition - Amateur",
+    "name": "Valkyries Horn Mead Competition - Commercial",
     "judging_date": "2026-03-20",
     "entry_deadline": "2026-02-20",
     "location": "Minnetonka, MN, US"
@@ -292,12 +286,6 @@
     "judging_date": "2026-03-21",
     "entry_deadline": "2026-01-24",
     "location": "Fort Worth, Texas, US"
-  },
-  {
-    "name": "Lager Than Life",
-    "judging_date": "2026-03-21",
-    "entry_deadline": "2026-03-08",
-    "location": "London, GB"
   },
   {
     "name": "Lager Than Life",
@@ -322,6 +310,12 @@
     "judging_date": "2026-03-21",
     "entry_deadline": "2026-03-06",
     "location": "Grand Junction, CO, US"
+  },
+  {
+    "name": "19th Annual Virginia Beer Blitz",
+    "judging_date": "2026-03-21",
+    "entry_deadline": "2026-03-07",
+    "location": "Hampton, VA, US"
   },
   {
     "name": "Red Brick Brew",
@@ -372,22 +366,28 @@
     "location": "La Crosse, WI, US"
   },
   {
+    "name": "V Concurs Homebrewer Montseny",
+    "judging_date": "2026-03-28",
+    "entry_deadline": "2026-02-20",
+    "location": ","
+  },
+  {
     "name": "Coal Country Brewers Cup 2026",
     "judging_date": "2026-03-28",
     "entry_deadline": null,
     "location": ","
   },
   {
-    "name": "Cherry Blossom Homebrew Competition",
-    "judging_date": "2026-03-28",
-    "entry_deadline": "2026-03-14",
-    "location": "Washington, DC, US"
-  },
-  {
     "name": "NHC Ireland National Homebrew Competition 2026",
     "judging_date": "2026-03-28",
     "entry_deadline": "2026-03-16",
     "location": "Dublin, Non-USA, Non-Canada, IE"
+  },
+  {
+    "name": "Cherry Blossom Homebrew Competition",
+    "judging_date": "2026-03-28",
+    "entry_deadline": "2026-03-14",
+    "location": "Washington, DC, US"
   },
   {
     "name": "World Cup of Beer",
@@ -408,16 +408,16 @@
     "location": "Singapore, Singapore, SG"
   },
   {
-    "name": "Guerreras del Lupulo 2026",
-    "judging_date": "2026-04-10",
-    "entry_deadline": "2026-03-27",
-    "location": "Mexicali, Baja California, MX"
-  },
-  {
     "name": "Wisconsin State Fair Amateur Homebrew Competition",
     "judging_date": "2026-04-10",
     "entry_deadline": "2026-02-18",
     "location": "West Allis, WI, US"
+  },
+  {
+    "name": "Guerreras del Lupulo 2026",
+    "judging_date": "2026-04-10",
+    "entry_deadline": "2026-03-27",
+    "location": "Mexicali, Baja California, MX"
   },
   {
     "name": "2026 National Homebrew Competition First Round - Longmont, CO",
@@ -432,70 +432,10 @@
     "location": "Penticton, British Columbia, CA"
   },
   {
-    "name": "Battle of the Brews",
-    "judging_date": "2026-04-11",
-    "entry_deadline": null,
-    "location": "Santa Rosa, CA, US"
-  },
-  {
     "name": "I\u00b0 Arona Homebrewing Contest",
     "judging_date": "2026-04-11",
     "entry_deadline": "2026-04-03",
     "location": "Arona (NO), IT"
-  },
-  {
-    "name": "2026 National Homebrew Competition First Round - Chicago",
-    "judging_date": "2026-04-11",
-    "entry_deadline": "2026-02-25",
-    "location": "Chicago, IL, US"
-  },
-  {
-    "name": "Battle of the Brews",
-    "judging_date": "2026-04-11",
-    "entry_deadline": null,
-    "location": "Santa Rosa, CA, US"
-  },
-  {
-    "name": "V. CORSO-KORS\u00d3 H\u00c1ZIS\u00d6RF\u0150Z\u0150K VERSENYE",
-    "judging_date": "2026-04-11",
-    "entry_deadline": "2026-03-31",
-    "location": "Szeged, CSM, HU"
-  },
-  {
-    "name": "2026 National Homebrew Competition First Round - Chicago",
-    "judging_date": "2026-04-11",
-    "entry_deadline": "2026-02-25",
-    "location": "Chicago, IL, US"
-  },
-  {
-    "name": "Great Northern Brew Ha Ha",
-    "judging_date": "2026-04-11",
-    "entry_deadline": "2026-03-27",
-    "location": "Duluth, MN, US"
-  },
-  {
-    "name": "Boot Brew Fest",
-    "judging_date": "2026-04-11",
-    "entry_deadline": "2026-03-04",
-    "location": "Eunice, LA, US"
-  },
-  {
-    "name": "BREW WARS - Episode I - Basse Fermentazioni",
-    "judging_date": "2026-04-11",
-    "entry_deadline": "2026-04-10",
-    "location": "Colmurano (MC), IT"
-  },
-  {
-    "name": "Homebrew Alley XX",
-    "judging_date": "2026-04-11",
-    "entry_deadline": "2026-04-04",
-    "location": "Brooklyn, NY, US"
-  },
-  {
-    "name": "World Expo of Beer Commercial Competition",
-    "judging_date": "2026-04-11",
-    "entry_deadline": "2026-04-03",
-    "location": "Frankenmuth, MI, US"
   },
   {
     "name": "2026 National Homebrew Competition 1st Round - Philadelphia, PA",
@@ -504,10 +444,64 @@
     "location": "King of Prussia, PA, US"
   },
   {
-    "name": "Star City Open",
+    "name": "Battle of the Brews",
+    "judging_date": "2026-04-11",
+    "entry_deadline": null,
+    "location": "Santa Rosa, CA, US"
+  },
+  {
+    "name": "Homebrew Alley XX",
     "judging_date": "2026-04-11",
     "entry_deadline": "2026-04-04",
-    "location": "Miamisburg, OH, US"
+    "location": "Brooklyn, NY, US"
+  },
+  {
+    "name": "2026 National Homebrew Competition First Round - Chicago",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-02-25",
+    "location": "Chicago, IL, US"
+  },
+  {
+    "name": "V. CORSO-KORS\u00d3 H\u00c1ZIS\u00d6RF\u0150Z\u0150K VERSENYE",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-03-31",
+    "location": "Szeged, CSM, HU"
+  },
+  {
+    "name": "World Expo of Beer Commercial Competition",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-04-03",
+    "location": "Frankenmuth, MI, US"
+  },
+  {
+    "name": "I\u00b0 Arona Homebrewing Contest",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-04-03",
+    "location": "Arona (NO), IT"
+  },
+  {
+    "name": "PUBS Invitational",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-04-10",
+    "location": "Auburn, CA, US"
+  },
+  {
+    "name": "Great Northern Brew Ha Ha",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-03-27",
+    "location": "Duluth, MN, US"
+  },
+  {
+    "name": "2026 National Homebrew Competition 1st Round - Philadelphia, PA",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-02-25",
+    "location": "King of Prussia, PA, US"
+  },
+  {
+    "name": "Boot Brew Fest",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-03-04",
+    "location": "Eunice, LA, US"
   },
   {
     "name": "Shamrock Open XXXI",
@@ -516,22 +510,28 @@
     "location": "Raleigh, NC, US"
   },
   {
+    "name": "IV Concurso Homebrewer Save The Lagers",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-04-03",
+    "location": "La Redondela, ANDALUC\u00cdA, ES"
+  },
+  {
     "name": "IV Copa Sul-Americana de Cerveja",
     "judging_date": "2026-04-12",
     "entry_deadline": "2026-03-20",
     "location": "Bento Gon\u00e7alves, Rio Grande do Sul, BR"
   },
   {
-    "name": "Spirit of Free Beer",
-    "judging_date": "2026-04-12",
-    "entry_deadline": "2026-04-03",
-    "location": "Rockville, Maryland, US"
-  },
-  {
     "name": "2026 National Homebrew Competition First Round - San Francisco Region",
     "judging_date": "2026-04-12",
     "entry_deadline": "2026-02-25",
     "location": "Walnut Creek, California, US"
+  },
+  {
+    "name": "Spirit of Free Beer",
+    "judging_date": "2026-04-12",
+    "entry_deadline": "2026-04-03",
+    "location": "Rockville, Maryland, US"
   },
   {
     "name": "Copa ACI 2026",
@@ -546,10 +546,10 @@
     "location": "Firenze, Firenze, IT"
   },
   {
-    "name": "27th Annual Chico Homebrew Competition",
+    "name": "Amber Waves of Grain",
     "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-04",
-    "location": "Chico, CA, US"
+    "entry_deadline": "2026-03-25",
+    "location": "Niagara Falls, NY, US"
   },
   {
     "name": "Celebrity Deathmash 2026",
@@ -558,40 +558,10 @@
     "location": "Brighton, MI, US"
   },
   {
-    "name": "Yeasty Boi\u2019s: No Sleep \u2019Til Belgium",
+    "name": "27th Annual Chico Homebrew Competition",
     "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-03",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Litomy\u0161lsk\u00fd Korbel 2026",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-15",
-    "location": "Litomy\u0161l, The Czech Republic, CZ"
-  },
-  {
-    "name": "2026 National Homebrew Competition First Round - Kansas City, MO",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-02-25",
-    "location": "Kansas City, MO, US"
-  },
-  {
-    "name": "2026 National Homebrew Competition First Round - Seattle",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-02-25",
-    "location": "Woodinville, WA, US"
-  },
-  {
-    "name": "XVI Competicion Nacional de ACCE",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-05",
-    "location": "Valencia, Valencia, ES"
-  },
-  {
-    "name": "Red Earth Brewers Spring Brew Off",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-03-20",
-    "location": "Oklahoma City, OK, US"
+    "entry_deadline": "2026-04-04",
+    "location": "Chico, CA, US"
   },
   {
     "name": "TRASH 34",
@@ -600,34 +570,46 @@
     "location": "Oakdale, PA, US"
   },
   {
+    "name": "Yeasty Boi\u2019s: No Sleep \u2019Til Belgium",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-04-03",
+    "location": "Morristown, NJ, US"
+  },
+  {
+    "name": "2026 National Homebrew Competition First Round - Seattle",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-02-25",
+    "location": "Woodinville, WA, US"
+  },
+  {
     "name": "5th Annual H.H. HINDER Head Butt Homebrew Competition",
     "judging_date": "2026-04-18",
     "entry_deadline": "2026-04-03",
     "location": "Waupaca, WI, US"
   },
   {
-    "name": "Amber Waves of Grain",
+    "name": "XVI Competicion Nacional de ACCE",
     "judging_date": "2026-04-18",
-    "entry_deadline": "2026-03-25",
-    "location": "Niagara Falls, NY, US"
+    "entry_deadline": "2026-04-05",
+    "location": "Valencia, Valencia, ES"
   },
   {
-    "name": "VanBrewer Awards",
-    "judging_date": "2026-04-19",
-    "entry_deadline": null,
-    "location": "Vancouver, BC, CA"
+    "name": "Litomy\u0161lsk\u00fd Korbel 2026",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-04-15",
+    "location": "Litomy\u0161l, The Czech Republic, CZ"
   },
   {
-    "name": "The Darkest day",
-    "judging_date": "2026-04-19",
-    "entry_deadline": "2026-04-12",
-    "location": "Bangna, Bangkok, TH"
+    "name": "Red Earth Brewers Spring Brew Off",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-03-20",
+    "location": "Oklahoma City, OK, US"
   },
   {
-    "name": "Nat\u00fcrlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier)",
-    "judging_date": "2026-04-19",
-    "entry_deadline": "2026-03-31",
-    "location": "Aachen, DE"
+    "name": "2026 National Homebrew Competition First Round - Kansas City, MO",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-02-25",
+    "location": "Kansas City, MO, US"
   },
   {
     "name": "Club Maillard Biergarten Cup 2026",
@@ -636,10 +618,28 @@
     "location": "Sabadell, Barcelona, ES"
   },
   {
+    "name": "Nat\u00fcrlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier)",
+    "judging_date": "2026-04-19",
+    "entry_deadline": "2026-03-31",
+    "location": "Aachen, DE"
+  },
+  {
     "name": "2026 National Homebrew Competition First Round - Tampa",
     "judging_date": "2026-04-19",
     "entry_deadline": "2026-02-25",
     "location": "Tampa, FL, US"
+  },
+  {
+    "name": "The Darkest day",
+    "judging_date": "2026-04-19",
+    "entry_deadline": "2026-04-12",
+    "location": "Bangna, Bangkok, TH"
+  },
+  {
+    "name": "VanBrewer Awards",
+    "judging_date": "2026-04-19",
+    "entry_deadline": null,
+    "location": "Vancouver, BC, CA"
   },
   {
     "name": "X Concurso Sul Brasileiro das Acervas",
