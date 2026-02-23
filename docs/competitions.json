@@ -450,16 +450,22 @@
     "location": "Colmurano (MC), IT"
   },
   {
-    "name": "I\u00b0 Arona Homebrewing Contest",
+    "name": "Battle of the Brews",
     "judging_date": "2026-04-11",
-    "entry_deadline": "2026-04-03",
-    "location": "Arona (NO), IT"
+    "entry_deadline": null,
+    "location": "Santa Rosa, CA, US"
   },
   {
-    "name": "Star City Open",
+    "name": "Homebrew Alley XX",
     "judging_date": "2026-04-11",
     "entry_deadline": "2026-04-04",
-    "location": "Miamisburg, OH, US"
+    "location": "Brooklyn, NY, US"
+  },
+  {
+    "name": "IV Concurso Homebrewer Save The Lagers",
+    "judging_date": "2026-04-11",
+    "entry_deadline": "2026-04-03",
+    "location": "La Redondela, ANDALUC\u00cdA, ES"
   },
   {
     "name": "BREW WARS - Episode I - Basse Fermentazioni",
@@ -468,34 +474,16 @@
     "location": "Colmurano (MC), IT"
   },
   {
-    "name": "2026 National Homebrew Competition First Round - Chicago",
-    "judging_date": "2026-04-11",
-    "entry_deadline": "2026-02-25",
-    "location": "Chicago, IL, US"
-  },
-  {
     "name": "V. CORSO-KORS\u00d3 H\u00c1ZIS\u00d6RF\u0150Z\u0150K VERSENYE",
     "judging_date": "2026-04-11",
     "entry_deadline": "2026-03-31",
     "location": "Szeged, CSM, HU"
   },
   {
-    "name": "PUBS Invitational",
+    "name": "Star City Open",
     "judging_date": "2026-04-11",
-    "entry_deadline": "2026-04-10",
-    "location": "Auburn, CA, US"
-  },
-  {
-    "name": "IV Copa Sul-Americana de Cerveja",
-    "judging_date": "2026-04-12",
-    "entry_deadline": "2026-03-20",
-    "location": "Bento Gon\u00e7alves, Rio Grande do Sul, BR"
-  },
-  {
-    "name": "2026 National Homebrew Competition First Round - San Francisco Region",
-    "judging_date": "2026-04-12",
-    "entry_deadline": "2026-02-25",
-    "location": "Walnut Creek, California, US"
+    "entry_deadline": "2026-04-04",
+    "location": "Miamisburg, OH, US"
   },
   {
     "name": "Spirit of Free Beer",
@@ -504,40 +492,22 @@
     "location": "Rockville, Maryland, US"
   },
   {
+    "name": "2026 National Homebrew Competition First Round - San Francisco Region",
+    "judging_date": "2026-04-12",
+    "entry_deadline": "2026-02-25",
+    "location": "Walnut Creek, California, US"
+  },
+  {
+    "name": "IV Copa Sul-Americana de Cerveja",
+    "judging_date": "2026-04-12",
+    "entry_deadline": "2026-03-20",
+    "location": "Bento Gon\u00e7alves, Rio Grande do Sul, BR"
+  },
+  {
     "name": "Copa ACI 2026",
     "judging_date": "2026-04-15",
     "entry_deadline": "2026-04-08",
     "location": "Santiago, Metropolitana de Santiago, CL"
-  },
-  {
-    "name": "Red Earth Brewers Spring Brew Off",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-03-20",
-    "location": "Oklahoma City, OK, US"
-  },
-  {
-    "name": "Yeasty Boi\u2019s: No Sleep \u2019Til Belgium",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-03",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "2026 National Homebrew Competition First Round - Kansas City, MO",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-02-25",
-    "location": "Kansas City, MO, US"
-  },
-  {
-    "name": "BrewIT goes RED",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-18",
-    "location": "Firenze, Firenze, IT"
-  },
-  {
-    "name": "XVI Competicion Nacional de ACCE",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-05",
-    "location": "Valencia, Valencia, ES"
   },
   {
     "name": "27th Annual Chico Homebrew Competition",
@@ -546,22 +516,22 @@
     "location": "Chico, CA, US"
   },
   {
+    "name": "BrewIT goes RED",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-04-18",
+    "location": "Firenze, Firenze, IT"
+  },
+  {
     "name": "2026 National Homebrew Competition First Round - Seattle",
     "judging_date": "2026-04-18",
     "entry_deadline": "2026-02-25",
     "location": "Woodinville, WA, US"
   },
   {
-    "name": "TRASH 34",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-08",
-    "location": "Oakdale, PA, US"
-  },
-  {
-    "name": "5th Annual H.H. HINDER Head Butt Homebrew Competition",
+    "name": "Yeasty Boi\u2019s: No Sleep \u2019Til Belgium",
     "judging_date": "2026-04-18",
     "entry_deadline": "2026-04-03",
-    "location": "Waupaca, WI, US"
+    "location": "Morristown, NJ, US"
   },
   {
     "name": "Litomy\u0161lsk\u00fd Korbel 2026",
@@ -570,10 +540,16 @@
     "location": "Litomy\u0161l, The Czech Republic, CZ"
   },
   {
-    "name": "Amber Waves of Grain",
+    "name": "5th Annual H.H. HINDER Head Butt Homebrew Competition",
     "judging_date": "2026-04-18",
-    "entry_deadline": "2026-03-25",
-    "location": "Niagara Falls, NY, US"
+    "entry_deadline": "2026-04-03",
+    "location": "Waupaca, WI, US"
+  },
+  {
+    "name": "TRASH 34",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-04-08",
+    "location": "Oakdale, PA, US"
   },
   {
     "name": "Celebrity Deathmash 2026",
@@ -582,10 +558,28 @@
     "location": "Brighton, MI, US"
   },
   {
-    "name": "2026 National Homebrew Competition First Round - Tampa",
-    "judging_date": "2026-04-19",
+    "name": "2026 National Homebrew Competition First Round - Kansas City, MO",
+    "judging_date": "2026-04-18",
     "entry_deadline": "2026-02-25",
-    "location": "Tampa, FL, US"
+    "location": "Kansas City, MO, US"
+  },
+  {
+    "name": "XVI Competicion Nacional de ACCE",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-04-05",
+    "location": "Valencia, Valencia, ES"
+  },
+  {
+    "name": "Red Earth Brewers Spring Brew Off",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-03-20",
+    "location": "Oklahoma City, OK, US"
+  },
+  {
+    "name": "Amber Waves of Grain",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-03-25",
+    "location": "Niagara Falls, NY, US"
   },
   {
     "name": "VanBrewer Awards",
@@ -594,16 +588,22 @@
     "location": "Vancouver, BC, CA"
   },
   {
-    "name": "Nat\u00fcrlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier)",
+    "name": "2026 National Homebrew Competition First Round - Tampa",
     "judging_date": "2026-04-19",
-    "entry_deadline": "2026-03-31",
-    "location": "Aachen, DE"
+    "entry_deadline": "2026-02-25",
+    "location": "Tampa, FL, US"
   },
   {
     "name": "Club Maillard Biergarten Cup 2026",
     "judging_date": "2026-04-19",
     "entry_deadline": "2026-04-01",
     "location": "Sabadell, Barcelona, ES"
+  },
+  {
+    "name": "Nat\u00fcrlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier)",
+    "judging_date": "2026-04-19",
+    "entry_deadline": "2026-03-31",
+    "location": "Aachen, DE"
   },
   {
     "name": "The Darkest day",
@@ -618,40 +618,10 @@
     "location": "Curitiba, Paran\u00e1, BR"
   },
   {
-    "name": "SODZ British Beerfest",
+    "name": "America's Finest City Homebrew Competition 2026",
     "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-23",
-    "location": "Columbus, Ohio, US"
-  },
-  {
-    "name": "Siciliano's Homebrew Competition",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-13",
-    "location": "Grand Rapids, Michigan, US"
-  },
-  {
-    "name": "Greg Noonan Memorial Homebrew Competition",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-03-22",
-    "location": "Burlington, Vermont, US"
-  },
-  {
-    "name": "32nd Annual Eight Seconds of Froth",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-11",
-    "location": "Cheyenne, WY, US"
-  },
-  {
-    "name": "Malt Madness",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-03-20",
-    "location": ","
-  },
-  {
-    "name": "COPA LAS CALIFORNIAS AMATEUR",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-11",
-    "location": "La Paz, Baja California Sur, BAJA CALIFORNIA SUR, MX"
+    "entry_deadline": null,
+    "location": "San Diego, CA,"
   },
   {
     "name": "COPA LAS CALIFORNIAS",
@@ -660,16 +630,10 @@
     "location": "La Paz, Baja California Sur, BAJA CALIFORNIA SUR, MX"
   },
   {
-    "name": "Hurricane Blowoff 2026",
+    "name": "COPA LAS CALIFORNIAS AMATEUR",
     "judging_date": "2026-04-25",
-    "entry_deadline": "2026-03-26",
-    "location": "Boynton Beach, Florida, US"
-  },
-  {
-    "name": "\u9996\u5c4a\u4e2d\u56fd\u8336\u5564\u5927\u8d5b\u4e28The 1st Chinese Tea Beer Awards",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-20",
-    "location": "Shanghai, Shanghai, CN"
+    "entry_deadline": "2026-04-11",
+    "location": "La Paz, Baja California Sur, BAJA CALIFORNIA SUR, MX"
   },
   {
     "name": "Primer Concurso CCCUY 2026",
@@ -678,16 +642,16 @@
     "location": "Montevideo, Montevideo, UY"
   },
   {
-    "name": "Copa Cervecera del Austro 2026",
+    "name": "\u9996\u5c4a\u4e2d\u56fd\u8336\u5564\u5927\u8d5b\u4e28The 1st Chinese Tea Beer Awards",
     "judging_date": "2026-04-25",
-    "entry_deadline": "2026-03-29",
-    "location": "Cuenca, Azuay, EC"
+    "entry_deadline": "2026-04-20",
+    "location": "Shanghai, Shanghai, CN"
   },
   {
-    "name": "America's Finest City Homebrew Competition 2026",
+    "name": "Malt Madness",
     "judging_date": "2026-04-25",
-    "entry_deadline": null,
-    "location": "San Diego, CA,"
+    "entry_deadline": "2026-03-20",
+    "location": ","
   },
   {
     "name": "Duel Pokal",
@@ -696,10 +660,46 @@
     "location": "Pula, Istria, HR"
   },
   {
+    "name": "Siciliano's Homebrew Competition",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-13",
+    "location": "Grand Rapids, Michigan, US"
+  },
+  {
+    "name": "SODZ British Beerfest",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-23",
+    "location": "Columbus, Ohio, US"
+  },
+  {
     "name": "Ales Open",
     "judging_date": "2026-04-25",
     "entry_deadline": "2026-04-10",
     "location": "Regina, SK, CA"
+  },
+  {
+    "name": "32nd Annual Eight Seconds of Froth",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-11",
+    "location": "Cheyenne, WY, US"
+  },
+  {
+    "name": "Copa Cervecera del Austro 2026",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-03-29",
+    "location": "Cuenca, Azuay, EC"
+  },
+  {
+    "name": "Hurricane Blowoff 2026",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-03-26",
+    "location": "Boynton Beach, Florida, US"
+  },
+  {
+    "name": "Greg Noonan Memorial Homebrew Competition",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-03-22",
+    "location": "Burlington, Vermont, US"
   },
   {
     "name": "Bruce Street Brewfest Homebrew Competition",
@@ -708,16 +708,16 @@
     "location": "Sevierville, TN, US"
   },
   {
-    "name": "COHO Spring Fling & Pro/Am",
-    "judging_date": "2026-04-26",
-    "entry_deadline": "2026-04-15",
-    "location": "Redmond, Oregon, US"
-  },
-  {
     "name": "Flat Rock Brew Comp",
     "judging_date": "2026-04-26",
     "entry_deadline": "2026-04-18",
     "location": "Naremburn, NSW, AU"
+  },
+  {
+    "name": "COHO Spring Fling & Pro/Am",
+    "judging_date": "2026-04-26",
+    "entry_deadline": "2026-04-15",
+    "location": "Redmond, Oregon, US"
   },
   {
     "name": "North Beer Challenge 2026",
@@ -744,22 +744,10 @@
     "location": "Bratislava, SK"
   },
   {
-    "name": "ABC - austrian beer challenge",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-04-17",
-    "location": "Muntlix, Vorarlberg, AT"
-  },
-  {
     "name": "Lagerpalooza",
     "judging_date": "2026-05-16",
     "entry_deadline": "2026-05-10",
     "location": "Salt Lake City, UT, US"
-  },
-  {
-    "name": "SMASH Homebrewing Competition 2026",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-08",
-    "location": "Split, HR"
   },
   {
     "name": "2026 Alamo City Brew Battle",
@@ -768,16 +756,34 @@
     "location": "San Antonio, TX, US"
   },
   {
-    "name": "44th Annual Oregon Homebrew Festival",
+    "name": "SMASH Homebrewing Competition 2026",
     "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-15",
-    "location": "Corvallis, Oregon, US"
+    "entry_deadline": "2026-05-08",
+    "location": "Split, HR"
+  },
+  {
+    "name": "ABC - austrian beer challenge",
+    "judging_date": "2026-05-16",
+    "entry_deadline": "2026-04-17",
+    "location": "Muntlix, Vorarlberg, AT"
   },
   {
     "name": "Ozarks Open Season",
     "judging_date": "2026-05-16",
     "entry_deadline": null,
     "location": ", Missouri, US"
+  },
+  {
+    "name": "44th Annual Oregon Homebrew Festival",
+    "judging_date": "2026-05-16",
+    "entry_deadline": "2026-05-15",
+    "location": "Corvallis, Oregon, US"
+  },
+  {
+    "name": "2026 Buzz Off",
+    "judging_date": "2026-05-16",
+    "entry_deadline": "2026-05-02",
+    "location": "Downingtown, PA, US"
   },
   {
     "name": "Palo Duro Cup",
@@ -790,12 +796,6 @@
     "judging_date": "2026-05-16",
     "entry_deadline": "2026-05-15",
     "location": "Casette d'Ete (FM), IT"
-  },
-  {
-    "name": "2026 Buzz Off",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-02",
-    "location": "Downingtown, PA, US"
   },
   {
     "name": "African Beer Cup",
@@ -864,10 +864,10 @@
     "location": "Campo Grande, MS, BR"
   },
   {
-    "name": "Virginia Craft Brewers Guild",
+    "name": "MBC meets Osteria La Fabbrica",
     "judging_date": "2026-06-06",
-    "entry_deadline": "2026-05-15",
-    "location": "Richmond, VA, US"
+    "entry_deadline": "2026-05-27",
+    "location": "Losone, Ticino, CH"
   },
   {
     "name": "DIASTATICUS \u2013 SAISON & FARMHOUSE ALE",
@@ -876,10 +876,10 @@
     "location": "Bergamo, IT"
   },
   {
-    "name": "MBC meets Osteria La Fabbrica",
+    "name": "Virginia Craft Brewers Guild",
     "judging_date": "2026-06-06",
-    "entry_deadline": "2026-05-27",
-    "location": "Losone, Ticino, CH"
+    "entry_deadline": "2026-05-15",
+    "location": "Richmond, VA, US"
   },
   {
     "name": "Fredericksburg Craft Beer Competition",
@@ -906,16 +906,22 @@
     "location": "Itasca, IL, US"
   },
   {
+    "name": "Grodzisk Beer Competition (Homebrew)",
+    "judging_date": "2026-06-19",
+    "entry_deadline": "2026-06-19",
+    "location": "Grodzisk Wielkopolski, Wielkopolskie, PL"
+  },
+  {
     "name": "Grodzisk Beer Competition (Professional)",
     "judging_date": "2026-06-19",
     "entry_deadline": "2026-06-19",
     "location": "Grodzisk Wielkopolski, Wielkopolskie, PL"
   },
   {
-    "name": "Grodzisk Beer Competition (Homebrew)",
-    "judging_date": "2026-06-19",
-    "entry_deadline": "2026-06-19",
-    "location": "Grodzisk Wielkopolski, Wielkopolskie, PL"
+    "name": "HomeBrew Cup Chile 2026 - 7th Edition",
+    "judging_date": "2026-06-20",
+    "entry_deadline": "2026-06-13",
+    "location": "Santiago de Chile, Capital, Metropolitana, CL"
   },
   {
     "name": "GOOD WATER BEER CUP 2026",
@@ -930,12 +936,6 @@
     "location": "London, GB"
   },
   {
-    "name": "HomeBrew Cup Chile 2026 - 7th Edition",
-    "judging_date": "2026-06-20",
-    "entry_deadline": "2026-06-13",
-    "location": "Santiago de Chile, Capital, Metropolitana, CL"
-  },
-  {
     "name": "Hot N Humid 2026",
     "judging_date": "2026-06-27",
     "entry_deadline": "2026-05-23",
@@ -948,16 +948,16 @@
     "location": "Mexico City, Mexico City, MX"
   },
   {
-    "name": "Indiana Brewers Cup",
-    "judging_date": "2026-07-11",
-    "entry_deadline": "2026-06-17",
-    "location": "INDIANAPOLIS, IN, US"
-  },
-  {
     "name": "Your Honey or Your Life",
     "judging_date": "2026-07-11",
     "entry_deadline": "2026-06-27",
     "location": "Portland, OR, US"
+  },
+  {
+    "name": "Indiana Brewers Cup",
+    "judging_date": "2026-07-11",
+    "entry_deadline": "2026-06-17",
+    "location": "INDIANAPOLIS, IN, US"
   },
   {
     "name": "Copa San Arnulfo Guadalajara",
@@ -1002,6 +1002,12 @@
     "location": "Richmond, VA,"
   },
   {
+    "name": "Korea Homebrew Competition 24th",
+    "judging_date": "2026-08-15",
+    "entry_deadline": "2026-07-31",
+    "location": "Paju-si, Gyeonggi-do, KR"
+  },
+  {
     "name": "Kentucky State Fair Homebrew Competition",
     "judging_date": "2026-08-15",
     "entry_deadline": "2026-07-09",
@@ -1014,16 +1020,16 @@
     "location": ","
   },
   {
-    "name": "Korea Homebrew Competition 24th",
-    "judging_date": "2026-08-15",
-    "entry_deadline": "2026-07-31",
-    "location": "Paju-si, Gyeonggi-do, KR"
-  },
-  {
     "name": "Copa Kallisti",
     "judging_date": "2026-08-22",
     "entry_deadline": null,
     "location": ", MX"
+  },
+  {
+    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
+    "judging_date": "2026-08-28",
+    "entry_deadline": "2026-08-26",
+    "location": ", Alberta, CA"
   },
   {
     "name": "King of the Mountain",
@@ -1050,10 +1056,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1062,10 +1068,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1116,10 +1122,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1128,10 +1140,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1182,10 +1194,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1194,10 +1212,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1248,10 +1266,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1260,10 +1284,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1314,10 +1338,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1326,10 +1356,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1380,10 +1410,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1392,10 +1428,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1446,10 +1482,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1458,10 +1500,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1512,10 +1554,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1524,10 +1572,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1578,10 +1626,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1590,10 +1644,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1644,10 +1698,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1656,10 +1716,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1710,10 +1770,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1722,10 +1788,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1776,10 +1842,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1788,10 +1860,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1842,10 +1914,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1854,10 +1932,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1908,10 +1986,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1920,10 +2004,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1974,10 +2058,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1986,10 +2076,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2040,10 +2130,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2052,10 +2148,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2106,10 +2202,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2118,10 +2220,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2172,10 +2274,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2184,10 +2292,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2238,10 +2346,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2250,10 +2364,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2304,10 +2418,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2316,10 +2436,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2370,10 +2490,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2382,10 +2508,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2436,10 +2562,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2448,10 +2580,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2502,10 +2634,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2514,10 +2652,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2568,10 +2706,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2580,10 +2724,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2634,10 +2778,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2646,10 +2796,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2700,10 +2850,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2712,10 +2868,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2766,10 +2922,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2778,10 +2940,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2832,10 +2994,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2844,10 +3012,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2898,10 +3066,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2910,10 +3084,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2964,10 +3138,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2976,10 +3156,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3030,10 +3210,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3042,10 +3228,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3096,10 +3282,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3108,10 +3300,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3162,10 +3354,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3174,10 +3372,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3228,10 +3426,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3240,10 +3444,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3294,10 +3498,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3306,10 +3516,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3360,10 +3570,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3372,10 +3588,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3426,10 +3642,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3438,10 +3660,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3492,10 +3714,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3504,10 +3732,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3558,10 +3786,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3570,10 +3804,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3624,10 +3858,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3636,10 +3876,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3690,10 +3930,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3702,10 +3948,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3756,10 +4002,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3768,10 +4020,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3822,10 +4074,16 @@
     "location": "Dortmund, NRW, DE"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Canada Beer Cup Calgary 2026",
+    "judging_date": "2026-08-31",
+    "entry_deadline": null,
+    "location": "Calgary, Alberta, CA"
+  },
+  {
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3834,10 +4092,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
