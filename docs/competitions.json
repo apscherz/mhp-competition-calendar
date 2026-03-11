@@ -150,10 +150,10 @@
     "location": "London, GB"
   },
   {
-    "name": "Collared Lizard Classic 2026",
+    "name": "Reuben's Brews Pro Am",
     "judging_date": "2026-03-21",
-    "entry_deadline": "2026-03-06",
-    "location": "Grand Junction, CO, US"
+    "entry_deadline": "2026-03-19",
+    "location": "Seattle, WA, US"
   },
   {
     "name": "Merri Mashers IPA Competition 2026",
@@ -192,10 +192,22 @@
     "location": "Tempe, AZ, US"
   },
   {
+    "name": "Carolinas Championship of Beer 2026",
+    "judging_date": "2026-03-28",
+    "entry_deadline": "2026-03-13",
+    "location": "Hickory, NC, US"
+  },
+  {
     "name": "V Concurs Homebrewer Montseny",
     "judging_date": "2026-03-28",
     "entry_deadline": "2026-02-20",
     "location": ","
+  },
+  {
+    "name": "Between the Bluffs homebrew competition",
+    "judging_date": "2026-03-28",
+    "entry_deadline": "2026-03-20",
+    "location": "La Crosse, WI, US"
   },
   {
     "name": "Coal Country Brewers Cup 2026",
@@ -220,12 +232,6 @@
     "judging_date": "2026-03-28",
     "entry_deadline": "2026-03-14",
     "location": "Washington, DC, US"
-  },
-  {
-    "name": "Between the Bluffs homebrew competition",
-    "judging_date": "2026-03-28",
-    "entry_deadline": "2026-03-20",
-    "location": "La Crosse, WI, US"
   },
   {
     "name": "World Cup of Beer",
@@ -294,10 +300,10 @@
     "location": "Santa Rosa, CA, US"
   },
   {
-    "name": "BREW WARS - Episode I - Basse Fermentazioni",
+    "name": "Battle of the Brews",
     "judging_date": "2026-04-11",
-    "entry_deadline": "2026-04-10",
-    "location": "Colmurano (MC), IT"
+    "entry_deadline": null,
+    "location": "Santa Rosa, CA, US"
   },
   {
     "name": "BREW WARS - Episode I - Basse Fermentazioni",
@@ -444,28 +450,10 @@
     "location": "Valencia, Valencia, ES"
   },
   {
-    "name": "Celebrity Deathmash 2026",
+    "name": "Litomy\u0161lsk\u00fd Korbel 2026",
     "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-10",
-    "location": "Brighton, MI, US"
-  },
-  {
-    "name": "2026 Bruce Brode Memorial Mead and Cider Competition",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-10",
-    "location": "Woodland Hills, CA, US"
-  },
-  {
-    "name": "Amber Waves of Grain",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-03-25",
-    "location": "Niagara Falls, NY, US"
-  },
-  {
-    "name": "TRASH 34",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-08",
-    "location": "Oakdale, PA, US"
+    "entry_deadline": "2026-04-15",
+    "location": "Litomy\u0161l, The Czech Republic, CZ"
   },
   {
     "name": "5th Annual H.H. HINDER Head Butt Homebrew Competition",
@@ -474,34 +462,34 @@
     "location": "Waupaca, WI, US"
   },
   {
-    "name": "Litomy\u0161lsk\u00fd Korbel 2026",
+    "name": "TRASH 34",
     "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-15",
-    "location": "Litomy\u0161l, The Czech Republic, CZ"
+    "entry_deadline": "2026-04-08",
+    "location": "Oakdale, PA, US"
   },
   {
-    "name": "2026 National Homebrew Competition First Round - Kansas City, MO",
+    "name": "2026 National Homebrew Competition First Round - Seattle",
     "judging_date": "2026-04-18",
     "entry_deadline": "2026-02-25",
-    "location": "Kansas City, MO, US"
+    "location": "Woodinville, WA, US"
   },
   {
-    "name": "Club Maillard Biergarten Cup 2026",
-    "judging_date": "2026-04-19",
-    "entry_deadline": "2026-04-01",
-    "location": "Sabadell, Barcelona, ES"
+    "name": "27th Annual Chico Homebrew Competition",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-04-04",
+    "location": "Chico, CA, US"
   },
   {
-    "name": "The Darkest day",
-    "judging_date": "2026-04-19",
-    "entry_deadline": "2026-04-12",
-    "location": "Bangna, Bangkok, TH"
+    "name": "Amber Waves of Grain",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-03-25",
+    "location": "Niagara Falls, NY, US"
   },
   {
-    "name": "Nat\u00fcrlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier)",
-    "judging_date": "2026-04-19",
-    "entry_deadline": "2026-03-31",
-    "location": "Aachen, DE"
+    "name": "Celebrity Deathmash 2026",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-04-10",
+    "location": "Brighton, MI, US"
   },
   {
     "name": "VanBrewer Awards",
@@ -510,10 +498,28 @@
     "location": "Vancouver, BC, CA"
   },
   {
+    "name": "Nat\u00fcrlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier)",
+    "judging_date": "2026-04-19",
+    "entry_deadline": "2026-03-31",
+    "location": "Aachen, DE"
+  },
+  {
+    "name": "The Darkest day",
+    "judging_date": "2026-04-19",
+    "entry_deadline": "2026-04-12",
+    "location": "Bangna, Bangkok, TH"
+  },
+  {
     "name": "2026 National Homebrew Competition First Round - Tampa",
     "judging_date": "2026-04-19",
     "entry_deadline": "2026-02-25",
     "location": "Tampa, FL, US"
+  },
+  {
+    "name": "Club Maillard Biergarten Cup 2026",
+    "judging_date": "2026-04-19",
+    "entry_deadline": "2026-04-01",
+    "location": "Sabadell, Barcelona, ES"
   },
   {
     "name": "X Concurso Sul Brasileiro das Acervas",
@@ -528,28 +534,10 @@
     "location": "Ipswich, Suffolk, GB"
   },
   {
-    "name": "Colorado State Fair Homebrew Competition",
+    "name": "2026 Maltose Falcons Mayfaire",
     "judging_date": "2026-04-25",
     "entry_deadline": "2026-04-10",
-    "location": "Pueblo, CO, US"
-  },
-  {
-    "name": "Siciliano's Homebrew Competition",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-13",
-    "location": "Grand Rapids, Michigan, US"
-  },
-  {
-    "name": "32nd Annual Eight Seconds of Froth",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-11",
-    "location": "Cheyenne, WY, US"
-  },
-  {
-    "name": "COPA LAS CALIFORNIAS AMATEUR",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-11",
-    "location": "La Paz, Baja California Sur, BAJA CALIFORNIA SUR, MX"
+    "location": "Woodland Hills, CA, US"
   },
   {
     "name": "COPA LAS CALIFORNIAS",
@@ -558,10 +546,10 @@
     "location": "La Paz, Baja California Sur, BAJA CALIFORNIA SUR, MX"
   },
   {
-    "name": "2026 Maltose Falcons Mayfaire",
+    "name": "Greg Noonan Memorial Homebrew Competition",
     "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-10",
-    "location": "Woodland Hills, CA, US"
+    "entry_deadline": "2026-03-22",
+    "location": "Burlington, Vermont, US"
   },
   {
     "name": "Primer Concurso CCCUY 2026",
@@ -570,46 +558,10 @@
     "location": "Montevideo, Montevideo, UY"
   },
   {
-    "name": "Ales Open",
+    "name": "Colorado State Fair Homebrew Competition",
     "judging_date": "2026-04-25",
     "entry_deadline": "2026-04-10",
-    "location": "Regina, SK, CA"
-  },
-  {
-    "name": "Duel Pokal",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-17",
-    "location": "Pula, Istria, HR"
-  },
-  {
-    "name": "SODZ British Beerfest",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-23",
-    "location": "Columbus, Ohio, US"
-  },
-  {
-    "name": "America's Finest City Homebrew Competition 2026",
-    "judging_date": "2026-04-25",
-    "entry_deadline": null,
-    "location": "San Diego, CA,"
-  },
-  {
-    "name": "Copa Cervecera del Austro 2026",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-03-29",
-    "location": "Cuenca, Azuay, EC"
-  },
-  {
-    "name": "Malt Madness",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-03-20",
-    "location": ","
-  },
-  {
-    "name": "Daegu Stout Smackdown",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-16",
-    "location": "Daegu, KR"
+    "location": "Pueblo, CO, US"
   },
   {
     "name": "\u9996\u5c4a\u4e2d\u56fd\u8336\u5564\u5927\u8d5b\u4e28The 1st Chinese Tea Beer Awards",
@@ -618,10 +570,52 @@
     "location": "Shanghai, Shanghai, CN"
   },
   {
-    "name": "Greg Noonan Memorial Homebrew Competition",
+    "name": "Malt Madness",
     "judging_date": "2026-04-25",
-    "entry_deadline": "2026-03-22",
-    "location": "Burlington, Vermont, US"
+    "entry_deadline": "2026-03-20",
+    "location": ","
+  },
+  {
+    "name": "Duel Pokal",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-17",
+    "location": "Pula, Istria, HR"
+  },
+  {
+    "name": "Siciliano's Homebrew Competition",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-13",
+    "location": "Grand Rapids, Michigan, US"
+  },
+  {
+    "name": "America's Finest City Homebrew Competition 2026",
+    "judging_date": "2026-04-25",
+    "entry_deadline": null,
+    "location": "San Diego, CA,"
+  },
+  {
+    "name": "SODZ British Beerfest",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-23",
+    "location": "Columbus, Ohio, US"
+  },
+  {
+    "name": "Ales Open",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-10",
+    "location": "Regina, SK, CA"
+  },
+  {
+    "name": "32nd Annual Eight Seconds of Froth",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-11",
+    "location": "Cheyenne, WY, US"
+  },
+  {
+    "name": "Copa Cervecera del Austro 2026",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-03-29",
+    "location": "Cuenca, Azuay, EC"
   },
   {
     "name": "Hurricane Blowoff 2026",
@@ -630,16 +624,16 @@
     "location": "Boynton Beach, Florida, US"
   },
   {
-    "name": "Bruce Street Brewfest Homebrew Competition",
-    "judging_date": "2026-04-26",
-    "entry_deadline": "2026-04-19",
-    "location": "Sevierville, TN, US"
+    "name": "COPA LAS CALIFORNIAS AMATEUR",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-11",
+    "location": "La Paz, Baja California Sur, BAJA CALIFORNIA SUR, MX"
   },
   {
-    "name": "COHO Spring Fling & Pro/Am",
-    "judging_date": "2026-04-26",
-    "entry_deadline": "2026-04-15",
-    "location": "Redmond, Oregon, US"
+    "name": "Daegu Stout Smackdown",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-16",
+    "location": "Daegu, KR"
   },
   {
     "name": "Colorado State Fair Craft Beer Competition",
@@ -648,10 +642,22 @@
     "location": "Pueblo, CO, US"
   },
   {
+    "name": "COHO Spring Fling & Pro/Am",
+    "judging_date": "2026-04-26",
+    "entry_deadline": "2026-04-15",
+    "location": "Redmond, Oregon, US"
+  },
+  {
     "name": "Flat Rock Brew Comp",
     "judging_date": "2026-04-26",
     "entry_deadline": "2026-04-18",
     "location": "Naremburn, NSW, AU"
+  },
+  {
+    "name": "Bruce Street Brewfest Homebrew Competition",
+    "judging_date": "2026-04-26",
+    "entry_deadline": "2026-04-19",
+    "location": "Sevierville, TN, US"
   },
   {
     "name": "Moravsk\u00e1 Vernis\u00e1\u017e piva",
@@ -690,22 +696,16 @@
     "location": "Bratislava, SK"
   },
   {
-    "name": "ABC - austrian beer challenge",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-04-17",
-    "location": "Muntlix, Vorarlberg, AT"
-  },
-  {
-    "name": "Lagerpalooza",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-10",
-    "location": "Salt Lake City, UT, US"
-  },
-  {
     "name": "Palo Duro Cup",
     "judging_date": "2026-05-16",
     "entry_deadline": "2026-03-18",
     "location": "Amarillo, TX, US"
+  },
+  {
+    "name": "SMASH Homebrewing Competition 2026",
+    "judging_date": "2026-05-16",
+    "entry_deadline": "2026-05-08",
+    "location": "Split, HR"
   },
   {
     "name": "2026 Alamo City Brew Battle",
@@ -720,16 +720,16 @@
     "location": "Fortaleza, Cear\u00e1, BR"
   },
   {
-    "name": "SMASH Homebrewing Competition 2026",
+    "name": "44th Annual Oregon Homebrew Festival",
     "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-08",
-    "location": "Split, HR"
+    "entry_deadline": "2026-05-15",
+    "location": "Corvallis, Oregon, US"
   },
   {
-    "name": "2nd Taiwan Honey Beer home brew competition",
+    "name": "Lagerpalooza",
     "judging_date": "2026-05-16",
-    "entry_deadline": null,
-    "location": ","
+    "entry_deadline": "2026-05-10",
+    "location": "Salt Lake City, UT, US"
   },
   {
     "name": "Ozarks Open Season",
@@ -738,16 +738,22 @@
     "location": ", Missouri, US"
   },
   {
+    "name": "2nd Taiwan Honey Beer home brew competition",
+    "judging_date": "2026-05-16",
+    "entry_deadline": null,
+    "location": ","
+  },
+  {
+    "name": "ABC - austrian beer challenge",
+    "judging_date": "2026-05-16",
+    "entry_deadline": "2026-04-17",
+    "location": "Muntlix, Vorarlberg, AT"
+  },
+  {
     "name": "BREW WARS - Episode II - Alte Fermentazioni",
     "judging_date": "2026-05-16",
     "entry_deadline": "2026-05-15",
     "location": "Casette d'Ete (FM), IT"
-  },
-  {
-    "name": "44th Annual Oregon Homebrew Festival",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-15",
-    "location": "Corvallis, Oregon, US"
   },
   {
     "name": "2026 Buzz Off",
@@ -756,16 +762,16 @@
     "location": "Downingtown, PA, US"
   },
   {
-    "name": "LAB Open 2026",
-    "judging_date": "2026-05-17",
-    "entry_deadline": "2026-04-19",
-    "location": "London, London, GB"
-  },
-  {
     "name": "WHO Brews It",
     "judging_date": "2026-05-17",
     "entry_deadline": "2026-05-04",
     "location": "WICHITA, KS, US"
+  },
+  {
+    "name": "LAB Open 2026",
+    "judging_date": "2026-05-17",
+    "entry_deadline": "2026-04-19",
+    "location": "London, London, GB"
   },
   {
     "name": "African Beer Cup",
@@ -816,16 +822,16 @@
     "location": "Pleasanton, CA, US"
   },
   {
-    "name": "29th Annual Big Batch Brew Bash (BBBB)",
-    "judging_date": "2026-05-31",
-    "entry_deadline": "2026-05-22",
-    "location": "Houston, Texas, US"
-  },
-  {
     "name": "BareBottle Homebrew Invitational",
     "judging_date": "2026-05-31",
     "entry_deadline": "2026-05-28",
     "location": "Walnut Creek, CA, US"
+  },
+  {
+    "name": "29th Annual Big Batch Brew Bash (BBBB)",
+    "judging_date": "2026-05-31",
+    "entry_deadline": "2026-05-22",
+    "location": "Houston, Texas, US"
   },
   {
     "name": "Copa de Las Alturas 2026",
@@ -840,12 +846,6 @@
     "location": "Campo Grande, MS, BR"
   },
   {
-    "name": "DIASTATICUS \u2013 SAISON & FARMHOUSE ALE",
-    "judging_date": "2026-06-06",
-    "entry_deadline": "2026-05-22",
-    "location": "Bergamo, IT"
-  },
-  {
     "name": "Virginia Craft Brewers Guild",
     "judging_date": "2026-06-06",
     "entry_deadline": "2026-05-15",
@@ -858,10 +858,10 @@
     "location": "Losone, Ticino, CH"
   },
   {
-    "name": "Fredericksburg Craft Beer Competition",
-    "judging_date": "2026-06-07",
-    "entry_deadline": "2026-06-01",
-    "location": "Fredericksburg, TX, US"
+    "name": "DIASTATICUS \u2013 SAISON & FARMHOUSE ALE",
+    "judging_date": "2026-06-06",
+    "entry_deadline": "2026-05-22",
+    "location": "Bergamo, IT"
   },
   {
     "name": "2026 OC Fair Homebrew Competition",
@@ -870,16 +870,22 @@
     "location": "Costa Mesa, CA, US"
   },
   {
-    "name": "Wortapalooza",
-    "judging_date": "2026-06-13",
-    "entry_deadline": "2026-06-05",
-    "location": "Itasca, IL, US"
+    "name": "Fredericksburg Craft Beer Competition",
+    "judging_date": "2026-06-07",
+    "entry_deadline": "2026-06-01",
+    "location": "Fredericksburg, TX, US"
   },
   {
     "name": "BeerMe BrewCup",
     "judging_date": "2026-06-13",
     "entry_deadline": "2026-05-24",
     "location": "Riverside, CA, US"
+  },
+  {
+    "name": "Wortapalooza",
+    "judging_date": "2026-06-13",
+    "entry_deadline": "2026-06-05",
+    "location": "Itasca, IL, US"
   },
   {
     "name": "Tea Beer Tournament",
@@ -894,13 +900,13 @@
     "location": "Asheville, NC, US"
   },
   {
-    "name": "Grodzisk Beer Competition (Homebrew)",
+    "name": "Grodzisk Beer Competition (Professional)",
     "judging_date": "2026-06-19",
     "entry_deadline": "2026-06-19",
     "location": "Grodzisk Wielkopolski, Wielkopolskie, PL"
   },
   {
-    "name": "Grodzisk Beer Competition (Professional)",
+    "name": "Grodzisk Beer Competition (Homebrew)",
     "judging_date": "2026-06-19",
     "entry_deadline": "2026-06-19",
     "location": "Grodzisk Wielkopolski, Wielkopolskie, PL"
@@ -948,16 +954,16 @@
     "location": ", EC"
   },
   {
-    "name": "Indiana Brewers Cup",
-    "judging_date": "2026-07-11",
-    "entry_deadline": "2026-06-17",
-    "location": "INDIANAPOLIS, IN, US"
-  },
-  {
     "name": "Your Honey or Your Life",
     "judging_date": "2026-07-11",
     "entry_deadline": "2026-06-27",
     "location": "Portland, OR, US"
+  },
+  {
+    "name": "Indiana Brewers Cup",
+    "judging_date": "2026-07-11",
+    "entry_deadline": "2026-06-17",
+    "location": "INDIANAPOLIS, IN, US"
   },
   {
     "name": "Copa San Arnulfo Guadalajara",
@@ -966,16 +972,16 @@
     "location": "Guadalajara, Jal., MX"
   },
   {
-    "name": "Bright Side Of Summer",
-    "judging_date": "2026-07-25",
-    "entry_deadline": "2026-07-11",
-    "location": "Los Angeles, California, US"
-  },
-  {
     "name": "Orpheus MeadFest Homebrew Division",
     "judging_date": "2026-07-25",
     "entry_deadline": "2026-06-05",
     "location": "Denver, Colorado, US"
+  },
+  {
+    "name": "Bright Side Of Summer",
+    "judging_date": "2026-07-25",
+    "entry_deadline": "2026-07-11",
+    "location": "Los Angeles, California, US"
   },
   {
     "name": "Orpheus MeadFest Commercial Division",
@@ -984,16 +990,16 @@
     "location": "Denver, CO, US"
   },
   {
-    "name": "Tennessee State Fair Homebrewing Competition",
-    "judging_date": "2026-08-01",
-    "entry_deadline": "2026-07-10",
-    "location": "Lebanon, TN, US"
-  },
-  {
     "name": "2026 Michigan Beer Cup",
     "judging_date": "2026-08-01",
     "entry_deadline": "2026-07-11",
     "location": "Portage, MI, US"
+  },
+  {
+    "name": "Tennessee State Fair Homebrewing Competition",
+    "judging_date": "2026-08-01",
+    "entry_deadline": "2026-07-10",
+    "location": "Lebanon, TN, US"
   },
   {
     "name": "COPA DE LOS VOLCANES 4TA EDICION",
@@ -1002,13 +1008,13 @@
     "location": "Arequipa, AREQUIPA, PE"
   },
   {
-    "name": "Copa Guaran\u00ed de Cervezas 2026",
+    "name": "Copa Guaran\u00ed de Cervezas 2026 - Caseros (10mo Concurso de Cervezas Caseras del Paraguay)",
     "judging_date": "2026-08-04",
     "entry_deadline": "2026-07-31",
     "location": "Asuncion, Capital, PY"
   },
   {
-    "name": "Copa Guaran\u00ed de Cervezas 2026 - Caseros (10mo Concurso de Cervezas Caseras del Paraguay)",
+    "name": "Copa Guaran\u00ed de Cervezas 2026",
     "judging_date": "2026-08-04",
     "entry_deadline": "2026-07-31",
     "location": "Asuncion, Capital, PY"
@@ -1018,6 +1024,12 @@
     "judging_date": "2026-08-08",
     "entry_deadline": "2026-07-25",
     "location": "Richmond, VA,"
+  },
+  {
+    "name": "Commander SAAZ 2026",
+    "judging_date": "2026-08-15",
+    "entry_deadline": null,
+    "location": ","
   },
   {
     "name": "Korea Homebrew Competition 24th",
@@ -1030,12 +1042,6 @@
     "judging_date": "2026-08-15",
     "entry_deadline": "2026-07-09",
     "location": "Louisville, KY, US"
-  },
-  {
-    "name": "Commander SAAZ 2026",
-    "judging_date": "2026-08-15",
-    "entry_deadline": null,
-    "location": ","
   },
   {
     "name": "Copa Kallisti",
@@ -1056,16 +1062,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -1080,10 +1086,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1092,10 +1098,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1162,6 +1168,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -1170,16 +1188,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -1194,10 +1212,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1206,10 +1224,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1276,6 +1294,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -1284,16 +1314,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -1308,10 +1338,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1320,10 +1350,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1390,6 +1420,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -1398,16 +1440,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -1422,10 +1464,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1434,10 +1476,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1504,6 +1546,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -1512,16 +1566,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -1536,10 +1590,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1548,10 +1602,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1618,6 +1672,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -1626,16 +1692,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -1650,10 +1716,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1662,10 +1728,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1732,6 +1798,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -1740,16 +1818,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -1764,10 +1842,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1776,10 +1854,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1846,6 +1924,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -1854,16 +1944,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -1878,10 +1968,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -1890,10 +1980,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1960,6 +2050,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -1968,16 +2070,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -1992,10 +2094,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2004,10 +2106,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2074,6 +2176,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -2082,16 +2196,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -2106,10 +2220,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2118,10 +2232,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2188,6 +2302,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -2196,16 +2322,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -2220,10 +2346,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2232,10 +2358,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2302,6 +2428,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -2310,16 +2448,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -2334,10 +2472,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2346,10 +2484,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2416,6 +2554,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -2424,16 +2574,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -2448,10 +2598,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2460,10 +2610,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2530,6 +2680,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -2538,16 +2700,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -2562,10 +2724,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2574,10 +2736,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2644,6 +2806,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -2652,16 +2826,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -2676,10 +2850,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2688,10 +2862,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2758,6 +2932,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -2766,16 +2952,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -2790,10 +2976,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2802,10 +2988,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2872,6 +3058,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -2880,16 +3078,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -2904,10 +3102,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -2916,10 +3114,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -2986,6 +3184,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -2994,16 +3204,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -3018,10 +3228,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3030,10 +3240,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3100,6 +3310,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -3108,16 +3330,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -3132,10 +3354,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3144,10 +3366,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3214,6 +3436,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -3222,16 +3456,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -3246,10 +3480,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3258,10 +3492,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3328,6 +3562,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -3336,16 +3582,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -3360,10 +3606,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3372,10 +3618,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3442,6 +3688,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -3450,16 +3708,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -3474,10 +3732,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3486,10 +3744,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3556,6 +3814,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -3564,16 +3834,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -3588,10 +3858,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3600,10 +3870,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3670,6 +3940,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -3678,16 +3960,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -3702,10 +3984,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3714,10 +3996,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3784,6 +4066,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -3792,16 +4086,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -3816,10 +4110,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3828,10 +4122,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -3898,6 +4192,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -3906,16 +4212,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -3930,10 +4236,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -3942,10 +4248,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -4012,6 +4318,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -4020,16 +4338,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -4044,10 +4362,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -4056,10 +4374,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -4126,6 +4444,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -4134,16 +4464,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -4158,10 +4488,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -4170,10 +4500,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -4240,6 +4570,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -4248,16 +4590,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -4272,10 +4614,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -4284,10 +4626,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -4354,6 +4696,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -4362,16 +4716,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -4386,10 +4740,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -4398,10 +4752,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -4468,6 +4822,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -4476,16 +4842,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -4500,10 +4866,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -4512,10 +4878,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -4582,6 +4948,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -4590,16 +4968,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -4614,10 +4992,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -4626,10 +5004,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -4696,6 +5074,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -4704,16 +5094,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -4728,10 +5118,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -4740,10 +5130,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -4810,6 +5200,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -4818,16 +5220,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -4842,10 +5244,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -4854,10 +5256,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -4924,6 +5326,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -4932,16 +5346,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -4956,10 +5370,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -4968,10 +5382,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -5038,6 +5452,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -5046,16 +5472,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -5070,10 +5496,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -5082,10 +5508,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -5152,6 +5578,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -5160,16 +5598,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -5184,10 +5622,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -5196,10 +5634,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -5266,6 +5704,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -5274,16 +5724,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -5298,10 +5748,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -5310,10 +5760,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -5380,6 +5830,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -5388,16 +5850,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -5412,10 +5874,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -5424,10 +5886,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -5494,6 +5956,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -5502,16 +5976,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -5526,10 +6000,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -5538,10 +6012,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -5608,6 +6082,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -5616,16 +6102,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -5640,10 +6126,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -5652,10 +6138,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -5722,6 +6208,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -5730,16 +6228,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -5754,10 +6252,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -5766,10 +6264,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -5836,6 +6334,18 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
+  },
+  {
+    "name": "Honey Beer Competition",
+    "judging_date": "2026-08-22",
+    "entry_deadline": "2026-07-31",
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
@@ -5844,16 +6354,16 @@
     "location": ", Alberta, CA"
   },
   {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
     "name": "King of the Mountain",
     "judging_date": "2026-08-29",
     "entry_deadline": "2026-08-06",
     "location": "Chesterland, Ohio, US"
+  },
+  {
+    "name": "Hopnrolla Home Brew 2026",
+    "judging_date": "2026-08-29",
+    "entry_deadline": "2026-08-28",
+    "location": "Kosice, SK"
   },
   {
     "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
@@ -5868,10 +6378,10 @@
     "location": "Calgary, Alberta, CA"
   },
   {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
+    "entry_deadline": "2026-09-02",
+    "location": "Beavercreek, OH, US"
   },
   {
     "name": "Poetry Slam",
@@ -5880,10 +6390,10 @@
     "location": "Fort Collins, Colorado, US"
   },
   {
-    "name": "Draft BrewFest 2026",
+    "name": "29th Annual Beer Mead and Cider Brew Off",
     "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -5950,5 +6460,11 @@
     "judging_date": "2026-11-21",
     "entry_deadline": "2026-11-14",
     "location": "Dortmund, NRW, DE"
+  },
+  {
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
+    "entry_deadline": "2026-11-01",
+    "location": "Rennes, Ille-et-Vilaine, FR"
   }
 ]
