@@ -456,10 +456,10 @@
     "location": "Litomy\u0161l, The Czech Republic, CZ"
   },
   {
-    "name": "5th Annual H.H. HINDER Head Butt Homebrew Competition",
+    "name": "Yeasty Boi\u2019s: No Sleep \u2019Til Belgium",
     "judging_date": "2026-04-18",
     "entry_deadline": "2026-04-03",
-    "location": "Waupaca, WI, US"
+    "location": "Morristown, NJ, US"
   },
   {
     "name": "TRASH 34",
@@ -468,10 +468,22 @@
     "location": "Oakdale, PA, US"
   },
   {
-    "name": "2026 National Homebrew Competition First Round - Seattle",
+    "name": "Red Earth Brewers Spring Brew Off",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-03-20",
+    "location": "Oklahoma City, OK, US"
+  },
+  {
+    "name": "XVI Competicion Nacional de ACCE",
+    "judging_date": "2026-04-18",
+    "entry_deadline": "2026-04-05",
+    "location": "Valencia, Valencia, ES"
+  },
+  {
+    "name": "2026 National Homebrew Competition First Round - Kansas City, MO",
     "judging_date": "2026-04-18",
     "entry_deadline": "2026-02-25",
-    "location": "Woodinville, WA, US"
+    "location": "Kansas City, MO, US"
   },
   {
     "name": "27th Annual Chico Homebrew Competition",
@@ -480,34 +492,16 @@
     "location": "Chico, CA, US"
   },
   {
-    "name": "Amber Waves of Grain",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-03-25",
-    "location": "Niagara Falls, NY, US"
-  },
-  {
-    "name": "Celebrity Deathmash 2026",
-    "judging_date": "2026-04-18",
-    "entry_deadline": "2026-04-10",
-    "location": "Brighton, MI, US"
-  },
-  {
-    "name": "VanBrewer Awards",
-    "judging_date": "2026-04-19",
-    "entry_deadline": null,
-    "location": "Vancouver, BC, CA"
-  },
-  {
     "name": "Nat\u00fcrlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier)",
     "judging_date": "2026-04-19",
     "entry_deadline": "2026-03-31",
     "location": "Aachen, DE"
   },
   {
-    "name": "The Darkest day",
+    "name": "Club Maillard Biergarten Cup 2026",
     "judging_date": "2026-04-19",
-    "entry_deadline": "2026-04-12",
-    "location": "Bangna, Bangkok, TH"
+    "entry_deadline": "2026-04-01",
+    "location": "Sabadell, Barcelona, ES"
   },
   {
     "name": "2026 National Homebrew Competition First Round - Tampa",
@@ -516,10 +510,16 @@
     "location": "Tampa, FL, US"
   },
   {
-    "name": "Club Maillard Biergarten Cup 2026",
+    "name": "VanBrewer Awards",
     "judging_date": "2026-04-19",
-    "entry_deadline": "2026-04-01",
-    "location": "Sabadell, Barcelona, ES"
+    "entry_deadline": null,
+    "location": "Vancouver, BC, CA"
+  },
+  {
+    "name": "The Darkest day",
+    "judging_date": "2026-04-19",
+    "entry_deadline": "2026-04-12",
+    "location": "Bangna, Bangkok, TH"
   },
   {
     "name": "X Concurso Sul Brasileiro das Acervas",
@@ -534,28 +534,10 @@
     "location": "Ipswich, Suffolk, GB"
   },
   {
-    "name": "2026 Maltose Falcons Mayfaire",
+    "name": "\u9996\u5c4a\u4e2d\u56fd\u8336\u5564\u5927\u8d5b\u4e28The 1st Chinese Tea Beer Awards",
     "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-10",
-    "location": "Woodland Hills, CA, US"
-  },
-  {
-    "name": "COPA LAS CALIFORNIAS",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-11",
-    "location": "La Paz, Baja California Sur, BAJA CALIFORNIA SUR, MX"
-  },
-  {
-    "name": "Greg Noonan Memorial Homebrew Competition",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-03-22",
-    "location": "Burlington, Vermont, US"
-  },
-  {
-    "name": "Primer Concurso CCCUY 2026",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-22",
-    "location": "Montevideo, Montevideo, UY"
+    "entry_deadline": "2026-04-20",
+    "location": "Shanghai, Shanghai, CN"
   },
   {
     "name": "Colorado State Fair Homebrew Competition",
@@ -564,16 +546,52 @@
     "location": "Pueblo, CO, US"
   },
   {
-    "name": "\u9996\u5c4a\u4e2d\u56fd\u8336\u5564\u5927\u8d5b\u4e28The 1st Chinese Tea Beer Awards",
+    "name": "Greg Noonan Memorial Homebrew Competition",
     "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-20",
-    "location": "Shanghai, Shanghai, CN"
+    "entry_deadline": "2026-03-22",
+    "location": "Burlington, Vermont, US"
+  },
+  {
+    "name": "2026 Maltose Falcons Mayfaire",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-10",
+    "location": "Woodland Hills, CA, US"
+  },
+  {
+    "name": "Ales Open",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-10",
+    "location": "Regina, SK, CA"
+  },
+  {
+    "name": "COPA LAS CALIFORNIAS",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-11",
+    "location": "La Paz, Baja California Sur, BAJA CALIFORNIA SUR, MX"
   },
   {
     "name": "Malt Madness",
     "judging_date": "2026-04-25",
     "entry_deadline": "2026-03-20",
     "location": ","
+  },
+  {
+    "name": "Copa Cervecera del Austro 2026",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-03-29",
+    "location": "Cuenca, Azuay, EC"
+  },
+  {
+    "name": "Siciliano's Homebrew Competition",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-04-13",
+    "location": "Grand Rapids, Michigan, US"
+  },
+  {
+    "name": "Hurricane Blowoff 2026",
+    "judging_date": "2026-04-25",
+    "entry_deadline": "2026-03-26",
+    "location": "Boynton Beach, Florida, US"
   },
   {
     "name": "Duel Pokal",
@@ -606,28 +624,16 @@
     "location": "Regina, SK, CA"
   },
   {
-    "name": "32nd Annual Eight Seconds of Froth",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-11",
-    "location": "Cheyenne, WY, US"
-  },
-  {
-    "name": "Copa Cervecera del Austro 2026",
-    "judging_date": "2026-04-25",
-    "entry_deadline": "2026-03-29",
-    "location": "Cuenca, Azuay, EC"
-  },
-  {
     "name": "Hurricane Blowoff 2026",
     "judging_date": "2026-04-25",
     "entry_deadline": "2026-03-26",
     "location": "Boynton Beach, Florida, US"
   },
   {
-    "name": "COPA LAS CALIFORNIAS AMATEUR",
+    "name": "2026 Maltose Falcons Mayfaire",
     "judging_date": "2026-04-25",
-    "entry_deadline": "2026-04-11",
-    "location": "La Paz, Baja California Sur, BAJA CALIFORNIA SUR, MX"
+    "entry_deadline": "2026-04-10",
+    "location": "Woodland Hills, CA, US"
   },
   {
     "name": "Daegu Stout Smackdown",
@@ -642,12 +648,6 @@
     "location": "Pueblo, CO, US"
   },
   {
-    "name": "COHO Spring Fling & Pro/Am",
-    "judging_date": "2026-04-26",
-    "entry_deadline": "2026-04-15",
-    "location": "Redmond, Oregon, US"
-  },
-  {
     "name": "Flat Rock Brew Comp",
     "judging_date": "2026-04-26",
     "entry_deadline": "2026-04-18",
@@ -658,6 +658,18 @@
     "judging_date": "2026-04-26",
     "entry_deadline": "2026-04-19",
     "location": "Sevierville, TN, US"
+  },
+  {
+    "name": "COHO Spring Fling & Pro/Am",
+    "judging_date": "2026-04-26",
+    "entry_deadline": "2026-04-15",
+    "location": "Redmond, Oregon, US"
+  },
+  {
+    "name": "California Commercial Craft Beer",
+    "judging_date": "2026-04-30",
+    "entry_deadline": "2026-04-25",
+    "location": "Sacramento, CA, US"
   },
   {
     "name": "Moravsk\u00e1 Vernis\u00e1\u017e piva",
@@ -672,16 +684,16 @@
     "location": "Muang Chiangmai, Chiangmai, TH"
   },
   {
-    "name": "Erie County Fair Homebrew Competition",
-    "judging_date": "2026-05-09",
-    "entry_deadline": "2026-05-04",
-    "location": "Hamburg, New York, US"
-  },
-  {
     "name": "Lanterna Beers 2026",
     "judging_date": "2026-05-09",
     "entry_deadline": "2026-05-08",
     "location": "Genova, IT"
+  },
+  {
+    "name": "Erie County Fair Homebrew Competition",
+    "judging_date": "2026-05-09",
+    "entry_deadline": "2026-05-04",
+    "location": "Hamburg, New York, US"
   },
   {
     "name": "ARO ROJO",
@@ -696,16 +708,34 @@
     "location": "Bratislava, SK"
   },
   {
-    "name": "Palo Duro Cup",
+    "name": "2026 Buzz Off",
     "judging_date": "2026-05-16",
-    "entry_deadline": "2026-03-18",
-    "location": "Amarillo, TX, US"
+    "entry_deadline": "2026-05-02",
+    "location": "Downingtown, PA, US"
   },
   {
-    "name": "SMASH Homebrewing Competition 2026",
+    "name": "BREW WARS - Episode II - Alte Fermentazioni",
     "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-08",
-    "location": "Split, HR"
+    "entry_deadline": "2026-05-15",
+    "location": "Casette d'Ete (FM), IT"
+  },
+  {
+    "name": "ABC - austrian beer challenge",
+    "judging_date": "2026-05-16",
+    "entry_deadline": "2026-04-17",
+    "location": "Muntlix, Vorarlberg, AT"
+  },
+  {
+    "name": "Lagerpalooza",
+    "judging_date": "2026-05-16",
+    "entry_deadline": "2026-05-10",
+    "location": "Salt Lake City, UT, US"
+  },
+  {
+    "name": "2nd Taiwan Honey Beer home brew competition",
+    "judging_date": "2026-05-16",
+    "entry_deadline": null,
+    "location": ","
   },
   {
     "name": "2026 Alamo City Brew Battle",
@@ -720,16 +750,22 @@
     "location": "Fortaleza, Cear\u00e1, BR"
   },
   {
+    "name": "Palo Duro Cup",
+    "judging_date": "2026-05-16",
+    "entry_deadline": "2026-03-18",
+    "location": "Amarillo, TX, US"
+  },
+  {
+    "name": "SMASH Homebrewing Competition 2026",
+    "judging_date": "2026-05-16",
+    "entry_deadline": "2026-05-08",
+    "location": "Split, HR"
+  },
+  {
     "name": "44th Annual Oregon Homebrew Festival",
     "judging_date": "2026-05-16",
     "entry_deadline": "2026-05-15",
     "location": "Corvallis, Oregon, US"
-  },
-  {
-    "name": "Lagerpalooza",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-10",
-    "location": "Salt Lake City, UT, US"
   },
   {
     "name": "Ozarks Open Season",
@@ -738,40 +774,16 @@
     "location": ", Missouri, US"
   },
   {
-    "name": "2nd Taiwan Honey Beer home brew competition",
-    "judging_date": "2026-05-16",
-    "entry_deadline": null,
-    "location": ","
-  },
-  {
-    "name": "ABC - austrian beer challenge",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-04-17",
-    "location": "Muntlix, Vorarlberg, AT"
-  },
-  {
-    "name": "BREW WARS - Episode II - Alte Fermentazioni",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-15",
-    "location": "Casette d'Ete (FM), IT"
-  },
-  {
-    "name": "2026 Buzz Off",
-    "judging_date": "2026-05-16",
-    "entry_deadline": "2026-05-02",
-    "location": "Downingtown, PA, US"
+    "name": "LAB Open 2026",
+    "judging_date": "2026-05-17",
+    "entry_deadline": "2026-04-19",
+    "location": "London, London, GB"
   },
   {
     "name": "WHO Brews It",
     "judging_date": "2026-05-17",
     "entry_deadline": "2026-05-04",
     "location": "WICHITA, KS, US"
-  },
-  {
-    "name": "LAB Open 2026",
-    "judging_date": "2026-05-17",
-    "entry_deadline": "2026-04-19",
-    "location": "London, London, GB"
   },
   {
     "name": "African Beer Cup",
@@ -804,6 +816,12 @@
     "location": "San Salvador, San Salvador, SV"
   },
   {
+    "name": "2026 Bay Area Brew Off - Alameda County Fair Homebrew Competition",
+    "judging_date": "2026-05-30",
+    "entry_deadline": "2026-05-15",
+    "location": "Pleasanton, CA, US"
+  },
+  {
     "name": "BeerBagia Homebrewing Contest 2026",
     "judging_date": "2026-05-30",
     "entry_deadline": "2026-05-22",
@@ -814,12 +832,6 @@
     "judging_date": "2026-05-30",
     "entry_deadline": "2026-05-01",
     "location": "Budapest, HU"
-  },
-  {
-    "name": "2026 Bay Area Brew Off - Alameda County Fair Homebrew Competition",
-    "judging_date": "2026-05-30",
-    "entry_deadline": "2026-05-15",
-    "location": "Pleasanton, CA, US"
   },
   {
     "name": "BareBottle Homebrew Invitational",
@@ -840,16 +852,16 @@
     "location": "BOGOT\u00c1, BOGOT\u00c1 DC, CO"
   },
   {
+    "name": "Tap Out Homebrew Pro-Am",
+    "judging_date": "2026-06-01",
+    "entry_deadline": "2026-04-10",
+    "location": "Bloomington, IN, US"
+  },
+  {
     "name": "XIX CONCURSO NACIONAL DAS ACERVAS 2026",
     "judging_date": "2026-06-05",
     "entry_deadline": "2026-06-01",
     "location": "Campo Grande, MS, BR"
-  },
-  {
-    "name": "Virginia Craft Brewers Guild",
-    "judging_date": "2026-06-06",
-    "entry_deadline": "2026-05-15",
-    "location": "Richmond, VA, US"
   },
   {
     "name": "MBC meets Osteria La Fabbrica",
@@ -864,10 +876,10 @@
     "location": "Bergamo, IT"
   },
   {
-    "name": "2026 OC Fair Homebrew Competition",
-    "judging_date": "2026-06-07",
-    "entry_deadline": "2026-05-26",
-    "location": "Costa Mesa, CA, US"
+    "name": "Virginia Craft Brewers Guild",
+    "judging_date": "2026-06-06",
+    "entry_deadline": "2026-05-15",
+    "location": "Richmond, VA, US"
   },
   {
     "name": "Fredericksburg Craft Beer Competition",
@@ -876,16 +888,10 @@
     "location": "Fredericksburg, TX, US"
   },
   {
-    "name": "BeerMe BrewCup",
-    "judging_date": "2026-06-13",
-    "entry_deadline": "2026-05-24",
-    "location": "Riverside, CA, US"
-  },
-  {
-    "name": "Wortapalooza",
-    "judging_date": "2026-06-13",
-    "entry_deadline": "2026-06-05",
-    "location": "Itasca, IL, US"
+    "name": "2026 OC Fair Homebrew Competition",
+    "judging_date": "2026-06-07",
+    "entry_deadline": "2026-05-26",
+    "location": "Costa Mesa, CA, US"
   },
   {
     "name": "Tea Beer Tournament",
@@ -894,16 +900,22 @@
     "location": "Monrovia, CA, US"
   },
   {
+    "name": "Wortapalooza",
+    "judging_date": "2026-06-13",
+    "entry_deadline": "2026-06-05",
+    "location": "Itasca, IL, US"
+  },
+  {
+    "name": "BeerMe BrewCup",
+    "judging_date": "2026-06-13",
+    "entry_deadline": "2026-05-24",
+    "location": "Riverside, CA, US"
+  },
+  {
     "name": "2026 National Homebrew Competition - Final Round",
     "judging_date": "2026-06-18",
     "entry_deadline": "2026-05-03",
     "location": "Asheville, NC, US"
-  },
-  {
-    "name": "Grodzisk Beer Competition (Professional)",
-    "judging_date": "2026-06-19",
-    "entry_deadline": "2026-06-19",
-    "location": "Grodzisk Wielkopolski, Wielkopolskie, PL"
   },
   {
     "name": "Grodzisk Beer Competition (Homebrew)",
@@ -912,10 +924,10 @@
     "location": "Grodzisk Wielkopolski, Wielkopolskie, PL"
   },
   {
-    "name": "HomeBrew Cup Chile 2026 - 7th Edition",
-    "judging_date": "2026-06-20",
-    "entry_deadline": "2026-06-13",
-    "location": "Santiago de Chile, Capital, Metropolitana, CL"
+    "name": "Grodzisk Beer Competition (Professional)",
+    "judging_date": "2026-06-19",
+    "entry_deadline": "2026-06-19",
+    "location": "Grodzisk Wielkopolski, Wielkopolskie, PL"
   },
   {
     "name": "GOOD WATER BEER CUP 2026",
@@ -928,6 +940,12 @@
     "judging_date": "2026-06-20",
     "entry_deadline": "2026-05-01",
     "location": "London, GB"
+  },
+  {
+    "name": "HomeBrew Cup Chile 2026 - 7th Edition",
+    "judging_date": "2026-06-20",
+    "entry_deadline": "2026-06-13",
+    "location": "Santiago de Chile, Capital, Metropolitana, CL"
   },
   {
     "name": "Marin County Fair 2026 Homebrew Competition",
@@ -954,28 +972,22 @@
     "location": ", EC"
   },
   {
-    "name": "Your Honey or Your Life",
-    "judging_date": "2026-07-11",
-    "entry_deadline": "2026-06-27",
-    "location": "Portland, OR, US"
-  },
-  {
     "name": "Indiana Brewers Cup",
     "judging_date": "2026-07-11",
     "entry_deadline": "2026-06-17",
     "location": "INDIANAPOLIS, IN, US"
   },
   {
-    "name": "Copa San Arnulfo Guadalajara",
-    "judging_date": "2026-07-23",
-    "entry_deadline": "2026-07-20",
-    "location": "Guadalajara, Jal., MX"
+    "name": "Your Honey or Your Life",
+    "judging_date": "2026-07-11",
+    "entry_deadline": "2026-06-27",
+    "location": "Portland, OR, US"
   },
   {
-    "name": "Orpheus MeadFest Homebrew Division",
-    "judging_date": "2026-07-25",
-    "entry_deadline": "2026-06-05",
-    "location": "Denver, Colorado, US"
+    "name": "Copa San Arnulfo Guadalajara",
+    "judging_date": "2026-07-17",
+    "entry_deadline": "2026-07-14",
+    "location": "Guadalajara, Jal., MX"
   },
   {
     "name": "Bright Side Of Summer",
@@ -984,22 +996,28 @@
     "location": "Los Angeles, California, US"
   },
   {
+    "name": "Orpheus MeadFest Homebrew Division",
+    "judging_date": "2026-07-25",
+    "entry_deadline": "2026-06-05",
+    "location": "Denver, Colorado, US"
+  },
+  {
     "name": "Orpheus MeadFest Commercial Division",
     "judging_date": "2026-07-25",
     "entry_deadline": "2026-06-05",
     "location": "Denver, CO, US"
   },
   {
-    "name": "2026 Michigan Beer Cup",
-    "judging_date": "2026-08-01",
-    "entry_deadline": "2026-07-11",
-    "location": "Portage, MI, US"
-  },
-  {
     "name": "Tennessee State Fair Homebrewing Competition",
     "judging_date": "2026-08-01",
     "entry_deadline": "2026-07-10",
     "location": "Lebanon, TN, US"
+  },
+  {
+    "name": "2026 Michigan Beer Cup",
+    "judging_date": "2026-08-01",
+    "entry_deadline": "2026-07-11",
+    "location": "Portage, MI, US"
   },
   {
     "name": "COPA DE LOS VOLCANES 4TA EDICION",
@@ -1026,16 +1044,16 @@
     "location": "Richmond, VA,"
   },
   {
-    "name": "Commander SAAZ 2026",
-    "judging_date": "2026-08-15",
-    "entry_deadline": null,
-    "location": ","
-  },
-  {
     "name": "Korea Homebrew Competition 24th",
     "judging_date": "2026-08-15",
     "entry_deadline": "2026-07-31",
     "location": "Paju-si, Gyeonggi-do, KR"
+  },
+  {
+    "name": "Commander SAAZ 2026",
+    "judging_date": "2026-08-15",
+    "entry_deadline": null,
+    "location": ","
   },
   {
     "name": "Kentucky State Fair Homebrew Competition",
@@ -1056,6 +1074,12 @@
     "location": "St. Louis, MO, US"
   },
   {
+    "name": "2nd Annual Ogopogo Brewers Challenge (Homebrew & Commercial)",
+    "judging_date": "2026-08-28",
+    "entry_deadline": "2026-08-20",
+    "location": "Kelowna, BC, CA"
+  },
+  {
     "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
     "judging_date": "2026-08-28",
     "entry_deadline": "2026-08-26",
@@ -1086,6 +1110,12 @@
     "location": "Calgary, Alberta, CA"
   },
   {
+    "name": "29th Annual Beer Mead and Cider Brew Off",
+    "judging_date": "2026-09-12",
+    "entry_deadline": "2026-09-04",
+    "location": "Port Jefferson Station, N.Y., US"
+  },
+  {
     "name": "Draft BrewFest 2026",
     "judging_date": "2026-09-12",
     "entry_deadline": "2026-09-02",
@@ -1096,12 +1126,6 @@
     "judging_date": "2026-09-12",
     "entry_deadline": "2026-08-12",
     "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
   },
   {
     "name": "Motown MASH",
@@ -1128,16 +1152,22 @@
     "location": "Centallo (CN), IT"
   },
   {
+    "name": "Brixtoberfest",
+    "judging_date": "2026-10-03",
+    "entry_deadline": "2026-09-18",
+    "location": "Brookfield, IL, US"
+  },
+  {
     "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
     "judging_date": "2026-10-03",
     "entry_deadline": "2026-09-19",
     "location": "Essen, NRW, DE"
   },
   {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
+    "name": "II. Altbier H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026. / II. Altbier Homebrewer Competition 2026.",
+    "judging_date": "2026-10-18",
+    "entry_deadline": "2026-10-01",
+    "location": "Budapest, Pest, HU"
   },
   {
     "name": "Chili Pepper Extravaganza 2026",
@@ -1176,124 +1206,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -1302,124 +1218,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -1428,124 +1230,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -1554,124 +1242,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -1680,124 +1254,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -1806,124 +1266,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -1932,124 +1278,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -2058,124 +1290,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -2184,124 +1302,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -2310,124 +1314,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -2436,124 +1326,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -2562,124 +1338,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -2688,124 +1350,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -2814,124 +1362,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -2940,124 +1374,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -3066,124 +1386,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -3192,124 +1398,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -3318,124 +1410,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -3444,124 +1422,10 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
+    "name": "7th CRAB Homebrewing Competition",
+    "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
+    "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
@@ -3570,2896 +1434,16 @@
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
     "name": "7th CRAB Homebrewing Competition",
     "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
     "location": "Rennes, Ille-et-Vilaine, FR"
   },
   {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
     "name": "7th CRAB Homebrewing Competition",
     "judging_date": "2026-11-28",
     "entry_deadline": "2026-11-01",
     "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
-  },
-  {
-    "name": "7th CRAB Homebrewing Competition",
-    "judging_date": "2026-11-28",
-    "entry_deadline": "2026-11-01",
-    "location": "Rennes, Ille-et-Vilaine, FR"
-  },
-  {
-    "name": "Honey Beer Competition",
-    "judging_date": "2026-08-22",
-    "entry_deadline": "2026-07-31",
-    "location": "St. Louis, MO, US"
-  },
-  {
-    "name": "BRB Sizzlin' Hop Summer Showdown - 3rd Annual",
-    "judging_date": "2026-08-28",
-    "entry_deadline": "2026-08-26",
-    "location": ", Alberta, CA"
-  },
-  {
-    "name": "King of the Mountain",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-06",
-    "location": "Chesterland, Ohio, US"
-  },
-  {
-    "name": "Hopnrolla Home Brew 2026",
-    "judging_date": "2026-08-29",
-    "entry_deadline": "2026-08-28",
-    "location": "Kosice, SK"
-  },
-  {
-    "name": "II. S\u00f6rminta H\u00e1zis\u00f6rf\u0151z\u0151 Verseny 2026.",
-    "judging_date": "2026-08-30",
-    "entry_deadline": "2026-08-16",
-    "location": "Budapest, Pest, HU"
-  },
-  {
-    "name": "Canada Beer Cup Calgary 2026",
-    "judging_date": "2026-08-31",
-    "entry_deadline": null,
-    "location": "Calgary, Alberta, CA"
-  },
-  {
-    "name": "Draft BrewFest 2026",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-02",
-    "location": "Beavercreek, OH, US"
-  },
-  {
-    "name": "Poetry Slam",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-08-12",
-    "location": "Fort Collins, Colorado, US"
-  },
-  {
-    "name": "29th Annual Beer Mead and Cider Brew Off",
-    "judging_date": "2026-09-12",
-    "entry_deadline": "2026-09-04",
-    "location": "Port Jefferson Station, N.Y., US"
-  },
-  {
-    "name": "Motown MASH",
-    "judging_date": "2026-09-19",
-    "entry_deadline": "2026-09-04",
-    "location": "Morristown, NJ, US"
-  },
-  {
-    "name": "Prairie Beer Awards 2025 Saskatoon",
-    "judging_date": "2026-09-25",
-    "entry_deadline": "2026-09-10",
-    "location": "Saskatoon, SK, CA"
-  },
-  {
-    "name": "Sower's Cup",
-    "judging_date": "2026-09-26",
-    "entry_deadline": "2026-09-11",
-    "location": "Lincoln, Nebraska, US"
-  },
-  {
-    "name": "Faida degli Homebrewers Atto X",
-    "judging_date": "2026-09-27",
-    "entry_deadline": "2026-09-11",
-    "location": "Centallo (CN), IT"
-  },
-  {
-    "name": "Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-19",
-    "location": "Essen, NRW, DE"
-  },
-  {
-    "name": "Brixtoberfest",
-    "judging_date": "2026-10-03",
-    "entry_deadline": "2026-09-18",
-    "location": "Brookfield, IL, US"
-  },
-  {
-    "name": "Chili Pepper Extravaganza 2026",
-    "judging_date": "2026-10-24",
-    "entry_deadline": "2026-10-03",
-    "location": "Foxfield, CO, US"
-  },
-  {
-    "name": "Southern New England Regional Homebrew Competition",
-    "judging_date": "2026-10-25",
-    "entry_deadline": "2026-10-10",
-    "location": "Woodbridge, CT, US"
-  },
-  {
-    "name": "Hoppenheimer German Styles",
-    "judging_date": "2026-11-07",
-    "entry_deadline": null,
-    "location": "Dundalk, Louth, IE"
-  },
-  {
-    "name": "SCH Amateur Brewing Championship 19",
-    "judging_date": "2026-11-14",
-    "entry_deadline": "2026-11-01",
-    "location": "Phoenixville, PA, US"
-  },
-  {
-    "name": "Ruhrpottmeisterschaft der Hobbybrauer 2026",
-    "judging_date": "2026-11-21",
-    "entry_deadline": "2026-11-14",
-    "location": "Dortmund, NRW, DE"
   },
   {
     "name": "7th CRAB Homebrewing Competition",
