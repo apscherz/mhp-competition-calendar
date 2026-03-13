@@ -2,2835 +2,2841 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Location: San Rafael\, CA\, US
-SUMMARY:Marin County Fair 2026 Homebrew Competition — Entry Deadline
-UID:bfe6c8b7-a976-4faf-9a5a-c55d9a88603a@bfe6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Location: Ensenada\, Baja California\, MX
-SUMMARY:Copa Cervecera Del Pacifico — Judging Date
-UID:7816863f-9358-4679-87c5-b6b785a29182@7816.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260816
-DESCRIPTION:Location: Budapest\, Pest\, HU
-SUMMARY:II. Sörminta Házisörfőző Verseny 2026. — Entry Deadline
-UID:51509c1d-d88f-42b4-8e7c-115b131dba3f@5150.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Raleigh\, NC\, US
-SUMMARY:Shamrock Open XXXI — Judging Date
-UID:c2b947dd-57b3-4cb1-8a7d-5cfee04971dc@c2b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Location: Los Angeles\, California\, US
-SUMMARY:Bright Side Of Summer — Entry Deadline
-UID:28742ee7-5b0b-473d-b0ce-2e189321022e@2874.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 DESCRIPTION:Location: Boynton Beach\, Florida\, US
 SUMMARY:Hurricane Blowoff 2026 — Judging Date
-UID:3425810b-a048-4c63-b8fd-253a93a007fd@3425.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Location: Lebanon\, TN\, US
-SUMMARY:Tennessee State Fair Homebrewing Competition — Judging Date
-UID:68f047d5-90f3-4d9a-9e9a-603cb3ae966e@68f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: \,
-SUMMARY:Malt Madness — Judging Date
-UID:6c4e47c1-0192-4ff9-b04d-af8f7f4c74c6@6c4e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Oakdale\, PA\, US
-SUMMARY:TRASH 34 — Judging Date
-UID:c553e0d9-b4a6-4e57-adb6-43a27e5e9d92@c553.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-DESCRIPTION:Location: Chesterland\, Ohio\, US
-SUMMARY:King of the Mountain — Entry Deadline
-UID:63f2ef21-d117-436b-9cb9-c5f2d3610e38@63f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:21d30ec4-173a-4ee8-98d9-ef832c0c8022@21d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Location: Bangna\, Bangkok\, TH
-SUMMARY:The Darkest day — Judging Date
-UID:5bd0abc4-381a-4709-9c96-39566b6d8070@5bd0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Location: Gainesville\, FL\, US
-SUMMARY:Hogtown Brew Off — Entry Deadline
-UID:99821cc6-2381-4df7-8224-c7deb6bff3f0@9982.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260323
-DESCRIPTION:Location: Boulder\, Colorado\, US
-SUMMARY:Dredhop 2026 — Entry Deadline
-UID:752855c9-ad55-4633-89df-ca6842792052@7528.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Location: Bergamo\, IT
-SUMMARY:DIASTATICUS – SAISON & FARMHOUSE ALE — Entry Deadline
-UID:8bf66e43-c6d1-4215-9b9e-659be9453402@8bf6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260416
-DESCRIPTION:Location: Daegu\, KR
-SUMMARY:Daegu Stout Smackdown — Entry Deadline
-UID:f4a31594-9162-4fa2-a47c-65c2e2d4ab79@f4a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:1d7bc2ad-a425-4e30-8900-cef207f992ff@1d7b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:ea5e4415-b3ab-40c3-9028-ec53762e1aab@ea5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Bloomington\, IN\, US
-SUMMARY:Tap Out Homebrew Pro-Am — Entry Deadline
-UID:b707aaca-482d-47ed-9901-20b81c544924@b707.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-DESCRIPTION:Location: Walnut Creek\, CA\, US
-SUMMARY:BareBottle Homebrew Invitational — Entry Deadline
-UID:f764cc1e-2eeb-4a84-8d8a-e25e6bda0dc9@f764.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Location: Sevierville\, TN\, US
-SUMMARY:Bruce Street Brewfest Homebrew Competition — Judging Date
-UID:d4650e30-0d1b-48ec-b770-d4cd242e0423@d465.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Location: San Salvador\, San Salvador\, SV
-SUMMARY:Copa C4 — Entry Deadline
-UID:28bc06a4-92c8-4d7f-8ccb-723f1c01b74e@28bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:Location: Houston\, Texas\, US
-SUMMARY:29th Annual Big Batch Brew Bash (BBBB) — Judging Date
-UID:2d1f95b0-465c-4fd2-8f5f-c6d27b761591@2d1f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:Location: Richmond\, VA\,
-SUMMARY:Dominion Cup 2026 — Entry Deadline
-UID:3e9d1421-c62a-4c56-b45e-45d56212304c@3e9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:6ee0fe71-6ece-4549-a3ec-f92e93e97a14@6ee0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: Salt Lake City\, UT\, US
-SUMMARY:Lagerpalooza — Judging Date
-UID:51ac1196-f9e8-4ac5-b37c-b801b6b9d6f6@51ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260413
-DESCRIPTION:Location: Grand Rapids\, Michigan\, US
-SUMMARY:Siciliano's Homebrew Competition — Entry Deadline
-UID:63d350ec-cda0-408f-bd94-5a618bd20e7c@63d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Location: Monrovia\, CA\, US
-SUMMARY:Tea Beer Tournament — Judging Date
-UID:1aa424ae-125f-413c-bee2-1d8841b27ae5@1aa4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:a057fd4d-2183-400c-89d6-564a029e8879@a057.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Location: Arona (NO)\, IT
-SUMMARY:I° Arona Homebrewing Contest — Entry Deadline
-UID:0793a2ef-a477-42cd-8fdf-4f44ab2f3fbf@0793.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Location: Sabadell\, Barcelona\, ES
-SUMMARY:Club Maillard Biergarten Cup 2026 — Judging Date
-UID:4c14635f-ede7-46d7-9949-38df28a48392@4c14.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Location: Milano\, Milano\, IT
-SUMMARY:BrewIT goes BLACK — Entry Deadline
-UID:8f4415f9-a42f-4fff-a8f9-521b21e4e642@8f44.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Mexicali\, Baja California\, MX
-SUMMARY:Guerreras del Lupulo 2026 — Judging Date
-UID:a9503d6b-690a-4861-909c-6f3c36f24c4c@a950.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Location: Woodinville\, WA\, US
-SUMMARY:2026 National Homebrew Competition First Round - Seattle — Entry Deadline
-UID:fc24dc4d-a6a5-4061-ae73-71eeea84a1a4@fc24.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:39d25c90-e0fa-4667-a98c-f87c2dcefc4b@39d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Location: Richmond\, VA\,
-SUMMARY:Dominion Cup 2026 — Judging Date
-UID:0ecf78c6-a041-421b-b1f0-2bcc8a152c67@0ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: La Redondela\, ANDALUCÍA\, ES
-SUMMARY:IV Concurso Homebrewer Save The Lagers — Judging Date
-UID:c29d67a6-818b-455a-94f7-a9d775f87eb0@c29d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:950778b6-b889-4812-bc6e-d8d3000fde55@9507.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: \, Missouri\, US
-SUMMARY:Ozarks Open Season — Judging Date
-UID:12de1818-640e-480e-afc2-fe1e6937a2ff@12de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Location: San Antonio\, TX\, US
-SUMMARY:2026 Alamo City Brew Battle — Entry Deadline
-UID:9e221d17-e114-421f-a41f-59f811285853@9e22.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Pueblo\, CO\, US
-SUMMARY:Colorado State Fair Homebrew Competition — Judging Date
-UID:f506af01-f476-4580-bdca-15beacadfdb3@f506.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-DESCRIPTION:Location: Bratislava\, SK
-SUMMARY:Bratislavsky Hrncova 2026 — Entry Deadline
-UID:5d0b4a3d-f0a1-4c66-a767-b72f2cd6de34@5d0b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: San Antonio\, TX\, US
-SUMMARY:2026 Alamo City Brew Battle — Judging Date
-UID:e012db94-d6ed-49d2-a61f-9ab89bb55347@e012.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Location: Tampa\, FL\, US
-SUMMARY:2026 National Homebrew Competition First Round - Tampa — Judging Date
-UID:4206e243-9b37-4c44-a87f-d91c29f3cfc6@4206.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260627
-DESCRIPTION:Location: Portland\, OR\, US
-SUMMARY:Your Honey or Your Life — Entry Deadline
-UID:183af1c1-17ee-4bbc-ac17-025f59ce2a51@183a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Location: \,
-SUMMARY:Malt Madness — Entry Deadline
-UID:4d46ac37-a3b6-4e4e-bfee-9118996972e3@4d46.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260307
-DESCRIPTION:Location: Hampton\, VA\, US
-SUMMARY:19th Annual Virginia Beer Blitz — Entry Deadline
-UID:02ea56bf-2ad4-44e1-95a0-0bc4c11a7b26@02ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-DESCRIPTION:Location: Upper Hutt\, NZ
-SUMMARY:Autumn Invitational — Entry Deadline
-UID:ae81eb7d-88e6-4489-a43d-49a940ed412b@ae81.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Location: La Crosse\, WI\, US
-SUMMARY:Between the Bluffs homebrew competition — Judging Date
-UID:3e0ddc90-df5b-4a46-a452-ab529f902289@3e0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260326
-DESCRIPTION:Location: Boynton Beach\, Florida\, US
-SUMMARY:Hurricane Blowoff 2026 — Entry Deadline
-UID:5bae9edd-96fb-446f-85d0-95b96fcf0aaf@5bae.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Location: Hickory\, NC\, US
-SUMMARY:Carolinas Championship of Beer 2026 — Entry Deadline
-UID:b1e73246-4301-43e9-b65e-976df4de3242@b1e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Location: Indianapolis\, IN\, US
-SUMMARY:2026 National Homebrew Competition First Round - Indianapolis — Entry Deadline
-UID:4e7b3aed-7daa-46c0-9da3-39f6d063b2e3@4e7b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Regina\, SK\, CA
-SUMMARY:Ales Open — Entry Deadline
-UID:90c1a0d0-ca77-4f27-bda8-4ac2c35ac871@90c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260526
-DESCRIPTION:Location: Costa Mesa\, CA\, US
-SUMMARY:2026 OC Fair Homebrew Competition — Entry Deadline
-UID:49617b9d-ee2c-4850-b419-ca844b2fbeef@4961.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: San Bernardino\, Cordillera\, PY
-SUMMARY:V Paraguayan Cup — Judging Date
-UID:f322d12f-fb11-47e0-8a41-865e06ada3c4@f322.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DESCRIPTION:Location: Gavoi\, Sardinia\, IT
-SUMMARY:BeerBagia Homebrewing Contest 2026 — Judging Date
-UID:2c997627-fc36-4f7a-9ab4-5dd62cf9fd9a@2c99.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Szeged\, CSM\, HU
-SUMMARY:V. CORSO-KORSÓ HÁZISÖRFŐZŐK VERSENYE — Judging Date
-UID:3f4f194e-57f1-4bf2-9288-c92a0eed3559@3f4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260131
-DESCRIPTION:Location: Rome\, IT
-SUMMARY:Lost and Found 4 old-style homebrewing contest — Entry Deadline
-UID:254d51c8-1534-4fba-a01f-96ec704f0761@254d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-DESCRIPTION:Location: San Salvador\, San Salvador\, SV
-SUMMARY:Copa C4 — Judging Date
-UID:614d4ab9-e28d-4fdd-940c-ac63d72ed8e8@614d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:Location: Fredericksburg\, TX\, US
-SUMMARY:Fredericksburg Craft Beer Competition — Judging Date
-UID:87def74d-738b-4f0e-a9e0-23bafd866ae2@87de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: Muntlix\, Vorarlberg\, AT
-SUMMARY:ABC - austrian beer challenge — Judging Date
-UID:ce38a2fc-6189-4806-a10f-bdaf273a4d12@ce38.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260307
-DESCRIPTION:Location: Colorado Springs\, CO\, US
-SUMMARY:Peterson Homebrew Fest — Entry Deadline
-UID:dcb128af-73bb-492a-8392-d61b957d8eb9@dcb1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Location: Beavercreek\, OH\, US
-SUMMARY:Draft BrewFest 2026 — Judging Date
-UID:f516412f-3c45-4481-a763-299499d11380@f516.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:858dd8a6-7497-44b9-bbcd-525fd28b9472@858d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:e46c0030-3280-4f8c-b154-0011d0da7798@e46c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:bf16ba5b-5b40-4cb4-8183-e4085b275f7b@bf16.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:Location: Monrovia\, CA\, US
-SUMMARY:Tea Beer Tournament — Entry Deadline
-UID:64cb12d4-1e9c-415e-98f9-e14a410590a8@64cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: \,
-SUMMARY:2nd Taiwan Honey Beer home brew competition — Judging Date
-UID:23954779-76b5-4638-98d7-916075da4a40@2395.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:0ce7584b-94ad-497d-957f-36f2f793b358@0ce7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:b25e2376-c7c0-419a-91bb-21c970125aba@b25e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Location: Aci Castello (CT)\, Non-USA\, Non-Canada\, IT
-SUMMARY:Trinacria Homebrewers Championship 2026 - I Tappa — Entry Deadline
-UID:396c777f-e15d-43b9-b376-6f5751e017b9@396c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-DESCRIPTION:Location: Sacramento\, CA\, US
-SUMMARY:California Commercial Craft Beer — Judging Date
-UID:9f08ac2e-8855-4fd9-96bf-3a56aa57e5d6@9f08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260421
-DESCRIPTION:Location: Curitiba\, Paraná\, BR
-SUMMARY:X Concurso Sul Brasileiro das Acervas — Judging Date
-UID:dce9d989-d8d8-4d7d-8d95-aa33d0dfdba6@dce9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Location: Richmond\, VA\, US
-SUMMARY:Virginia Craft Brewers Guild — Judging Date
-UID:f9894310-c90d-45cd-835c-43e88bc0e176@f989.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:Location: Denver\, CO\, US
-SUMMARY:Orpheus MeadFest Commercial Division — Judging Date
-UID:84e123fb-0324-4f7e-87e7-1278d921b91e@84e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Location: Rockville\, Maryland\, US
-SUMMARY:Spirit of Free Beer — Judging Date
-UID:325bf09d-05a9-4454-9226-e9169d4e5665@325b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Longmont\, CO\, US
-SUMMARY:2026 National Homebrew Competition First Round - Longmont\, CO — Judging Date
-UID:a4a91b5f-0ff4-44ff-94d7-80591cbc832b@a4a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Location: Bratislava\, SK
-SUMMARY:Bratislavsky Hrncova 2026 — Judging Date
-UID:6fadc633-5ea6-445c-8d45-391c61adf814@6fad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Melbourne\, Victoria\, AU
-SUMMARY:Merri Mashers IPA Competition 2026 — Entry Deadline
-UID:ce38cde7-6869-4a54-b1b0-810b87a6f9de@ce38.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-DESCRIPTION:Location: Columbus\, Ohio\, US
-SUMMARY:SODZ British Beerfest — Entry Deadline
-UID:bfed5c7d-d820-4abf-8e96-74cc52da4530@bfed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DESCRIPTION:Location: Lincoln\, Nebraska\, US
-SUMMARY:Sower's Cup — Judging Date
-UID:4bc8240d-1399-4cd5-b13b-4a84051dc055@4bc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Location: Dortmund\, NRW\, DE
-SUMMARY:Ruhrpottmeisterschaft der Hobbybrauer 2026 — Entry Deadline
-UID:3f343b64-8294-42b4-881a-9c7f1c495d6a@3f34.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Location: Tampa\, FL\, US
-SUMMARY:2026 National Homebrew Competition First Round - Tampa — Entry Deadline
-UID:f24ddb77-2c52-499b-91ef-e6cd15f573ae@f24d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260601
-DESCRIPTION:Location: Fredericksburg\, TX\, US
-SUMMARY:Fredericksburg Craft Beer Competition — Entry Deadline
-UID:09b77f2c-2431-4dd7-b3fd-77d41afc7e4a@09b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260326
-DESCRIPTION:Location: Boynton Beach\, Florida\, US
-SUMMARY:Hurricane Blowoff 2026 — Entry Deadline
-UID:33fc021a-18e5-4d35-8e5b-db7a55253b41@33fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Location: Colorado Springs\, CO\, US
-SUMMARY:Peterson Homebrew Fest — Judging Date
-UID:6f31561e-3549-4f7f-b23c-0111f1630c3f@6f31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:14f2b604-a943-4bc7-b61f-92134f5fdcc7@14f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Location: Grand Junction\, CO\, US
-SUMMARY:Collared Lizard Classic 2026 — Entry Deadline
-UID:c6eb79fe-a161-4a8f-ba3b-48b5449dd13b@c6eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Location: Louisville\, KY\, US
-SUMMARY:Kentucky State Fair Homebrew Competition — Entry Deadline
-UID:de060b23-3935-46d5-b12c-64217326f5ed@de06.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Location: Bałtów\, Świętokrzyskie\, PL
-SUMMARY:MPPD 2026 - Polish Open Homebrewers Championship — Entry Deadline
-UID:5fc7c10e-2f1a-4080-808e-afa9fdbd9585@5fc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Location: Cape Town\, ZA
-SUMMARY:African Beer Cup — Entry Deadline
-UID:39df8af9-f1d5-4193-8eb8-c12448d9f0df@39df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Location: Frankenmuth\, MI\, US
-SUMMARY:World Expo of Beer Commercial Competition — Entry Deadline
-UID:61e9428e-d52d-4f99-9fcb-92dae909179d@61e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Location: Phoenixville\, PA\, US
-SUMMARY:SCH Amateur Brewing Championship 19 — Judging Date
-UID:5a52c09c-b39f-48d2-9a17-07926d57b077@5a52.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260514
-DESCRIPTION:Location: Fortaleza\, Ceará\, BR
-SUMMARY:Concurso Estadual de cervejeiros caseiros do Ceará 2026 - ACervA Cearense — Entry Deadline
-UID:f4de2cbf-3cae-46e7-a501-c428ab9cfb86@f4de.org
+UID:a0a51ed6-6e74-4171-9726-874a66383a47@a0a5.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
 DESCRIPTION:Location: Morristown\, NJ\, US
 SUMMARY:Yeasty Boi’s: No Sleep ’Til Belgium — Entry Deadline
-UID:7c9e72c5-ec0e-4a67-87b7-0dc92a5c31a4@7c9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Morristown\, NJ\, US
-SUMMARY:Yeasty Boi’s: No Sleep ’Til Belgium — Judging Date
-UID:33c71024-9577-4a71-bd68-31df66a90165@33c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Location: Port Jefferson Station\, N.Y.\, US
-SUMMARY:29th Annual Beer Mead and Cider Brew Off — Judging Date
-UID:5097b9c9-a85c-48df-b834-0f1a62ca89a9@5097.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Location: Bangna\, Bangkok\, TH
-SUMMARY:The Darkest day — Entry Deadline
-UID:69d6c3a8-dc32-451b-b198-abd6e1ae6c7f@69d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:370e179b-5dae-4110-801d-dcca84fe2744@370e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Location: Lincoln\, Nebraska\, US
-SUMMARY:Sower's Cup — Entry Deadline
-UID:9f5bbe4f-b97c-44aa-9964-b777eecd3820@9f5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Location: Indianapolis\, IN\, US
-SUMMARY:2026 National Homebrew Competition First Round - Indianapolis — Judging Date
-UID:87b2240a-e7f0-4e0d-aa1c-c0793a39ef89@87b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:6d3a5441-e7d0-4848-b3e7-b591a6758134@6d3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Location: Oklahoma City\, OK\, US
-SUMMARY:Red Earth Brewers Spring Brew Off — Entry Deadline
-UID:413421e1-2c31-4db9-a2b7-bb2d49cd3b9b@4134.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Location: Woodinville\, WA\, US
-SUMMARY:Cascade Brewers Cup — Judging Date
-UID:acddb4b1-d3fa-4191-8972-b86119ef52b7@acdd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Location: Clinton\, Mississippi\, US
-SUMMARY:Red Brick Brew — Entry Deadline
-UID:8b0e11c9-ef4a-4976-ab2f-4124a0cdf5a7@8b0e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Location: Downingtown\, PA\, US
-SUMMARY:2026 Buzz Off — Entry Deadline
-UID:6b23382f-4be3-42c7-b43f-8777d6f35f11@6b23.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Location: \,
-SUMMARY:Coal Country Brewers Cup 2026 — Judging Date
-UID:2774ab39-49a3-445b-b46f-2a366aa63580@2774.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DESCRIPTION:Location: San Rafael\, CA\, US
-SUMMARY:Marin County Fair 2026 Homebrew Competition — Judging Date
-UID:31749b1c-e61c-4df1-986d-2a71ee8c21eb@3174.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Santa Rosa\, CA\, US
-SUMMARY:Battle of the Brews — Judging Date
-UID:88ce7afb-b307-4a0b-82de-258aa6705274@88ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Longmont\, CO\, US
-SUMMARY:Peak-to-Peak ProAm 2026 — Judging Date
-UID:76948212-6a0e-45a2-bf7b-c4d7d5ceb010@7694.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Location: Lebanon\, NJ\, US
-SUMMARY:8th Annual Garden State Homebrew Competition — Entry Deadline
-UID:392ea9ba-613a-4de0-923d-b92780fbf9f4@392e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Location: Chicago\, IL\, US
-SUMMARY:2026 National Homebrew Competition First Round - Chicago — Entry Deadline
-UID:04ea14f4-9470-49d7-a2c5-86eed1b58f33@04ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:39f11200-547c-4aed-88db-92718458fd3a@39f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-DESCRIPTION:Location: Asheville\, NC\, US
-SUMMARY:2026 National Homebrew Competition - Final Round — Judging Date
-UID:8dfd595e-def8-45cd-a15a-12bb796d18b9@8dfd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Location: Aachen\, DE
-SUMMARY:Natürlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier) — Judging Date
-UID:82b46b6f-d3e0-4e60-84c3-beea9f55cc59@82b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DESCRIPTION:Location: Szeged\, CSM\, HU
-SUMMARY:V. CORSO-KORSÓ HÁZISÖRFŐZŐK VERSENYE — Entry Deadline
-UID:0ec18aa5-fb77-4279-9568-e231368d587d@0ec1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DESCRIPTION:Location: Foxfield\, CO\, US
-SUMMARY:Chili Pepper Extravaganza 2026 — Judging Date
-UID:6dace341-8406-425b-bd67-32191aab63af@6dac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Location: Sevierville\, TN\, US
-SUMMARY:Bruce Street Brewfest Homebrew Competition — Entry Deadline
-UID:32b2cf3b-31d4-49d2-af2e-68d93d483864@32b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Washington\, DC\, US
-SUMMARY:Cherry Blossom Homebrew Competition — Entry Deadline
-UID:d7179de2-12a3-47bf-ae94-ee07ddb540e9@d717.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Location: TAMPICO\, MX
-SUMMARY:ARO ROJO — Entry Deadline
-UID:f4fa4b54-8781-4be8-81d3-7274032f2524@f4fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Woodland Hills\, CA\, US
-SUMMARY:2026 Maltose Falcons Mayfaire — Judging Date
-UID:51e18964-5ba4-422f-9c58-561da69b123e@51e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260415
-DESCRIPTION:Location: Redmond\, Oregon\, US
-SUMMARY:COHO Spring Fling & Pro/Am — Entry Deadline
-UID:75cc449e-b8bf-465d-83c6-8a961e35dee6@75cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Valencia\, Valencia\, ES
-SUMMARY:XVI Competicion Nacional de ACCE — Judging Date
-UID:5b346851-6ea2-49b5-b03f-5597230096d1@5b34.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DESCRIPTION:Location: Kelowna\, BC\, CA
-SUMMARY:2nd Annual Ogopogo Brewers Challenge (Homebrew & Commercial) — Judging Date
-UID:73c22e70-8e39-405b-bb15-6d4c6929065b@73c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Location: Rennes\, FR
-SUMMARY:Saint Malo Craft Beer Expo Homebrew Competition 2026 — Entry Deadline
-UID:c57e1f4f-24f6-4fbd-8e55-86372c205184@c57e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Rome\, IT
-SUMMARY:Lost and Found 4 old-style homebrewing contest — Judging Date
-UID:79d33f7a-3bd3-4b7a-8cd2-66dec5182f51@79d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Rondebosch\, Western Cape\, ZA
-SUMMARY:FOOLS AND FANS 9 — Judging Date
-UID:d844381a-a128-4b73-8612-e3d55b884638@d844.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Location: Woodbridge\, CT\, US
-SUMMARY:Southern New England Regional Homebrew Competition — Entry Deadline
-UID:34930672-aede-4f44-93e5-05359a909ef8@3493.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260601
-DESCRIPTION:Location: BOGOTÁ\, BOGOTÁ DC\, CO
-SUMMARY:Copa de Las Alturas 2026 — Judging Date
-UID:8b4fbdb0-e211-42fb-ab47-bb2b04172f65@8b4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Location: Santiago de Chile\, Capital\, Metropolitana\, CL
-SUMMARY:HomeBrew Cup Chile 2026 - 7th Edition — Entry Deadline
-UID:db266849-228c-4c6f-8dcb-ef93440fd7a4@db26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Eunice\, LA\, US
-SUMMARY:Boot Brew Fest — Judging Date
-UID:7c8a1a43-dd6c-4fa0-b9a0-4b3cb296d664@7c8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260408
-DESCRIPTION:Location: Ciudad de Mexico\, Ciudad de Mexico\, MX
-SUMMARY:COPA MEGA BEERFEST 4a Ed — Entry Deadline
-UID:b15b3595-21a4-4761-8086-862e580206b8@b15b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Location: Duluth\, MN\, US
-SUMMARY:Great Northern Brew Ha Ha — Entry Deadline
-UID:392980cd-fe06-470e-b308-68194a63ed02@3929.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260401
-DESCRIPTION:Location: Barcelona\, Barcelona\, ES
-SUMMARY:European Ferment Masters — Entry Deadline
-UID:d4aa3f35-7c1c-46e4-9986-75dd0f13e758@d4aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Boynton Beach\, Florida\, US
-SUMMARY:Hurricane Blowoff 2026 — Judging Date
-UID:4d01ae86-f6de-4ab3-9644-ce882ee3e1a9@4d01.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260601
-DESCRIPTION:Location: Bloomington\, IN\, US
-SUMMARY:Tap Out Homebrew Pro-Am — Judging Date
-UID:591311c2-037f-4de5-8054-37891415e37d@5913.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:b881f701-b567-4ed2-94da-3b504ef93367@b881.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:01a498bd-696a-4fb5-b4f0-910cbe844cf0@01a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Location: Budapest\, HU
-SUMMARY:XIV. HOMEBREWERS INTERNATIONAL COMPETITION - HUNGARY — Entry Deadline
-UID:006a332b-6031-4aca-b28a-d63f1c967bc1@006a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Location: Grodzisk Wielkopolski\, Wielkopolskie\, PL
-SUMMARY:Grodzisk Beer Competition (Homebrew) — Entry Deadline
-UID:443649db-438e-457c-82c3-8aa0bd59b010@4436.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Oklahoma City\, OK\, US
-SUMMARY:Red Earth Brewers Spring Brew Off — Judging Date
-UID:d0a4c23f-7934-4ceb-b8a5-312f46107a99@d0a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Regina\, SK\, CA
-SUMMARY:Ales Open — Entry Deadline
-UID:0993136e-3510-43c3-a932-f26061364123@0993.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Burlington\, Vermont\, US
-SUMMARY:Greg Noonan Memorial Homebrew Competition — Judging Date
-UID:9474e60b-e8d9-45a4-8ecc-63104e4017be@9474.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Location: Orlando\, FL\, US
-SUMMARY:Hot N Humid 2026 — Entry Deadline
-UID:8f13d968-8232-436e-b56c-9cb16caae90b@8f13.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Oklahoma City\, OK\, US
-SUMMARY:Red Earth Brewers Spring Brew Off — Judging Date
-UID:f965cd4b-b1fa-446c-bed3-1780d76602d5@f965.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Location: Milano\, Milano\, IT
-SUMMARY:BrewIT goes BLACK — Judging Date
-UID:6100c4e1-cff2-4bf8-8963-0b133aa9f771@6100.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260415
-DESCRIPTION:Location: Ciudad de Mexico\, Ciudad de Mexico\, MX
-SUMMARY:COPA MEGA BEERFEST 4a Ed — Judging Date
-UID:e37b52bb-ca48-481a-a2bc-06a04ecf968e@e37b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:ed528ce9-8f62-4b29-adb0-bc8885335abe@ed52.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260413
-DESCRIPTION:Location: Grand Rapids\, Michigan\, US
-SUMMARY:Siciliano's Homebrew Competition — Entry Deadline
-UID:8037888a-0ee7-4084-b66b-78c5bb68fe8d@8037.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Location: St. Louis\, MO\, US
-SUMMARY:Honey Beer Competition — Entry Deadline
-UID:7c9dd2c2-5c95-4582-a349-02ee3bbce7ce@7c9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:Location: Walnut Creek\, CA\, US
-SUMMARY:BareBottle Homebrew Invitational — Judging Date
-UID:c6bd506f-5f53-4f20-93b2-26ea38ea7afd@c6bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DESCRIPTION:Location: \,
-SUMMARY:Commander SAAZ 2026 — Judging Date
-UID:1bcbf01b-aa48-4ea1-9284-964fb54039f9@1bcb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Location: Chico\, CA\, US
-SUMMARY:27th Annual Chico Homebrew Competition — Entry Deadline
-UID:e3cf9e9a-a589-4c06-b1b9-cf08367b30e1@e3cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Pueblo\, CO\, US
-SUMMARY:Colorado State Fair Homebrew Competition — Entry Deadline
-UID:f0fb2bb2-1f41-4156-b190-9f3bf3d05b9a@f0fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Woodland Hills\, CA\, US
-SUMMARY:2026 Maltose Falcons Mayfaire — Entry Deadline
-UID:1decdbab-9ab0-4202-9f58-2103c287a323@1dec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:bb3b9590-506f-4410-83a5-2e03cf0be02e@bb3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:f0f21193-10e5-4741-b857-4128b2526e51@f0f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Regina\, SK\, CA
-SUMMARY:Ales Open — Judging Date
-UID:3c5237ba-f63f-4cc9-80b6-fc70732ac71d@3c52.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:93102726-5029-4b54-a943-39f78d6267b7@9310.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Valencia\, Valencia\, ES
-SUMMARY:XVI Competicion Nacional de ACCE — Judging Date
-UID:7a61e5ae-2717-441a-9226-04998d468a5a@7a61.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260415
-DESCRIPTION:Location: Litomyšl\, The Czech Republic\, CZ
-SUMMARY:Litomyšlský Korbel 2026 — Entry Deadline
-UID:86afb4c9-f343-4d82-9f16-bd3f9427c660@86af.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: San Diego\, CA\,
-SUMMARY:America's Finest City Homebrew Competition 2026 — Judging Date
-UID:0c1f2ec4-60d4-4773-bb11-a42a520860aa@0c1f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Location: Corvallis\, Oregon\, US
-SUMMARY:44th Annual Oregon Homebrew Festival — Entry Deadline
-UID:c21cc916-213d-4a1d-8dc5-1a8fe6f23802@c21c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: Split\, HR
-SUMMARY:SMASH Homebrewing Competition 2026 — Judging Date
-UID:c26aa349-cd1a-4bb2-977e-559bd4684496@c26a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:1b3144cb-c7df-4e29-912d-c005224b2597@1b31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Location: Tempe\, AZ\, US
-SUMMARY:2026 ASH Cactus Classic — Judging Date
-UID:06207b7a-076c-45fd-bcaf-31a8234bd326@0620.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:0a306e86-9af1-4e10-94b4-33cb824dc2a9@0a30.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:96f60799-d925-43f8-83cf-9a50e6d5dba7@96f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Location: Hoover\, AL\, US
-SUMMARY:Alabama Brewer's Cup — Judging Date
-UID:cd56e4db-24b3-4244-9ff4-0f712fff4d79@cd56.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Woodland Hills\, CA\, US
-SUMMARY:2026 Maltose Falcons Mayfaire — Judging Date
-UID:07e749a4-8811-4ade-b742-0a8894e9f677@07e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Pula\, Istria\, HR
-SUMMARY:Duel Pokal — Judging Date
-UID:afae795f-8d89-4655-84f5-26eda9ffdbdb@afae.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Location: Casette d'Ete (FM)\, IT
-SUMMARY:BREW WARS - Episode II - Alte Fermentazioni — Entry Deadline
-UID:d0d0b3f5-91c5-4014-897c-60cf58dd7d5a@d0d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:5d146d74-742d-4de3-9b70-06c2020c6966@5d14.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260415
-DESCRIPTION:Location: Santiago\, Metropolitana de Santiago\, CL
-SUMMARY:Copa ACI 2026 — Judging Date
-UID:6ad4ea79-6f0f-4e99-ba51-8e9020dafd2a@6ad4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260512
-DESCRIPTION:Location: TAMPICO\, MX
-SUMMARY:ARO ROJO — Judging Date
-UID:03646929-ca52-4899-9cba-bf94d5640b75@0364.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Barcelona\, Barcelona\, ES
-SUMMARY:European Ferment Masters — Judging Date
-UID:2318ded2-bcf8-4115-bf93-ef574baec162@2318.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:d31e213c-0b1c-43c9-9b7c-edd7152185ef@d31e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Location: Saskatoon\, SK\, CA
-SUMMARY:Prairie Beer Awards 2025 Saskatoon — Judging Date
-UID:c14a310d-b80b-4986-b46c-bab8bfd0d0ee@c14a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Location: Asuncion\, Capital\, PY
-SUMMARY:Copa Guaraní de Cervezas 2026 - Caseros (10mo Concurso de Cervezas Caseras del Paraguay) — Entry Deadline
-UID:bb5b3d5c-ead4-48ad-a014-6689cff84b79@bb5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:Location: Lebanon\, NJ\, US
-SUMMARY:8th Annual Garden State Homebrew Competition — Judging Date
-UID:196f4060-8c35-435a-8a48-b23f8b6a4a9f@196f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Location: Grodzisk Wielkopolski\, Wielkopolskie\, PL
-SUMMARY:Grodzisk Beer Competition (Professional) — Judging Date
-UID:89a41fbe-dd19-4273-8fb0-3c7f09bf743f@89a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260326
-DESCRIPTION:Location: Rancho Cordova\, CA\, US
-SUMMARY:Brewers Cup Of California — Judging Date
-UID:2ad198d3-831f-4216-ad85-d1b449805e16@2ad1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Location: Essen\, NRW\, DE
-SUMMARY:Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co — Judging Date
-UID:9fa901ef-9361-42b0-8af0-b98889ef05d8@9fa9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Location: Muang Chiangmai\, Chiangmai\, TH
-SUMMARY:North Beer Challenge 2026 — Entry Deadline
-UID:f54d5392-5ebc-4cbb-a1ab-e7ae40735a48@f54d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:9bd6b33c-5961-402b-a4b5-6af41744da41@9bd6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Frankenmuth\, MI\, US
-SUMMARY:World Expo of Beer Commercial Competition — Judging Date
-UID:df207864-3859-4b3b-8c15-2a34f6c3897e@df20.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:Location: Costa Mesa\, CA\, US
-SUMMARY:2026 OC Fair Homebrew Competition — Judging Date
-UID:f537fe37-00e9-4f35-b74f-814608636e66@f537.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:d2560b88-f596-4ac8-98fe-2c5704ea7cf2@d256.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Location: Walnut Creek\, California\, US
-SUMMARY:2026 National Homebrew Competition First Round - San Francisco Region — Judging Date
-UID:9262d5b4-6518-47e2-9fd9-212c90e97584@9262.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Location: \, AR
-SUMMARY:Copa Argentina de Cervezas XI & South Beer Cup\, The Champions XIV — Judging Date
-UID:11ccefe3-134c-4f40-9720-87e76f201609@11cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:4bf1d9c5-2c8a-454d-9007-33875a67dcb1@4bf1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Location: La Crosse\, WI\, US
-SUMMARY:Between the Bluffs homebrew competition — Entry Deadline
-UID:ca4fe2f6-940d-430e-9dda-2ed69860dac9@ca4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: Amarillo\, TX\, US
-SUMMARY:Palo Duro Cup — Judging Date
-UID:acaa3429-9341-4b65-a0dd-66092f515a0d@acaa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DESCRIPTION:Location: Essen\, NRW\, DE
-SUMMARY:Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co — Entry Deadline
-UID:cead9e21-72c2-4ffb-9fe8-36caf57fbf73@cead.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Location: Campo Grande\, MS\, BR
-SUMMARY:XIX CONCURSO NACIONAL DAS ACERVAS 2026 — Judging Date
-UID:34f61108-dcbc-428f-8c2f-5c7b80169d84@34f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:2f48c0b5-0088-44d0-bfc3-eee370c6696b@2f48.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DESCRIPTION:Location: WICHITA\, KS\, US
-SUMMARY:WHO Brews It — Entry Deadline
-UID:51066b28-2370-4ff5-b3ac-4ccf090f432e@5106.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:94342588-8980-47f8-943e-dd9f8c27c3a7@9434.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Location: London\, GB
-SUMMARY:Lager Than Life — Judging Date
-UID:f56bfc7e-e272-409e-8da4-11c565592af1@f56b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:caeab062-e5d4-4765-8d75-41c0181a99af@caea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Location: Longmont\, CO\, US
-SUMMARY:2026 National Homebrew Competition First Round - Longmont\, CO — Entry Deadline
-UID:7facaf90-bace-46bb-a6a1-8626f603f61d@7fac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Auburn\, CA\, US
-SUMMARY:PUBS Invitational — Entry Deadline
-UID:478645e3-b483-4597-b256-a005407f3655@4786.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Regina\, SK\, CA
-SUMMARY:Ales Open — Judging Date
-UID:f8cb7eb0-9a57-41cf-8ee6-27ad8cdf1c9b@f8cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Colmurano (MC)\, IT
-SUMMARY:BREW WARS - Episode I - Basse Fermentazioni — Judging Date
-UID:e75973b9-4468-4416-afa3-7bf47b6e3792@e759.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260826
-DESCRIPTION:Location: \, Alberta\, CA
-SUMMARY:BRB Sizzlin' Hop Summer Showdown - 3rd Annual — Entry Deadline
-UID:4ceb7e2d-edd6-46e7-97e8-62a3c854b9a0@4ceb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Location: Portage\, MI\, US
-SUMMARY:2026 Michigan Beer Cup — Judging Date
-UID:3cba3bcb-469a-4243-b8b0-583f53e05db6@3cba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:72c4121d-0876-4067-9306-e3b942e47776@72c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DESCRIPTION:Location: Kosice\, SK
-SUMMARY:Hopnrolla Home Brew 2026 — Entry Deadline
-UID:64906a5b-3af3-4a0b-8129-1dc91754565c@6490.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260312
-DESCRIPTION:Location: San Bernardino\, Cordillera\, PY
-SUMMARY:V Paraguayan Cup - Homebrewers — Entry Deadline
-UID:4b147220-b1eb-4b22-861a-232fe1d07a8f@4b14.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Location: INDIANAPOLIS\, IN\, US
-SUMMARY:Indiana Brewers Cup — Judging Date
-UID:950dc23d-d070-4357-8f73-a6f98dd29199@950d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:6f4f8cfe-1d77-4e26-9ce3-021c27a90cfe@6f4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:66c24e4d-ec03-4c79-a96b-1025df07dff1@66c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Shanghai\, Shanghai\, CN
-SUMMARY:首届中国茶啤大赛丨The 1st Chinese Tea Beer Awards — Judging Date
-UID:0db411f4-fe2f-4d16-8a37-ea8953abf5fa@0db4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:409de16f-a67c-48ea-9ab3-c769a2ccbd5c@409d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Kansas City\, MO\, US
-SUMMARY:2026 National Homebrew Competition First Round - Kansas City\, MO — Judging Date
-UID:5cb1e292-249a-4b19-8f46-28e5011b5fa2@5cb1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Location: Hampton\, VA\, US
-SUMMARY:19th Annual Virginia Beer Blitz — Judging Date
-UID:efc71faa-b729-4e15-bbe7-6bfa355992e1@efc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Location: Rockville\, Maryland\, US
-SUMMARY:Spirit of Free Beer — Entry Deadline
-UID:e8369b65-f80b-446a-904c-85d76d437ae7@e836.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260803
-DESCRIPTION:Location: Arequipa\, AREQUIPA\, PE
-SUMMARY:COPA DE LOS VOLCANES 4TA EDICION — Judging Date
-UID:4b4f410c-0d47-417e-a2d4-3d70e0dd598b@4b4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:b56c8368-8d75-4f00-a21d-ddbe7371b154@b56c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-DESCRIPTION:Location: Longmont\, CO\, US
-SUMMARY:Peak-to-Peak ProAm 2026 — Entry Deadline
-UID:4a50b96b-00af-4253-9ef6-12f0922036b3@4a50.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Location: Kansas City\, MO\, US
-SUMMARY:2026 National Homebrew Competition First Round - Kansas City\, MO — Entry Deadline
-UID:81598303-e06f-45bc-8e50-8fd8aec3bc49@8159.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DESCRIPTION:Location: Dundalk\, Louth\, IE
-SUMMARY:Hoppenheimer German Styles — Judging Date
-UID:e2b2057b-9770-4ec1-a3b6-454b724131f8@e2b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Location: Losone\, Ticino\, CH
-SUMMARY:MBC meets Osteria La Fabbrica — Judging Date
-UID:2c6864f3-9186-46d5-a660-13b6a9fefa7e@2c68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Phoenixville\, PA\, US
-SUMMARY:SCH Amateur Brewing Championship 19 — Entry Deadline
-UID:8a97d030-8d17-433a-8021-d9045bca89f7@8a97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260401
-DESCRIPTION:Location: Sabadell\, Barcelona\, ES
-SUMMARY:Club Maillard Biergarten Cup 2026 — Entry Deadline
-UID:405d990f-4984-46ed-8cd9-af206b950a98@405d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260407
-DESCRIPTION:Location: Singapore\, Singapore\, SG
-SUMMARY:Singapore International Beer Awards 2026( SINBA) — Entry Deadline
-UID:ceef8a27-6251-4ba4-90b4-844a2d5c1915@ceef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:1cce0f80-4471-4bea-bcd8-6495837de2a5@1cce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260307
-DESCRIPTION:Location: Cheyenne\, WY\, US
-SUMMARY:Wyoming Brewers Festival Brew Battle 2026 — Entry Deadline
-UID:95918acf-c0a5-4caf-8419-781d67219b3b@9591.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Location: Dublin\, Non-USA\, Non-Canada\, IE
-SUMMARY:NHC Ireland National Homebrew Competition 2026 — Judging Date
-UID:6ede7385-1584-419a-886a-75b20aaa8d8b@6ede.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Location: Vancouver\, BC\, CA
-SUMMARY:VanBrewer Awards — Judging Date
-UID:f14b4fa9-b52a-44ab-9158-a1d57398c690@f14b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
-DESCRIPTION:Location: Asuncion\, Capital\, PY
-SUMMARY:Copa Guaraní de Cervezas 2026 - Caseros (10mo Concurso de Cervezas Caseras del Paraguay) — Judging Date
-UID:36f4b095-73dd-45bb-8dcc-cb2a69e145ee@36f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Location: Itasca\, IL\, US
-SUMMARY:Wortapalooza — Entry Deadline
-UID:c1b0d4fb-3ade-489f-8c49-6cfed1b6543c@c1b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260902
-DESCRIPTION:Location: Beavercreek\, OH\, US
-SUMMARY:Draft BrewFest 2026 — Entry Deadline
-UID:df4133ee-ab31-4179-a579-f8da7a3e4902@df41.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:cc28a2f4-1998-461d-a4af-7c5d546c379e@cc28.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Location: WICHITA\, KS\, US
-SUMMARY:WHO Brews It — Judging Date
-UID:fc91485c-866a-4dcb-8506-7db37c340052@fc91.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Delta\, PA\, US
-SUMMARY:Valhalla: The Mead-ing Of Life — Judging Date
-UID:d2b18a3e-4fc1-4a5e-bef1-d89559b42200@d2b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260214
-DESCRIPTION:Location: Delta\, PA\, US
-SUMMARY:Valhalla: The Mead-ing Of Life — Entry Deadline
-UID:ce574c5b-cdb9-4981-9ede-79b460ddad53@ce57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:Location: San Diego\, CA\, US
-SUMMARY:2026 National Homebrew Competition First Round - San Diego\, CA — Judging Date
-UID:a81c83fc-e2cc-40c8-87fd-888b6c896cbd@a81c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Location: Mexico City\, Mexico City\, MX
-SUMMARY:Chilango Homebrewer Cup 2026 — Entry Deadline
-UID:900b3bf9-2b68-4c98-8208-b19b627b4ffa@900b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:92ca6865-fefa-427c-8dde-5f7dbd593fcc@92ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DESCRIPTION:Location: Genova\, IT
-SUMMARY:Lanterna Beers 2026 — Judging Date
-UID:612a1710-2f27-4832-9329-823fdf2a66ff@612a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:cc1b3479-4e1b-42b2-93d3-bd8c52b8c7e5@cc1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Location: Dublin\, Non-USA\, Non-Canada\, IE
-SUMMARY:NHC Ireland National Homebrew Competition 2026 — Entry Deadline
-UID:88194df6-1dab-477e-9f38-3619cba5c62e@8819.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Location: San Diego\, CA\, US
-SUMMARY:2026 National Homebrew Competition First Round - San Diego\, CA — Entry Deadline
-UID:3c23c8bd-24f5-449c-8245-a7932485e6ba@3c23.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Location: Minnetonka\, MN\, US
-SUMMARY:Valkyries Horn Mead Competition - Amateur — Entry Deadline
-UID:2e5bb2aa-1611-40cb-94cf-2e068f2769f0@2e5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Location: Bento Gonçalves\, Rio Grande do Sul\, BR
-SUMMARY:IV Copa Sul-Americana de Cerveja — Entry Deadline
-UID:c6fd61da-dd85-476d-b7a9-3e99f546b293@c6fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Location: Grand Junction\, CO\, US
-SUMMARY:Collared Lizard Classic 2026 — Judging Date
-UID:56f698ce-729c-4d46-afae-54208d7575f9@56f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Grand Rapids\, Michigan\, US
-SUMMARY:Siciliano's Homebrew Competition — Judging Date
-UID:04f6e926-cfe2-4672-ae6f-db778a1f3aa6@04f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Location: Denver\, CO\, US
-SUMMARY:Orpheus MeadFest Commercial Division — Entry Deadline
-UID:28e64ab0-2f78-433f-a27a-91bc659017ee@28e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:c93aa827-29ac-423e-951f-399e5fcdad7e@c93a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:Location: Valencia\, Valencia\, ES
-SUMMARY:XVI Competicion Nacional de ACCE — Entry Deadline
-UID:69a53f8b-2fed-4761-a173-b8f2fab839c6@69a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:87ea01df-ea19-444d-a281-62b2f9305012@87ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Location: Pula\, Istria\, HR
-SUMMARY:Duel Pokal — Entry Deadline
-UID:f6999333-91b9-42f5-845a-85549237d3e5@f699.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DESCRIPTION:Location: Mexico City\, Mexico City\, MX
-SUMMARY:Chilango Homebrewer Cup 2026 — Judging Date
-UID:350e66c1-d150-4a87-8157-dd8f4f1f9a56@350e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260310
-DESCRIPTION:Location: Portland\, Oregon\, US
-SUMMARY:Portland Brewers Cup — Entry Deadline
-UID:fb681cc1-b2fa-4e86-8549-72904c58db20@fb68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Arona (NO)\, IT
-SUMMARY:I° Arona Homebrewing Contest — Judging Date
-UID:d692a4c5-aa90-4d06-834c-70f8011bf815@d692.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:Location: Guangzhou\, Guangdong\, CN
-SUMMARY:Joyferm × Beer 12 Studio - Beer Review Seminar - MAR 2026 — Judging Date
-UID:c4b74476-6ce4-4554-8d93-c5f6b7b17bc9@c4b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Location: La Redondela\, ANDALUCÍA\, ES
-SUMMARY:IV Concurso Homebrewer Save The Lagers — Entry Deadline
-UID:1124684a-ac86-4188-9809-76f636c4666c@1124.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Location: Saskatoon\, SK\, CA
-SUMMARY:Prairie Beer Awards 2025 Saskatoon — Entry Deadline
-UID:45a52259-ba6b-436a-b148-e040adbf6cae@45a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Location: \,
-SUMMARY:V Concurs Homebrewer Montseny — Judging Date
-UID:80c09056-9c17-4bb0-be69-843c8b882ebe@80c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Auburn\, CA\, US
-SUMMARY:PUBS Invitational — Judging Date
-UID:00a34ba3-63cb-43a6-9243-3fe2e2edb134@00a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Location: Chesterland\, Ohio\, US
-SUMMARY:King of the Mountain — Judging Date
-UID:a9d7aa92-f135-400e-bd43-07537d8ba693@a9d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Location: Aurora\, IL\, US
-SUMMARY:28th Annual Drunk Monk Challenge — Entry Deadline
-UID:976f35d9-9175-4239-b7a8-f9cae5c99c3a@976f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Location: Muntlix\, Vorarlberg\, AT
-SUMMARY:ABC - austrian beer challenge — Entry Deadline
-UID:991f7c44-8748-40df-ab80-d25f72729991@991f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Rennes\, FR
-SUMMARY:Saint Malo Craft Beer Expo Homebrew Competition 2026 — Judging Date
-UID:755c7221-7f50-4aa9-8aaf-35e20047db9d@755c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: \, AR
-SUMMARY:Copa Argentina de Cervezas XI & South Beer Cup\, The Champions XIV — Entry Deadline
-UID:d9445973-a4a7-4d47-9ebd-848099800292@d944.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:80f17e90-769c-4cb1-95d9-12e1f8dc3558@80f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: Casette d'Ete (FM)\, IT
-SUMMARY:BREW WARS - Episode II - Alte Fermentazioni — Judging Date
-UID:0448a9ab-7b4b-4681-9ac9-1900397d74ba@0448.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Oakdale\, PA\, US
-SUMMARY:TRASH 34 — Judging Date
-UID:7c3c30e5-db0f-4d06-aad7-22790a67197c@7c3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Location: Centallo (CN)\, IT
-SUMMARY:Faida degli Homebrewers Atto X — Judging Date
-UID:730ef312-3b6f-40c3-954a-b886fd2f987f@730e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DESCRIPTION:Location: Louisville\, KY\, US
-SUMMARY:Kentucky State Fair Homebrew Competition — Judging Date
-UID:eda41b66-35e8-4e7b-ae9b-604f70b4b475@eda4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: Fortaleza\, Ceará\, BR
-SUMMARY:Concurso Estadual de cervejeiros caseiros do Ceará 2026 - ACervA Cearense — Judging Date
-UID:b15a8efe-9230-4ca5-beb3-d4f75b58f08f@b15a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Location: Hickory\, NC\, US
-SUMMARY:Carolinas Championship of Beer 2026 — Judging Date
-UID:a1d734a8-41a2-4f2a-bd15-d750f06c0101@a1d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Location: Rondebosch\, Western Cape\, ZA
-SUMMARY:FOOLS AND FANS 9 — Entry Deadline
-UID:10828566-3939-4795-b6cc-954148ee9230@1082.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Location: Hoover\, AL\, US
-SUMMARY:Alabama Brewer's Cup — Entry Deadline
-UID:9f4cd38a-51d2-4305-8533-8e92f8f6feba@9f4c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:50802241-7480-4ff7-9d36-ce427dbf6c56@5080.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Location: Guadalajara\, Jal.\, MX
-SUMMARY:Copa San Arnulfo Guadalajara — Judging Date
-UID:4eef2f0e-428e-4ccc-ae3b-ddf20ae2d672@4eef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260402
-DESCRIPTION:Location: Penticton\, British Columbia\, CA
-SUMMARY:Okanagan Fest of Ale — Entry Deadline
-UID:d6f0aba3-8a58-4a61-b7a3-2a164be6e462@d6f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:b0ddb818-ef3f-482d-b04e-e6d5b7d5566b@b0dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:0e1759dc-b087-4c57-bd2f-597a621cdbe8@0e17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Location: DEL MAR\, CA\, US
-SUMMARY:San Diego County Fair Craft Brew Competition — Entry Deadline
-UID:1dcc55fd-2ac5-4592-b79b-d8eaf9eaec0a@1dcc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Location: Walnut Creek\, California\, US
-SUMMARY:2026 National Homebrew Competition First Round - San Francisco Region — Entry Deadline
-UID:49d7de32-4e01-4f64-ad1a-aba023e05b9d@49d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Location: Split\, HR
-SUMMARY:SMASH Homebrewing Competition 2026 — Entry Deadline
-UID:be950cab-a69a-4a73-9ba8-9131c9bb25ee@be95.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: Corvallis\, Oregon\, US
-SUMMARY:44th Annual Oregon Homebrew Festival — Judging Date
-UID:1a26717a-604f-4956-965e-1c286f431f6a@1a26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260409
-DESCRIPTION:Location: Singapore\, Singapore\, SG
-SUMMARY:Singapore International Beer Awards 2026( SINBA) — Judging Date
-UID:dfbfd5c1-9fdc-4437-9ad3-b4b2938c3210@dfbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:Location: Clinton\, Mississippi\, US
-SUMMARY:Red Brick Brew — Judging Date
-UID:c5ab1a52-70fb-470c-a559-e7d90d669bd9@c5ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Location: Naremburn\, NSW\, AU
-SUMMARY:Flat Rock Brew Comp — Judging Date
-UID:000b9e15-b0ec-4191-9201-c3ffde3b1dd5@000b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Location: Olomouc\, CZ
-SUMMARY:Moravská Vernisáž piva — Judging Date
-UID:e23ee5f2-f84a-4ed5-935e-1413e76e9aeb@e23e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Location: Paju-si\, Gyeonggi-do\, KR
-SUMMARY:Korea Homebrew Competition 24th — Entry Deadline
-UID:b5e68da3-769d-449f-84df-e9e50451e199@b5e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:fdef9234-9d2e-4024-984d-69f7f54b6756@fdef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Aurora\, IL\, US
-SUMMARY:28th Annual Drunk Monk Challenge — Judging Date
-UID:ec718731-2f2b-45e8-af05-d19d2f71ccf8@ec71.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:ba62c9ae-cac4-477b-86df-03af61e84830@ba62.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Location: K?i?anov\, CZECH REPUBLIC\, CZ
-SUMMARY:GOOD WATER BEER CUP 2026 — Judging Date
-UID:c1ed65ef-a68f-406b-8f3f-6fc584c779b0@c1ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Location: Minnetonka\, MN\, US
-SUMMARY:Valkyries Horn Mead Competition - Commercial — Entry Deadline
-UID:68641521-c308-4853-8e63-7b95e262da84@6864.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:d509edea-bfcb-4e39-a3b1-98f829f2593a@d509.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: San Bernardino\, Cordillera\, PY
-SUMMARY:V Paraguayan Cup - Homebrewers — Judging Date
-UID:2bbf136d-6d12-41fc-b195-5299f9fdd1a9@2bbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Colmurano (MC)\, IT
-SUMMARY:BREW WARS - Episode I - Basse Fermentazioni — Entry Deadline
-UID:ab1083e3-ea35-46d1-9c82-35a9abb94419@ab10.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Duluth\, MN\, US
-SUMMARY:Great Northern Brew Ha Ha — Judging Date
-UID:fe806a05-c9b7-43aa-a85a-b85e785175f8@fe80.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DESCRIPTION:Location: St. Louis\, MO\, US
-SUMMARY:Honey Beer Competition — Judging Date
-UID:04b9de4e-80d0-460c-9b42-2962dea918e3@04b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260420
-DESCRIPTION:Location: Shanghai\, Shanghai\, CN
-SUMMARY:首届中国茶啤大赛丨The 1st Chinese Tea Beer Awards — Entry Deadline
-UID:91a5bdc9-09ee-4c7e-8878-c5f4ef23b0d9@91a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260601
-DESCRIPTION:Location: Campo Grande\, MS\, BR
-SUMMARY:XIX CONCURSO NACIONAL DAS ACERVAS 2026 — Entry Deadline
-UID:8628a3dc-3e3c-4413-bf86-8cded0dd5a7e@8628.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Naremburn\, NSW\, AU
-SUMMARY:Flat Rock Brew Comp — Entry Deadline
-UID:2e60443a-7db1-40d8-b003-31e923942443@2e60.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DESCRIPTION:Location: Paju-si\, Gyeonggi-do\, KR
-SUMMARY:Korea Homebrew Competition 24th — Judging Date
-UID:807648ba-f2e6-49fe-a920-a6a37c592c35@8076.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:c383d9b3-30f0-4020-9e85-933de9def090@c383.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DESCRIPTION:Location: Riverside\, CA\, US
-SUMMARY:BeerMe BrewCup — Entry Deadline
-UID:eeea01fd-db10-4c75-b203-d0e45729817d@eeea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260414
-DESCRIPTION:Location: Bayreuth\, Bayern\, DE
-SUMMARY:Homebrew Bayreuth by Maisel and Friends — Entry Deadline
-UID:8a6cffcf-9054-4864-a940-184b14239445@8a6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Location: Pleasanton\, CA\, US
-SUMMARY:2026 Bay Area Brew Off - Alameda County Fair Homebrew Competition — Entry Deadline
-UID:ddb743da-f01b-425a-a2f4-f9a91606a23c@ddb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Raleigh\, NC\, US
-SUMMARY:Shamrock Open XXXI — Entry Deadline
-UID:b42fa4a7-36f3-48f2-83cd-7d0e471b800c@b42f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Pueblo\, CO\, US
-SUMMARY:Colorado State Fair Craft Beer Competition — Entry Deadline
-UID:5d80535a-376b-4e87-988a-376643a131ca@5d80.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Location: Minnetonka\, MN\, US
-SUMMARY:Valkyries Horn Mead Competition - Amateur — Judging Date
-UID:b3fe6904-e713-4f86-9ab4-77b2d48572e3@b3fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Location: Bayreuth\, Bayern\, DE
-SUMMARY:Homebrew Bayreuth by Maisel and Friends — Judging Date
-UID:11096846-dd67-4d23-b667-dfca9b536061@1109.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260312
-DESCRIPTION:Location: San Bernardino\, Cordillera\, PY
-SUMMARY:V Paraguayan Cup — Entry Deadline
-UID:aa26093d-fd75-4261-b76d-c83a18def046@aa26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:ba19970e-3924-4124-a800-469aea3ef292@ba19.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:112c9019-f62c-483e-9db2-5e26b0d0248f@112c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Location: Tempe\, AZ\, US
-SUMMARY:2026 ASH Cactus Classic — Entry Deadline
-UID:04173a0f-0d93-4972-b7f8-12adc3e5d722@0417.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:e0e46ae6-00c8-4c65-a46f-a3d1447c178c@e0e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:Location: \, EC
-SUMMARY:Copa Cervecera Mitad del Mundo X - 2026 — Entry Deadline
-UID:f14665da-7ad9-4aaf-9500-a14b23ef45fd@f146.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Location: London\, GB
-SUMMARY:West Coast Best Coast 2026 — Entry Deadline
-UID:7568f397-2655-4c69-bd91-c3e4d4a64a69@7568.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:d64dbe70-e148-4d07-b389-68f4ef607de9@d64d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Location: Oklahoma City\, OK\, US
-SUMMARY:Red Earth Brewers Spring Brew Off — Entry Deadline
-UID:19edfbbf-702d-4750-83d7-6ff5ca5895d8@19ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Location: Grodzisk Wielkopolski\, Wielkopolskie\, PL
-SUMMARY:Grodzisk Beer Competition (Homebrew) — Judging Date
-UID:0912ad1e-d750-48d7-8ed3-b4c3e505fdb1@0912.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:Location: Asheville\, NC\, US
-SUMMARY:2026 National Homebrew Competition - Final Round — Entry Deadline
-UID:d22b65a5-8f73-42df-b396-12dae5ace138@d22b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Portland\, Oregon\, US
-SUMMARY:Portland Brewers Cup — Judging Date
-UID:246614b4-e177-41a1-bc46-9505a410bcbf@2466.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Olomouc\, CZ
-SUMMARY:Moravská Vernisáž piva — Entry Deadline
-UID:16e31ace-7d9c-41df-88e4-2acae308a154@16e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Miami\, FL\, US
-SUMMARY:Coconut Cup - 2026 — Judging Date
-UID:d7a98049-6d86-4501-ad49-8ba2933c610f@d7a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Location: DEL MAR\, CA\, US
-SUMMARY:San Diego County Fair Craft Brew Competition — Judging Date
-UID:d44d16e0-6af3-4386-80a3-5a0028cca3e2@d44d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Location: Arequipa\, AREQUIPA\, PE
-SUMMARY:COPA DE LOS VOLCANES 4TA EDICION — Entry Deadline
-UID:fe6937ba-0605-425d-bac3-50a465020c59@fe69.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:Location: Valencia\, Valencia\, ES
-SUMMARY:XVI Competicion Nacional de ACCE — Entry Deadline
-UID:d8f62dee-420b-4b4d-a7a0-96427a9f3950@d8f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Location: Kosice\, SK
-SUMMARY:Hopnrolla Home Brew 2026 — Judging Date
-UID:ffbe3864-7d35-4c82-91db-9b6cd85010f8@ffbe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Location: London\, London\, GB
-SUMMARY:LAB Open 2026 — Entry Deadline
-UID:4e9de0f0-fe60-4770-8e0d-c8435c5dc17e@4e9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260312
-DESCRIPTION:Location: Alameda\, CA\, US
-SUMMARY:World Cup of Beer — Entry Deadline
-UID:9945dfcc-ed50-4c8a-a526-3c71026ac4c8@9945.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Location: Gavoi\, Sardinia\, IT
-SUMMARY:BeerBagia Homebrewing Contest 2026 — Entry Deadline
-UID:332597c3-0aa2-41c7-bc13-ad1073781a07@3325.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Location: Miamisburg\, OH\, US
-SUMMARY:Star City Open — Entry Deadline
-UID:a51d011f-2006-4cf3-8be2-150776958a73@a51d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Location: Boulder\, Colorado\, US
-SUMMARY:Dredhop 2026 — Judging Date
-UID:557008ee-187c-40ba-9cf8-5d12eb4b93bd@5570.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:3d68f5a2-6563-4f0f-8a8d-69d5a026cdb0@3d68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:e27f1c41-7727-469b-a794-f669f749a56b@e27f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260212
-DESCRIPTION:Location: Miami\, FL\, US
-SUMMARY:Coconut Cup - 2026 — Entry Deadline
-UID:02d5c20a-568c-4d79-abca-cd7304e3605e@02d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Miamisburg\, OH\, US
-SUMMARY:Star City Open — Judging Date
-UID:5c11d0ba-ecfd-4ea3-9750-cc89988769f6@5c11.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:e4f04c3a-b107-4f25-acfb-fcd2deecd7a7@e4f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DESCRIPTION:Location: Curitiba\, Paraná\, BR
-SUMMARY:X Concurso Sul Brasileiro das Acervas — Entry Deadline
-UID:11e25f85-faea-481c-b057-14209ef47259@11e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Location: Seattle\, WA\, US
-SUMMARY:Reuben's Brews Pro Am — Entry Deadline
-UID:16a9475a-9dff-4d48-a17b-10d666207511@16a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:fd711913-544a-4e6d-86be-24acd41959f3@fd71.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:Location: Budapest\, Pest\, HU
-SUMMARY:II. Altbier Házisörfőző Verseny 2026. / II. Altbier Homebrewer Competition 2026. — Judging Date
-UID:18c7043c-a519-42da-ad4f-4a701cf211ae@18c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Location: Foxfield\, CO\, US
-SUMMARY:Chili Pepper Extravaganza 2026 — Entry Deadline
-UID:29314bb3-dee7-433f-83ba-c458391f8637@2931.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:27c78e00-e005-4f40-8045-dd1756b5b8bd@27c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260304
-DESCRIPTION:Location: Eunice\, LA\, US
-SUMMARY:Boot Brew Fest — Entry Deadline
-UID:6ae317b1-e16d-4fae-b414-9ae530c1e2e6@6ae3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Chicago\, IL\, US
-SUMMARY:2026 National Homebrew Competition First Round - Chicago — Judging Date
-UID:635c723b-9b10-4b20-a35b-491517e0d94d@635c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Location: Denver\, Colorado\, US
-SUMMARY:Orpheus MeadFest Homebrew Division — Entry Deadline
-UID:3515bcc7-d8a1-41f3-a275-5957f12f7bde@3515.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:23d86299-2256-49a5-b181-5d7db62b078c@23d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Location: Cuenca\, Azuay\, EC
-SUMMARY:Copa Cervecera del Austro 2026 — Entry Deadline
-UID:fff483f4-60c3-4a33-8892-bdbfa6794d01@fff4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Location: Morristown\, NJ\, US
-SUMMARY:Yeasty Boi’s: No Sleep ’Til Belgium — Entry Deadline
-UID:9f120a0d-a1b0-4b4a-99b7-f7b798bd888e@9f12.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Location: Redmond\, Oregon\, US
-SUMMARY:COHO Spring Fling & Pro/Am — Judging Date
-UID:6d3c77f7-c66b-41a3-ad50-a1de062248e6@6d3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Location: Fort Worth\, Texas\, US
-SUMMARY:Bluebonnet Brewoff for 2026 — Judging Date
-UID:bbbb9f7d-637b-44be-9e02-450d71900c7a@bbbb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260706
-DESCRIPTION:Location: \, EC
-SUMMARY:Copa Cervecera Mitad del Mundo X - 2026 — Judging Date
-UID:4ecff88c-bab3-4fcc-bdce-d4ee005c4751@4ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Location: Fort Collins\, Colorado\, US
-SUMMARY:Poetry Slam — Judging Date
-UID:97b9e8e1-5867-4bbb-8660-c9d0be1bf17a@97b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:a719f542-8e0d-4a20-b05c-e24ec2203dc3@a719.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: La Paz\, Baja California Sur\, BAJA CALIFORNIA SUR\, MX
-SUMMARY:COPA LAS CALIFORNIAS — Entry Deadline
-UID:be6809ec-598c-4bdb-8271-fab4608617dd@be68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Location: Upper Hutt\, NZ
-SUMMARY:Autumn Invitational — Judging Date
-UID:7e1c95d0-5b1d-4e0b-90b5-04303caade8e@7e1c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Morristown\, NJ\, US
-SUMMARY:Yeasty Boi’s: No Sleep ’Til Belgium — Judging Date
-UID:51497c36-3c1a-4bbe-bfdf-a54f78316059@5149.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Chico\, CA\, US
-SUMMARY:27th Annual Chico Homebrew Competition — Judging Date
-UID:b3923bb3-2285-4f7e-8f35-5f612d37bdcd@b392.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:f68e7d4e-7bf2-4ecc-aa0a-50145fbd08bb@f68e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:9d368a30-5794-478a-a05e-51d996e79892@9d36.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DESCRIPTION:Location: \, Alberta\, CA
-SUMMARY:BRB Sizzlin' Hop Summer Showdown - 3rd Annual — Judging Date
-UID:acb0430b-0409-43ad-90b9-00aec787095c@acb0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:8261f509-323a-4a33-a117-7d35b2680bac@8261.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Location: Brookfield\, IL\, US
-SUMMARY:Brixtoberfest — Judging Date
-UID:a9739beb-46ef-4614-87ee-efc1816d339f@a973.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261001
-DESCRIPTION:Location: Budapest\, Pest\, HU
-SUMMARY:II. Altbier Házisörfőző Verseny 2026. / II. Altbier Homebrewer Competition 2026. — Entry Deadline
-UID:6bea4a9f-2fd7-45ad-918a-251385cf591f@6bea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DESCRIPTION:Location: Aci Castello (CT)\, Non-USA\, Non-Canada\, IT
-SUMMARY:Trinacria Homebrewers Championship 2026 - I Tappa — Judging Date
-UID:802e7e70-2508-4701-bd90-c8be27eaebb8@802e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:6cd14714-12d6-4983-9f36-747c4a9db9c1@6cd1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Location: Woodbridge\, CT\, US
-SUMMARY:Southern New England Regional Homebrew Competition — Judging Date
-UID:9bdad65b-b948-42d1-b031-ade10cd1e142@9bda.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Location: Grodzisk Wielkopolski\, Wielkopolskie\, PL
-SUMMARY:Grodzisk Beer Competition (Professional) — Entry Deadline
-UID:eff86f8e-094a-434d-8b86-121adc3f6709@eff8.org
+UID:60900474-9039-406f-8c99-2f31982d7157@6090.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 DESCRIPTION:Location: Cheyenne\, WY\, US
 SUMMARY:Wyoming Brewers Festival Brew Battle 2026 — Judging Date
-UID:32cd114e-4f8c-49cf-91e1-c695400d10dd@32cd.org
+UID:b8806f64-5f1c-433b-ba46-3ebf97347671@b880.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DESCRIPTION:Location: Hamburg\, New York\, US
-SUMMARY:Erie County Fair Homebrew Competition — Judging Date
-UID:4677c049-6d9d-4070-9e98-6708c325f2c6@4677.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Location: Itasca\, IL\, US
-SUMMARY:Wortapalooza — Judging Date
-UID:4ed10f03-21fe-4caf-98f4-62fd614e98d6@4ed1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Location: Bento Gonçalves\, Rio Grande do Sul\, BR
-SUMMARY:IV Copa Sul-Americana de Cerveja — Judging Date
-UID:66680aa8-0672-4893-b4b9-70334e3fb2e9@6668.org
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:36b82aad-ce8e-44c8-a712-d1d8bbabdd05@36b8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Columbus\, Ohio\, US
-SUMMARY:SODZ British Beerfest — Judging Date
-UID:e96fbc87-5337-472f-b65b-bb2e46a73d2a@e96f.org
+DESCRIPTION:Location: Cheyenne\, WY\, US
+SUMMARY:32nd Annual Eight Seconds of Froth — Judging Date
+UID:440c535b-f63e-4a35-af11-3e2322175cd0@440c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Location: Longmont\, CO\, US
+SUMMARY:Peak-to-Peak ProAm 2026 — Entry Deadline
+UID:b57b96c2-a31e-44a9-9f8f-5e5d02b1a364@b57b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Location: Tampa\, FL\, US
+SUMMARY:2026 National Homebrew Competition First Round - Tampa — Judging Date
+UID:bd21638a-6174-4be5-b199-21ecdb113a8b@bd21.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
 SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:748fed5f-70a0-468e-b4e0-3e4ada552ef6@748f.org
+UID:0bd923ce-1866-480b-88a6-893cebac4c0e@0bd9.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Daegu\, KR
-SUMMARY:Daegu Stout Smackdown — Judging Date
-UID:34830a78-ac41-40d5-b2e2-3734413a4330@3483.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260714
-DESCRIPTION:Location: Guadalajara\, Jal.\, MX
-SUMMARY:Copa San Arnulfo Guadalajara — Entry Deadline
-UID:85f4fb0f-0790-4b8c-bd7a-6b2f22c42a81@85f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:Location: London\, GB
-SUMMARY:Lager Than Life — Entry Deadline
-UID:a10038d5-22c6-492e-889a-a553ad6b5a15@a100.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
-DESCRIPTION:Location: Dortmund\, NRW\, DE
-SUMMARY:Ruhrpottmeisterschaft der Hobbybrauer 2026 — Judging Date
-UID:b286cfd3-6413-4f2f-83f9-db3126ca711e@b286.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-DESCRIPTION:Location: Ensenada\, Baja California\, MX
-SUMMARY:Copa Cervecera Del Pacifico — Entry Deadline
-UID:91252193-1666-4164-8378-876a85ba9668@9125.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-DESCRIPTION:Location: Ipswich\, Suffolk\, GB
-SUMMARY:Anglian Challenge 2026 — Judging Date
-UID:524136b2-3ce3-48fe-85e3-056602052c60@5241.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:84da5256-9733-4805-bb5d-fe47dae85d30@84da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260627
-DESCRIPTION:Location: Orlando\, FL\, US
-SUMMARY:Hot N Humid 2026 — Judging Date
-UID:5a691d2c-cc96-4ffb-a600-5dd39e0fb07d@5a69.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Location: Downingtown\, PA\, US
-SUMMARY:2026 Buzz Off — Judging Date
-UID:45c15033-396e-4349-b79e-d8126e71775a@45c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Location: Minnetonka\, MN\, US
-SUMMARY:Valkyries Horn Mead Competition - Commercial — Judging Date
-UID:6c801a72-6949-4ad9-ab59-a35e6e6253d3@6c80.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Firenze\, Firenze\, IT
-SUMMARY:BrewIT goes RED — Judging Date
-UID:0db50a1c-ebc1-400b-be33-720b506f507d@0db5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Location: Salt Lake City\, UT\, US
-SUMMARY:Lagerpalooza — Entry Deadline
-UID:a8202066-f914-43e7-8de6-6cb7b4df2841@a820.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Location: \,
-SUMMARY:V Concurs Homebrewer Montseny — Entry Deadline
-UID:901f2fcd-19b7-41ef-9b38-5ac7c699f015@901f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:0b785fe3-6429-4d66-b5a1-382d9451c72c@0b78.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Location: Brookfield\, IL\, US
-SUMMARY:Brixtoberfest — Entry Deadline
-UID:9803f712-9d73-4c97-968e-b839a7b65f8f@9803.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Location: Port Jefferson Station\, N.Y.\, US
-SUMMARY:29th Annual Beer Mead and Cider Brew Off — Entry Deadline
-UID:80f937ca-4792-4c9a-b4c3-35b7e2b88f58@80f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:43b9a448-ce4a-4f76-9987-904c3a91fa4a@43b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:d69b5dde-f750-4704-a0eb-fbce5551ab16@d69b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Location: Asuncion\, Capital\, PY
-SUMMARY:Copa Guaraní de Cervezas 2026 — Entry Deadline
-UID:638aca87-b852-4aed-a824-769210bab12f@638a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DESCRIPTION:Location: Budapest\, Pest\, HU
-SUMMARY:II. Sörminta Házisörfőző Verseny 2026. — Judging Date
-UID:c1c4349f-46ee-4691-b1b0-df6cb7a173c1@c1c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DESCRIPTION:Location: Hamburg\, New York\, US
-SUMMARY:Erie County Fair Homebrew Competition — Entry Deadline
-UID:7d468fc7-55bc-4082-94db-9c7c48504991@7d46.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Location: London\, London\, GB
-SUMMARY:LAB Open 2026 — Judging Date
-UID:2ae81e30-f849-4b39-913b-4ba998c2de3d@2ae8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Cuenca\, Azuay\, EC
-SUMMARY:Copa Cervecera del Austro 2026 — Judging Date
-UID:f6341ef6-3878-4f04-bbbf-4b520ade23f3@f634.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:2b3f9dfc-8357-4d04-a858-136d974a8463@2b3f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Location: Bergamo\, IT
-SUMMARY:DIASTATICUS – SAISON & FARMHOUSE ALE — Judging Date
-UID:4c1dc0d3-6ac8-43b8-9566-1b777d507994@4c1d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Location: Pueblo\, CO\, US
-SUMMARY:Colorado State Fair Craft Beer Competition — Judging Date
-UID:0d24c31e-62d7-444e-b649-85fafe5612b9@0d24.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260214
-DESCRIPTION:Location: Sunriver\, OR\, US
-SUMMARY:2026 Best of Craft Beer Awards — Entry Deadline
-UID:f2db2b35-6053-4edd-aa8b-9c2be029d7d3@f2db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:12c4c13e-cf84-4e78-960e-8b9ab2f36218@12c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Brooklyn\, NY\, US
-SUMMARY:Homebrew Alley XX — Judging Date
-UID:3bc7c659-312d-4366-8608-19d8106cd6d4@3bc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:Location: Rancho Cordova\, CA\, US
-SUMMARY:Brewers Cup Of California — Entry Deadline
-UID:aede2eb1-e6d0-4574-82d5-986a20ba6b91@aede.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:01034545-cb26-46b2-b801-a7037c3ac4f7@0103.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Location: Santiago de Chile\, Capital\, Metropolitana\, CL
-SUMMARY:HomeBrew Cup Chile 2026 - 7th Edition — Judging Date
-UID:1948864d-9f06-43bb-8f77-4e2ec178909e@1948.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Location: Santa Rosa\, CA\, US
-SUMMARY:Battle of the Brews — Judging Date
-UID:ac516040-975e-45e8-9b6e-667d7b46370a@ac51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DESCRIPTION:Location: Budapest\, HU
-SUMMARY:XIV. HOMEBREWERS INTERNATIONAL COMPETITION - HUNGARY — Judging Date
-UID:b51b1b49-76dd-4d31-bf4e-54cf60614a67@b51b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DESCRIPTION:Location: Aachen\, DE
-SUMMARY:Natürlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier) — Entry Deadline
-UID:771e560f-f054-494d-bab2-62aeb739c543@771e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:17f3b3f3-a2fa-4652-a141-79902b2fdc57@17f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260820
-DESCRIPTION:Location: Kelowna\, BC\, CA
-SUMMARY:2nd Annual Ogopogo Brewers Challenge (Homebrew & Commercial) — Entry Deadline
-UID:1891bee3-5ac0-41c6-b30f-97fca29196d3@1891.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:12da3c22-924c-4d29-bb65-1ac8405ac2c6@12da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260318
-DESCRIPTION:Location: Amarillo\, TX\, US
-SUMMARY:Palo Duro Cup — Entry Deadline
-UID:198562be-31ce-443f-a527-8ff7dd4071cc@1985.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:79eb44f2-450b-4dbf-ad5a-dd0d33108ac6@79eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-DESCRIPTION:Location: Washington\, DC\, US
-SUMMARY:Cherry Blossom Homebrew Competition — Judging Date
-UID:397e5863-9667-482d-859f-71cfba11f718@397e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260527
-DESCRIPTION:Location: Losone\, Ticino\, CH
-SUMMARY:MBC meets Osteria La Fabbrica — Entry Deadline
-UID:c028aa08-ea89-4ccc-9ee6-c47727b0c732@c028.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Location: Ipswich\, Suffolk\, GB
-SUMMARY:Anglian Challenge 2026 — Entry Deadline
-UID:bc72011c-4378-4fda-a663-050b59e9628f@bc72.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DESCRIPTION:Location: Pleasanton\, CA\, US
-SUMMARY:2026 Bay Area Brew Off - Alameda County Fair Homebrew Competition — Judging Date
-UID:1218ea9b-4399-4609-8264-d93ebd3a6b69@1218.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260408
-DESCRIPTION:Location: Oakdale\, PA\, US
-SUMMARY:TRASH 34 — Entry Deadline
-UID:b9cfe3d3-90bd-4e30-8ab7-791bd84266e0@b9cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:92121a48-3d77-4076-bf90-f30b69a22845@9212.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:Location: Denver\, Colorado\, US
-SUMMARY:Orpheus MeadFest Homebrew Division — Judging Date
-UID:f1d626cb-f0e5-4c2b-915c-4955200c88b5@f1d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Location: Centallo (CN)\, IT
-SUMMARY:Faida degli Homebrewers Atto X — Entry Deadline
-UID:958b5f11-1197-484f-9d8e-edaaee04eb63@958b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Woodland Hills\, CA\, US
-SUMMARY:2026 Maltose Falcons Mayfaire — Entry Deadline
-UID:b043c797-a466-406d-8c83-bc6796ff1975@b043.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Location: Portland\, OR\, US
-SUMMARY:Your Honey or Your Life — Judging Date
-UID:459c6b45-ea87-4813-95ef-f610a99aa3f3@459c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DESCRIPTION:Location: Bałtów\, Świętokrzyskie\, PL
-SUMMARY:MPPD 2026 - Polish Open Homebrewers Championship — Judging Date
-UID:5eb5e791-66cc-4af4-801c-012f3ee38fbd@5eb5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Location: Alameda\, CA\, US
-SUMMARY:World Cup of Beer — Judging Date
-UID:a310184e-8fc5-46a4-b8f2-34c4cc92852a@a310.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
-DESCRIPTION:Location: Asuncion\, Capital\, PY
-SUMMARY:Copa Guaraní de Cervezas 2026 — Judging Date
-UID:cbb631d8-31b3-4761-af3b-63ceadc5786a@cbb6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260614
-DESCRIPTION:Location: K?i?anov\, CZECH REPUBLIC\, CZ
-SUMMARY:GOOD WATER BEER CUP 2026 — Entry Deadline
-UID:cde0e00e-2279-4e38-9f34-5c6343edf7b9@cde0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Location: Portage\, MI\, US
-SUMMARY:2026 Michigan Beer Cup — Entry Deadline
-UID:2c4f5c68-0b13-4e4c-af30-ef1de1adfb7c@2c4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
-UID:907215a0-8baf-413b-98d6-a5d87ecd9538@9072.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Woodinville\, WA\, US
-SUMMARY:2026 National Homebrew Competition First Round - Seattle — Judging Date
-UID:9686ec01-2945-4df9-a34b-509013bb4316@9686.org
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Rennes\, FR
+SUMMARY:Saint Malo Craft Beer Expo Homebrew Competition 2026 — Judging Date
+UID:0c1ff57f-b21c-4888-a014-d463ea2f4325@0c1f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260412
 DESCRIPTION:Location: Sunriver\, OR\, US
 SUMMARY:2026 Best of Craft Beer Awards — Judging Date
-UID:b1c27894-4545-4a5d-84b3-78b66adcb4e8@b1c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260218
-DESCRIPTION:Location: West Allis\, WI\, US
-SUMMARY:Wisconsin State Fair Amateur Homebrew Competition — Entry Deadline
-UID:a5ee3169-9386-49e0-bac3-5211e6bfa662@a5ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Location: Riverside\, CA\, US
-SUMMARY:BeerMe BrewCup — Judging Date
-UID:a7ab1287-59de-4405-9466-57ad47b323f7@a7ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260812
-DESCRIPTION:Location: Fort Collins\, Colorado\, US
-SUMMARY:Poetry Slam — Entry Deadline
-UID:9b134955-9d8a-46eb-b45d-cc348bf8577c@9b13.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Location: London\, GB
-SUMMARY:West Coast Best Coast 2026 — Judging Date
-UID:7a1419f8-c32d-454f-9228-6197a92669f9@7a14.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: Penticton\, British Columbia\, CA
-SUMMARY:Okanagan Fest of Ale — Judging Date
-UID:5d785148-e31a-4ef0-9f7b-669eb18c2204@5d78.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Location: Genova\, IT
-SUMMARY:Lanterna Beers 2026 — Entry Deadline
-UID:d7e76ed6-7982-40a5-aa35-2b6a0963b896@d7e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Location: BOGOTÁ\, BOGOTÁ DC\, CO
-SUMMARY:Copa de Las Alturas 2026 — Entry Deadline
-UID:993c7625-4d5f-4316-b278-d070c84c5c42@993c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260408
-DESCRIPTION:Location: Oakdale\, PA\, US
-SUMMARY:TRASH 34 — Entry Deadline
-UID:d5feff68-f00c-4772-aac4-8b495bcceb52@d5fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:Location: Los Angeles\, California\, US
-SUMMARY:Bright Side Of Summer — Judging Date
-UID:99ca54b9-4e7a-428c-b1af-2bf39b081fe8@99ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260831
-DESCRIPTION:Location: Calgary\, Alberta\, CA
-SUMMARY:Canada Beer Cup Calgary 2026 — Judging Date
-UID:0eea4f1e-8a8b-4040-b2a3-a48b9928707d@0eea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:Location: Burlington\, Vermont\, US
-SUMMARY:Greg Noonan Memorial Homebrew Competition — Entry Deadline
-UID:9d454e0d-e8d2-4c51-acd4-b0d3701d9698@9d45.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Grand Rapids\, Michigan\, US
-SUMMARY:Siciliano's Homebrew Competition — Judging Date
-UID:712f4ec2-9d4d-4c4c-929d-16d829a15b04@712f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Location: Gainesville\, FL\, US
-SUMMARY:Hogtown Brew Off — Judging Date
-UID:96d34cad-1400-400e-8641-b55cb8cb6e2b@96d3.org
+UID:200a8ded-3a90-41f9-b304-834bb705d49d@200a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
 SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:c4a833a2-9227-4bd8-9be0-0d82955e47f4@c4a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Location: Richmond\, VA\, US
-SUMMARY:Virginia Craft Brewers Guild — Entry Deadline
-UID:90734443-944d-459a-9b39-6e5ff53b3065@9073.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:Location: INDIANAPOLIS\, IN\, US
-SUMMARY:Indiana Brewers Cup — Entry Deadline
-UID:cd384a43-c435-4302-8d16-63f46315095b@cd38.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:f89d7c6f-b1bc-4884-ad39-493549e65017@f89d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DESCRIPTION:Location: \, MX
-SUMMARY:Copa Kallisti — Judging Date
-UID:14714637-47b8-4185-ad39-e39022d4098f@1471.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
-SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:1c6086a9-9bba-4af0-aa2b-32647370a4dd@1c60.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:Location: Melbourne\, Victoria\, AU
-SUMMARY:Merri Mashers IPA Competition 2026 — Judging Date
-UID:59fda7a5-c39c-4cbe-b3db-317fef816c35@59fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260519
-DESCRIPTION:Location: Cape Town\, ZA
-SUMMARY:African Beer Cup — Judging Date
-UID:41e8a27f-5802-4025-a3bf-c16ef3590b0f@41e8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DESCRIPTION:Location: Morristown\, NJ\, US
-SUMMARY:Motown MASH — Judging Date
-UID:81fa26f7-ba8d-4e37-8511-41f71b9c5220@81fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Location: Seattle\, WA\, US
-SUMMARY:Reuben's Brews Pro Am — Judging Date
-UID:46e25fc1-74ec-4df9-8ada-33710a5189af@46e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Litomyšl\, The Czech Republic\, CZ
-SUMMARY:Litomyšlský Korbel 2026 — Judging Date
-UID:767432a1-2a13-4904-b57f-aded9336b03e@7674.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260124
-DESCRIPTION:Location: Fort Worth\, Texas\, US
-SUMMARY:Bluebonnet Brewoff for 2026 — Entry Deadline
-UID:6a484a61-4112-4768-93fa-f1155b101fc5@6a48.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: Sacramento\, CA\, US
-SUMMARY:California Commercial Craft Beer — Entry Deadline
-UID:ff85a280-e5ee-4aed-ad18-202d66f753dc@ff85.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Location: Muang Chiangmai\, Chiangmai\, TH
-SUMMARY:North Beer Challenge 2026 — Judging Date
-UID:ea81c945-6a0f-41e9-9940-cb8c8eb37358@ea81.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Location: West Allis\, WI\, US
-SUMMARY:Wisconsin State Fair Amateur Homebrew Competition — Judging Date
-UID:8dfd2e21-a028-4fbb-8ae2-8bc89885ca6a@8dfd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Location: Firenze\, Firenze\, IT
-SUMMARY:BrewIT goes RED — Entry Deadline
-UID:e2c8ef4b-8788-460d-b035-3388b2bf1b05@e2c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Location: Morristown\, NJ\, US
-SUMMARY:Motown MASH — Entry Deadline
-UID:0a4522b7-3a8c-4ec0-95f0-4879b2b100cd@0a45.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Location: Lebanon\, TN\, US
-SUMMARY:Tennessee State Fair Homebrewing Competition — Entry Deadline
-UID:966a00c4-7a38-4274-a402-71f9e9bff029@966a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260309
-DESCRIPTION:Location: Woodinville\, WA\, US
-SUMMARY:Cascade Brewers Cup — Entry Deadline
-UID:c52778db-b9fb-4f4a-bd17-7387b6c49739@c527.org
+UID:1616b796-7256-4b17-a959-dbacf7e9221a@1616.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260408
 DESCRIPTION:Location: Santiago\, Metropolitana de Santiago\, CL
 SUMMARY:Copa ACI 2026 — Entry Deadline
-UID:429ccc41-1366-4fc9-ae0c-5d03d9ab4e22@429c.org
+UID:50e3f1af-5150-465b-9b59-219a04513a1c@50e3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Location: Mexicali\, Baja California\, MX
-SUMMARY:Guerreras del Lupulo 2026 — Entry Deadline
-UID:8c716fd9-dd81-4c30-94f2-986d083fdc9d@8c71.org
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Location: Rondebosch\, Western Cape\, ZA
+SUMMARY:FOOLS AND FANS 9 — Entry Deadline
+UID:72a14d7d-ba3d-410b-b050-42cec120a0d8@72a1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Location: La Paz\, Baja California Sur\, BAJA CALIFORNIA SUR\, MX
-SUMMARY:COPA LAS CALIFORNIAS — Judging Date
-UID:9ddd5c0d-af49-4fd0-b96c-398e0e2026e1@9ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Location: Brooklyn\, NY\, US
-SUMMARY:Homebrew Alley XX — Entry Deadline
-UID:3427c7a0-5988-4201-a6d5-2cbc16b589ea@3427.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Location: Houston\, Texas\, US
-SUMMARY:29th Annual Big Batch Brew Bash (BBBB) — Entry Deadline
-UID:c93a7d42-47a2-42c7-a712-f91ed3dc25e2@c93a.org
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Woodland Hills\, CA\, US
+SUMMARY:2026 Maltose Falcons Mayfaire — Entry Deadline
+UID:3ea0bd78-48f1-4302-b2f7-c6a568a80983@3ea0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
 SUMMARY:7th CRAB Homebrewing Competition — Judging Date
-UID:63f0da28-95b9-461b-a5bf-e5a2da1fda97@63f0.org
+UID:1300a9c1-089a-4e63-82bf-7db0743c73ab@1300.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+DESCRIPTION:Location: Columbus\, Ohio\, US
+SUMMARY:SODZ British Beerfest — Entry Deadline
+UID:bbf5fa1c-52ac-47bc-b0a6-78878af0c550@bbf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+DESCRIPTION:Location: Phoenixville\, PA\, US
+SUMMARY:SCH Amateur Brewing Championship 19 — Judging Date
+UID:8935869b-582c-4807-937a-494b37c273d3@8935.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:78b33207-3453-4231-84bc-5dc985ed3b7a@78b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Woodland Hills\, CA\, US
+SUMMARY:2026 Maltose Falcons Mayfaire — Judging Date
+UID:5dddd60f-cbf1-4c41-ac76-5768dce1c399@5ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:Location: Melbourne\, Victoria\, AU
+SUMMARY:Merri Mashers IPA Competition 2026 — Judging Date
+UID:b1b7cbba-c97b-41a0-93cc-5052fca89bf3@b1b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:685fe7e6-f6f3-43a0-943b-e223c86873bc@685f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Oklahoma City\, OK\, US
+SUMMARY:Red Earth Brewers Spring Brew Off — Judging Date
+UID:e58cb351-be05-4b64-babb-b45a1aa634ec@e58c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Location: Grodzisk Wielkopolski\, Wielkopolskie\, PL
+SUMMARY:Grodzisk Beer Competition (Professional) — Judging Date
+UID:fbdfa405-492b-407f-8231-a684dbebeb5f@fbdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Location: London\, GB
+SUMMARY:West Coast Best Coast 2026 — Entry Deadline
+UID:4a08223d-0bfb-4d19-a5df-50dce2c6fdbb@4a08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:8512a86a-b84d-4877-acd2-69a823951023@8512.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Location: Hickory\, NC\, US
+SUMMARY:Carolinas Championship of Beer 2026 — Judging Date
+UID:d951ca58-8cc8-4ff3-b5d1-f33621599f35@d951.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:Location: Los Angeles\, California\, US
+SUMMARY:Bright Side Of Summer — Judging Date
+UID:d78ec875-64b2-4f7d-9524-558e0377e7fe@d78e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DESCRIPTION:Location: Fredericksburg\, TX\, US
+SUMMARY:Fredericksburg Craft Beer Competition — Entry Deadline
+UID:2c93807e-2a45-4097-846f-6a5d82c1099e@2c93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DESCRIPTION:Location: Portage\, MI\, US
+SUMMARY:2026 Michigan Beer Cup — Entry Deadline
+UID:46807945-5968-4c51-a83b-b19b2b50c236@4680.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:cec55c2c-84d5-46ae-a0b3-26df7934ec3e@cec5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+DESCRIPTION:Location: San Salvador\, San Salvador\, SV
+SUMMARY:Copa C4 — Judging Date
+UID:c588e811-e067-40ca-bb48-5e6e5042f4bd@c588.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260413
+DESCRIPTION:Location: Grand Rapids\, Michigan\, US
+SUMMARY:Siciliano's Homebrew Competition — Entry Deadline
+UID:2385686f-d7fb-4bc2-b9a5-7647e013693a@2385.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Miami\, FL\, US
+SUMMARY:Coconut Cup - 2026 — Judging Date
+UID:2a23cb8f-b846-43b0-bfc1-7722d6e30271@2a23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DESCRIPTION:Location: \, MX
+SUMMARY:Copa Kallisti — Judging Date
+UID:322bf883-4ab3-4aa5-816a-15966af8c64d@322b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:Location: Muang Chiangmai\, Chiangmai\, TH
+SUMMARY:North Beer Challenge 2026 — Judging Date
+UID:af4e2eff-173e-4044-8dc1-9d8ca0c7a6df@af4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:Location: London\, GB
+SUMMARY:Lager Than Life — Entry Deadline
+UID:517ebede-772d-41cb-b3ef-f7e486929b06@517e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:866eb21f-2de4-43fe-879a-e26e0e1191ca@866e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Mexicali\, Baja California\, MX
+SUMMARY:Guerreras del Lupulo 2026 — Judging Date
+UID:26b166d1-e129-4e4c-be6a-31c2cc4dec02@26b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DESCRIPTION:Location: Hamburg\, New York\, US
+SUMMARY:Erie County Fair Homebrew Competition — Entry Deadline
+UID:8665ace5-7423-4494-b9f3-93cf97a46eee@8665.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: West Allis\, WI\, US
+SUMMARY:Wisconsin State Fair Amateur Homebrew Competition — Judging Date
+UID:0bc7a8c8-f7c2-4751-9f7d-6fd2edb9168c@0bc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Location: Houston\, Texas\, US
+SUMMARY:29th Annual Big Batch Brew Bash (BBBB) — Entry Deadline
+UID:4e852e9a-95f9-49de-920e-16ccf110aef2@4e85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:a969b11a-69ea-42aa-9e46-dd85b78a1962@a969.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+DESCRIPTION:Location: Bayreuth\, Bayern\, DE
+SUMMARY:Homebrew Bayreuth by Maisel and Friends — Entry Deadline
+UID:c5463455-e5a3-4ab7-ba0f-8787de5250f4@c546.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:28c77ca8-7327-4952-97aa-c7dca3180ce7@28c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Woodinville\, WA\, US
+SUMMARY:2026 National Homebrew Competition First Round - Seattle — Judging Date
+UID:8055b627-4ec5-48c6-9187-3a3ddf46f45c@8055.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+DESCRIPTION:Location: Costa Mesa\, CA\, US
+SUMMARY:2026 OC Fair Homebrew Competition — Entry Deadline
+UID:933b07d4-41e4-4c8c-bbe1-f0842726b120@933b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+DESCRIPTION:Location: Asuncion\, Capital\, PY
+SUMMARY:Copa Guaraní de Cervezas 2026 — Judging Date
+UID:71ffc1b7-d6c6-4d42-b3ee-834857d4ec4c@71ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Upper Hutt\, NZ
+SUMMARY:Autumn Invitational — Judging Date
+UID:312cb57d-163e-4c80-b8ae-8f20cffb7aad@312c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Location: Rockville\, Maryland\, US
+SUMMARY:Spirit of Free Beer — Entry Deadline
+UID:0f1df3d0-0464-46f0-8ea8-247a69c2470b@0f1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Location: \,
+SUMMARY:V Concurs Homebrewer Montseny — Judging Date
+UID:ec7cf438-0898-4cf7-88ef-060645db3f1c@ec7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Location: Monrovia\, CA\, US
+SUMMARY:Tea Beer Tournament — Entry Deadline
+UID:fdb5ba0a-09eb-441b-af91-0325a4bc50f0@fdb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:Location: Houston\, Texas\, US
+SUMMARY:29th Annual Big Batch Brew Bash (BBBB) — Judging Date
+UID:b8aa5654-77c9-45a7-b435-d7c26a4da566@b8aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Location: Louisville\, KY\, US
+SUMMARY:Kentucky State Fair Homebrew Competition — Judging Date
+UID:60c3160f-49f3-4a6b-a54e-4f0d41598e67@60c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Location: Szeged\, CSM\, HU
+SUMMARY:V. CORSO-KORSÓ HÁZISÖRFŐZŐK VERSENYE — Entry Deadline
+UID:0a14fa3b-a0fb-4722-a054-98729af2730b@0a14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DESCRIPTION:Location: Foxfield\, CO\, US
+SUMMARY:Chili Pepper Extravaganza 2026 — Judging Date
+UID:c1fc915a-2f6b-4e6a-b5b9-6cf35dfb93f7@c1fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:cf68cdfe-f66b-4bf0-b374-6571ca16843c@cf68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Location: London\, GB
+SUMMARY:Lager Than Life — Judging Date
+UID:952fa4ae-5089-4c4a-bf25-c4e498751cca@952f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Location: Boulder\, Colorado\, US
+SUMMARY:Dredhop 2026 — Judging Date
+UID:903dd7df-242b-4ad1-a167-a18664cf7591@903d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:a01b79e1-441d-493c-8a48-87743b053848@a01b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Location: Monrovia\, CA\, US
+SUMMARY:Tea Beer Tournament — Judging Date
+UID:981a3222-7cd5-4f3f-a9e4-f0812d8433d3@981a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:Location: Valencia\, Valencia\, ES
+SUMMARY:XVI Competicion Nacional de ACCE — Entry Deadline
+UID:f81caf12-36d7-4d0a-b1c3-f90f64051c66@f81c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260926
+DESCRIPTION:Location: Lincoln\, Nebraska\, US
+SUMMARY:Sower's Cup — Judging Date
+UID:b77b9f59-5207-4158-a748-660994b6def0@b77b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DESCRIPTION:Location: K?i?anov\, CZECH REPUBLIC\, CZ
+SUMMARY:GOOD WATER BEER CUP 2026 — Entry Deadline
+UID:cbd085e0-8051-4258-90a4-9340db6aaed5@cbd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:Location: Denver\, Colorado\, US
+SUMMARY:Orpheus MeadFest Homebrew Division — Judging Date
+UID:e3f7405b-08e4-4f9f-88e3-e3b3a01797ee@e3f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Location: Grand Junction\, CO\, US
+SUMMARY:Collared Lizard Classic 2026 — Judging Date
+UID:2673843b-a5c1-4d55-9e0e-6d08d0b6f081@2673.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Location: Naremburn\, NSW\, AU
+SUMMARY:Flat Rock Brew Comp — Judging Date
+UID:071b7b48-1a5c-4eff-babc-ad46a65b1902@071b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:75f4d379-6d55-4a2a-af81-c37d95b353e5@75f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Waupaca\, WI\, US
+SUMMARY:5th Annual H.H. HINDER Head Butt Homebrew Competition — Judging Date
+UID:283a186a-613f-4d24-868f-531800fd35bb@283a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Pueblo\, CO\, US
+SUMMARY:Colorado State Fair Homebrew Competition — Entry Deadline
+UID:131abdd2-d58a-498d-a6c4-fda9faf46265@131a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Location: Redmond\, Oregon\, US
+SUMMARY:COHO Spring Fling & Pro/Am — Judging Date
+UID:9b02d14a-6928-4672-8713-26789e8bbed2@9b02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Location: Clinton\, Mississippi\, US
+SUMMARY:Red Brick Brew — Entry Deadline
+UID:9c80f0e0-a3d4-4ef7-b38e-705466a408b3@9c80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:19ca3e6f-e386-46e0-bf3a-2f8ad8c288ea@19ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Szeged\, CSM\, HU
+SUMMARY:V. CORSO-KORSÓ HÁZISÖRFŐZŐK VERSENYE — Judging Date
+UID:8b69368a-9ed3-4911-a1dc-051efb664b1b@8b69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DESCRIPTION:Location: Budapest\, Pest\, HU
+SUMMARY:II. Altbier Házisörfőző Verseny 2026. / II. Altbier Homebrewer Competition 2026. — Entry Deadline
+UID:b6661749-e2cc-44af-83e6-9d8a61664de3@b666.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Location: Portland\, OR\, US
+SUMMARY:Your Honey or Your Life — Entry Deadline
+UID:01028cf2-87ff-4116-ae4f-f21d7f3c6da3@0102.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:Location: Burlington\, Vermont\, US
+SUMMARY:Greg Noonan Memorial Homebrew Competition — Entry Deadline
+UID:b67a96cc-c180-4eba-a5df-f37eccc43bec@b67a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Location: Minnetonka\, MN\, US
+SUMMARY:Valkyries Horn Mead Competition - Commercial — Entry Deadline
+UID:5f763164-0529-4db2-87b0-cb2ffab45a07@5f76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Location: Waupaca\, WI\, US
+SUMMARY:5th Annual H.H. HINDER Head Butt Homebrew Competition — Entry Deadline
+UID:2aab2273-8f7d-4c65-bddc-de1f9bc3ad86@2aab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:Location: Ciudad de Mexico\, Ciudad de Mexico\, MX
+SUMMARY:COPA MEGA BEERFEST 4a Ed — Judging Date
+UID:f29d8db6-56bd-4085-8d60-5e1253582e20@f29d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Location: Curitiba\, Paraná\, BR
+SUMMARY:X Concurso Sul Brasileiro das Acervas — Entry Deadline
+UID:9f8edf7c-8adf-41ca-8853-721c62e9331c@9f8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Location: Foxfield\, CO\, US
+SUMMARY:Chili Pepper Extravaganza 2026 — Entry Deadline
+UID:7de1b21d-5982-4890-8dcd-d5e5be6f2fab@7de1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Location: Oklahoma City\, OK\, US
+SUMMARY:Red Earth Brewers Spring Brew Off — Entry Deadline
+UID:1b8a2d9f-c5cc-4131-b2ac-8bd5d08aa41f@1b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:Location: Santiago\, Metropolitana de Santiago\, CL
+SUMMARY:Copa ACI 2026 — Judging Date
+UID:eb6099f9-b87f-448a-a11c-233cbaa0edfe@eb60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Location: Budapest\, HU
+SUMMARY:XIV. HOMEBREWERS INTERNATIONAL COMPETITION - HUNGARY — Entry Deadline
+UID:e9bb036b-de21-4c5d-bfb0-2e3799749cfe@e9bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DESCRIPTION:Location: BOGOTÁ\, BOGOTÁ DC\, CO
+SUMMARY:Copa de Las Alturas 2026 — Judging Date
+UID:9f8e08e2-12c8-4025-bc98-e70b3d9f517c@9f8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:ca36b18c-a448-460c-ac5a-bb6e4907b005@ca36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Location: Asuncion\, Capital\, PY
+SUMMARY:Copa Guaraní de Cervezas 2026 - Caseros (10mo Concurso de Cervezas Caseras del Paraguay) — Entry Deadline
+UID:78cf1b93-ffbc-4c38-a540-e07969815fc2@78cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Location: Singapore\, Singapore\, SG
+SUMMARY:Singapore International Beer Awards 2026( SINBA) — Entry Deadline
+UID:bea4000f-03bb-43c7-b4d4-728c8c417270@bea4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: Walnut Creek\, California\, US
+SUMMARY:2026 National Homebrew Competition First Round - San Francisco Region — Entry Deadline
+UID:34df7625-e610-42b7-b0cc-d5f39f5fcf73@34df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Firenze\, Firenze\, IT
+SUMMARY:BrewIT goes RED — Judging Date
+UID:e9cfbf87-03da-4e40-a9d6-8c4891309bf8@e9cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:894b6a14-3623-420c-9890-7e08ebdab07d@894b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Location: Brookfield\, IL\, US
+SUMMARY:Brixtoberfest — Judging Date
+UID:3867ed16-2f20-4667-a593-53224a4f9cb6@3867.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:Location: Budapest\, Pest\, HU
+SUMMARY:II. Altbier Házisörfőző Verseny 2026. / II. Altbier Homebrewer Competition 2026. — Judging Date
+UID:575a186a-8dd4-4524-ba04-096ed891c01e@575a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Location: Mexicali\, Baja California\, MX
+SUMMARY:Guerreras del Lupulo 2026 — Entry Deadline
+UID:bd508d40-6f3d-4ab0-a0a6-1ad666a6382f@bd50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Oklahoma City\, OK\, US
+SUMMARY:Red Earth Brewers Spring Brew Off — Judging Date
+UID:65eb8b73-0215-4aa7-b1bc-277cc044b4bd@65eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:8812f1fa-0c98-4980-b22e-e5746bc654c5@8812.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Santa Rosa\, CA\, US
+SUMMARY:Battle of the Brews — Judging Date
+UID:52a642af-2965-4c8c-9136-8e89cfb78b24@52a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Woodland Hills\, CA\, US
+SUMMARY:2026 Maltose Falcons Mayfaire — Entry Deadline
+UID:e7c5f1d4-1bba-4b8e-98e9-0253eacb3b55@e7c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Location: Boynton Beach\, Florida\, US
+SUMMARY:Hurricane Blowoff 2026 — Entry Deadline
+UID:553c8700-59d0-4a3f-aa47-09484af10225@553c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Location: Gainesville\, FL\, US
+SUMMARY:Hogtown Brew Off — Judging Date
+UID:7b6e6cb8-180f-4f30-9917-b5b1ff9231bc@7b6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: King of Prussia\, PA\, US
+SUMMARY:2026 National Homebrew Competition 1st Round - Philadelphia\, PA — Judging Date
+UID:cabfbac7-6b7e-4f74-bdb7-3cdb132440cc@cabf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:d5f3d890-1707-45ba-adce-90b730f4a796@d5f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:Location: Clinton\, Mississippi\, US
+SUMMARY:Red Brick Brew — Judging Date
+UID:e8da5b10-b9e4-4d04-b718-ea08256d976f@e8da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:2d1afbad-f9fb-42dd-8990-4266a4fc1570@2d1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:Location: Walnut Creek\, CA\, US
+SUMMARY:BareBottle Homebrew Invitational — Judging Date
+UID:ed8c2b7e-8cfd-4b7b-bc11-af68eebb0413@ed8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Daegu\, KR
+SUMMARY:Daegu Stout Smackdown — Judging Date
+UID:e4e8577f-88fd-4fa3-bcde-abb7b6b05cd6@e4e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Pueblo\, CO\, US
+SUMMARY:Colorado State Fair Homebrew Competition — Judging Date
+UID:be2dfadb-aacd-422f-8b35-7715407b3645@be2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:88745518-bd77-4253-884c-ed3b37595ebe@8874.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:Location: Guadalajara\, Jal.\, MX
+SUMMARY:Copa San Arnulfo Guadalajara — Judging Date
+UID:e9633d0b-298c-4cb2-b94f-0dbc896b3c8a@e963.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Location: Itasca\, IL\, US
+SUMMARY:Wortapalooza — Judging Date
+UID:ee67c2c0-2ea1-4de3-80c9-1af389487417@ee67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:Location: Riverside\, CA\, US
+SUMMARY:BeerMe BrewCup — Entry Deadline
+UID:87be2e2e-50b3-48fd-92a7-0b7d0420c1df@87be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Location: Santiago de Chile\, Capital\, Metropolitana\, CL
+SUMMARY:HomeBrew Cup Chile 2026 - 7th Edition — Judging Date
+UID:1b1d81a3-f259-4f3d-8448-2ecd5a9a0d08@1b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Regina\, SK\, CA
+SUMMARY:Ales Open — Judging Date
+UID:2aedef41-3c69-46b8-8219-aa450cb78094@2aed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:59a913e6-f129-4cfe-a46f-366fb5836409@59a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:Location: Salt Lake City\, UT\, US
+SUMMARY:Lagerpalooza — Entry Deadline
+UID:aafe25f0-98a6-41fa-879a-729daf1a9b12@aafe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:84622b52-8111-4489-8aba-0f6478ef75ed@8462.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:931a0efe-8cd4-4317-a6f3-1b6a9fbc8697@931a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:b5daedda-b760-4e45-9321-e3eadd0fdbe8@b5da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+DESCRIPTION:Location: Columbus\, Ohio\, US
+SUMMARY:SODZ British Beerfest — Entry Deadline
+UID:8398103d-329c-4cd5-848d-c3f12878b948@8398.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Location: Sabadell\, Barcelona\, ES
+SUMMARY:Club Maillard Biergarten Cup 2026 — Judging Date
+UID:f88d1878-2ec0-4599-a3ff-cba89e96c438@f88d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Location: Sevierville\, TN\, US
+SUMMARY:Bruce Street Brewfest Homebrew Competition — Entry Deadline
+UID:07dbc2bb-7f75-4f94-84c7-cea86a94eb14@07db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DESCRIPTION:Location: Chesterland\, Ohio\, US
+SUMMARY:King of the Mountain — Judging Date
+UID:7310f1d2-3d05-4659-acef-5f46cd12dc14@7310.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:a2fb7faf-c567-466a-a103-493efdf39914@a2fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Location: Minnetonka\, MN\, US
+SUMMARY:Valkyries Horn Mead Competition - Amateur — Entry Deadline
+UID:c3f4d7ec-0102-42fc-aa0e-8c5c365c4a89@c3f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: \, Missouri\, US
+SUMMARY:Ozarks Open Season — Judging Date
+UID:f1baef54-61a2-443e-a57e-11755c0b61c3@f1ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Niagara Falls\, NY\, US
+SUMMARY:Amber Waves of Grain — Judging Date
+UID:66da434c-156c-479a-bfbb-8c3f090ebe98@66da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260422
+DESCRIPTION:Location: Montevideo\, Montevideo\, UY
+SUMMARY:Primer Concurso CCCUY 2026 — Entry Deadline
+UID:0c3147c9-a34e-414b-8a9d-caa2fed5549c@0c31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:1dbfbe13-a74c-4014-9d96-024fc4c4e524@1dbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Location: Duluth\, MN\, US
+SUMMARY:Great Northern Brew Ha Ha — Entry Deadline
+UID:236b42eb-9754-421a-b288-3a6922620e04@236b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Location: Aurora\, IL\, US
+SUMMARY:28th Annual Drunk Monk Challenge — Entry Deadline
+UID:3e0402f5-bec9-4559-9533-8483d4e8d557@3e04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:Location: London\, London\, GB
+SUMMARY:LAB Open 2026 — Judging Date
+UID:7bfde61a-809a-4407-83de-71c223fb12d6@7bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Location: TAMPICO\, MX
+SUMMARY:ARO ROJO — Entry Deadline
+UID:d4787847-6bb3-46b3-ad2e-f261115c3c17@d478.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:85cea646-4ed4-4cba-96e4-0422c93043d8@85ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:ca86da42-013c-4693-8057-57d485d9b328@ca86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Location: Milano\, Milano\, IT
+SUMMARY:BrewIT goes BLACK — Judging Date
+UID:cbd42406-e4bc-43db-b957-785b2d3188ef@cbd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Location: Sabadell\, Barcelona\, ES
+SUMMARY:Club Maillard Biergarten Cup 2026 — Entry Deadline
+UID:cf2b6a80-e858-41a9-8cb7-f890afd47e66@cf2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:Location: San Diego\, CA\, US
+SUMMARY:2026 National Homebrew Competition First Round - San Diego\, CA — Judging Date
+UID:d3954d22-6fa7-42ff-b5c7-fb767aecfbfe@d395.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Location: Denver\, CO\, US
+SUMMARY:Orpheus MeadFest Commercial Division — Entry Deadline
+UID:1bf4f1ad-e3ea-4de6-996c-2c09815d826e@1bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: Chicago\, IL\, US
+SUMMARY:2026 National Homebrew Competition First Round - Chicago — Entry Deadline
+UID:ec04bb83-86eb-4956-bcf1-1f0991220734@ec04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Location: Beavercreek\, OH\, US
+SUMMARY:Draft BrewFest 2026 — Judging Date
+UID:11c5e653-0ebc-41f1-a02e-5f164008ded5@11c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Boynton Beach\, Florida\, US
+SUMMARY:Hurricane Blowoff 2026 — Judging Date
+UID:a9f62bbf-2d64-4060-8811-e7e88bc07cf1@a9f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: Downingtown\, PA\, US
+SUMMARY:2026 Buzz Off — Judging Date
+UID:90394995-f4c6-4b9c-8fe9-ef7668f244c6@9039.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Cheyenne\, WY\, US
+SUMMARY:32nd Annual Eight Seconds of Froth — Entry Deadline
+UID:547c0b5c-f3c1-42b1-8ed7-bc96fa25d84b@547c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Location: Minnetonka\, MN\, US
+SUMMARY:Valkyries Horn Mead Competition - Commercial — Judging Date
+UID:7b8140cc-1182-4812-9a41-5dad84d1e177@7b81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:870bdaf1-099e-4c68-a413-dae6f0bfb95f@870b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:16735cbe-a2e0-4c89-9793-87e1cbcc0130@1673.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DESCRIPTION:Location: Dortmund\, NRW\, DE
+SUMMARY:Ruhrpottmeisterschaft der Hobbybrauer 2026 — Judging Date
+UID:3dbb6ace-ae40-4739-a836-a7c6d06fa8c2@3dbb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Location: Aachen\, DE
+SUMMARY:Natürlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier) — Judging Date
+UID:bfe2ff77-88af-4a2d-87b1-35f115d00d44@bfe2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DESCRIPTION:Location: Woodbridge\, CT\, US
+SUMMARY:Southern New England Regional Homebrew Competition — Entry Deadline
+UID:bcdfb317-b380-45ca-9c93-9bc8f5296568@bcdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Location: Walnut Creek\, California\, US
+SUMMARY:2026 National Homebrew Competition First Round - San Francisco Region — Judging Date
+UID:b3c015f9-6261-4a1a-a5e4-0382832a4f60@b3c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Location: Bratislava\, SK
+SUMMARY:Bratislavsky Hrncova 2026 — Judging Date
+UID:6c678c15-080e-4d3f-b0a8-5ae05420d941@6c67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Location: Lincoln\, Nebraska\, US
+SUMMARY:Sower's Cup — Entry Deadline
+UID:2a7b0a43-5f0e-4407-87c0-23a3e4d80a9a@2a7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DESCRIPTION:Location: Morristown\, NJ\, US
+SUMMARY:Motown MASH — Judging Date
+UID:e425002e-fdfd-4008-97e4-e2967ee623d2@e425.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Phoenixville\, PA\, US
+SUMMARY:SCH Amateur Brewing Championship 19 — Entry Deadline
+UID:ee1b68a8-907a-40dd-8afb-32cd7e073437@ee1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:aae3ecf8-43ce-4cbe-a165-e931971c63bc@aae3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Location: Split\, HR
+SUMMARY:SMASH Homebrewing Competition 2026 — Entry Deadline
+UID:279f94bc-2934-4ebf-8e73-31eea01a7280@279f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Location: Cape Town\, ZA
+SUMMARY:African Beer Cup — Entry Deadline
+UID:21e0fdbb-8bdd-4989-ba65-4539e0dd9ec1@21e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:de6668fb-4ea2-4fe3-bed3-060c653fa23e@de66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Delta\, PA\, US
+SUMMARY:Valhalla: The Mead-ing Of Life — Judging Date
+UID:9a6f0651-aa7a-4b29-9ae8-e579bc2d7439@9a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:42aa7828-c6b2-43a7-ac06-55b4a975d8e7@42aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Location: Bergamo\, IT
+SUMMARY:DIASTATICUS – SAISON & FARMHOUSE ALE — Judging Date
+UID:f1ba6958-8603-4acb-a614-2d155d2ee8e4@f1ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:1fbea59f-1dda-4933-9a4e-f9c7ef872a78@1fbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:344d3683-6ebf-453a-bd16-22527a4f74ae@344d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260902
+DESCRIPTION:Location: Beavercreek\, OH\, US
+SUMMARY:Draft BrewFest 2026 — Entry Deadline
+UID:9eba5955-e9d1-4799-ae08-71166f4cac97@9eba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Location: San Bernardino\, Cordillera\, PY
+SUMMARY:V Paraguayan Cup — Entry Deadline
+UID:b398b44d-1a30-4d8c-b4bc-79d9295eeaf5@b398.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Location: Bangna\, Bangkok\, TH
+SUMMARY:The Darkest day — Judging Date
+UID:e244c519-487e-4caf-80ec-887154e35be2@e244.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:b3d44afc-b793-4790-91e6-2dbbb1e587e5@b3d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: Salt Lake City\, UT\, US
+SUMMARY:Lagerpalooza — Judging Date
+UID:4225638a-c410-45f2-998b-329ce3c7f86e@4225.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Location: Richmond\, VA\, US
+SUMMARY:Virginia Craft Brewers Guild — Entry Deadline
+UID:1a0c42d9-d8c7-4fd8-acd0-30989bd019a5@1a0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Raleigh\, NC\, US
+SUMMARY:Shamrock Open XXXI — Entry Deadline
+UID:7bdc06fe-ab2f-4f74-8094-2a884d72040d@7bdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260413
+DESCRIPTION:Location: Grand Rapids\, Michigan\, US
+SUMMARY:Siciliano's Homebrew Competition — Entry Deadline
+UID:198ce008-c1e4-4e2a-b77d-4c73cc56e3bf@198c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: San Antonio\, TX\, US
+SUMMARY:2026 Alamo City Brew Battle — Judging Date
+UID:600a3ffa-185b-4a20-bcee-cc6657528bec@600a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:Location: Aci Castello (CT)\, Non-USA\, Non-Canada\, IT
+SUMMARY:Trinacria Homebrewers Championship 2026 - I Tappa — Judging Date
+UID:d375cf8d-a216-4a29-a2a0-b7cf6f8a5798@d375.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260420
+DESCRIPTION:Location: Shanghai\, Shanghai\, CN
+SUMMARY:首届中国茶啤大赛丨The 1st Chinese Tea Beer Awards — Entry Deadline
+UID:562e8ab7-273e-42f6-8003-444764f5dcbb@562e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Niagara Falls\, NY\, US
+SUMMARY:Amber Waves of Grain — Judging Date
+UID:ea63b864-a137-4273-a707-c6f5f55e1f72@ea63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Location: Pleasanton\, CA\, US
+SUMMARY:2026 Bay Area Brew Off - Alameda County Fair Homebrew Competition — Entry Deadline
+UID:7be98e8b-e725-47da-ab8f-badafdc83776@7be9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:7bdb88ea-a91f-4eca-b9d4-58336e2dbb53@7bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: Kansas City\, MO\, US
+SUMMARY:2026 National Homebrew Competition First Round - Kansas City\, MO — Entry Deadline
+UID:684abab5-9aa3-4ce9-af0b-c08c8a2c7e55@684a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Miamisburg\, OH\, US
+SUMMARY:Star City Open — Judging Date
+UID:457ee45a-8963-4bd3-af92-395cc8c523d9@457e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Location: Grand Junction\, CO\, US
+SUMMARY:Collared Lizard Classic 2026 — Entry Deadline
+UID:c6abaced-2b54-47fb-83a9-9a491118eeda@c6ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Location: Costa Mesa\, CA\, US
+SUMMARY:2026 OC Fair Homebrew Competition — Judging Date
+UID:a235e450-ff78-4306-927a-33fcc22a20bf@a235.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Location: Sevierville\, TN\, US
+SUMMARY:Bruce Street Brewfest Homebrew Competition — Judging Date
+UID:e542d999-8308-4595-9079-0599a6245eb8@e542.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:cd3ede94-e658-49c1-8a24-ec79343da56d@cd3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:Location: Redmond\, Oregon\, US
+SUMMARY:COHO Spring Fling & Pro/Am — Entry Deadline
+UID:994bf2e4-ff3b-40d0-ab4c-e68a4f94b572@994b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+DESCRIPTION:Location: Arequipa\, AREQUIPA\, PE
+SUMMARY:COPA DE LOS VOLCANES 4TA EDICION — Judging Date
+UID:b5ab104d-5b6a-41e6-8f41-ce7a0bfc7a04@b5ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Kansas City\, MO\, US
+SUMMARY:2026 National Homebrew Competition First Round - Kansas City\, MO — Judging Date
+UID:b8169ec6-1676-440f-9d45-539b510edba4@b816.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Location: Bangna\, Bangkok\, TH
+SUMMARY:The Darkest day — Entry Deadline
+UID:69b65bc2-a848-4655-a849-be34854f0b00@69b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Chicago\, IL\, US
+SUMMARY:2026 National Homebrew Competition First Round - Chicago — Judging Date
+UID:604f1a2a-cbfa-4f61-b491-2b9a81f4affa@604f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Location: Muntlix\, Vorarlberg\, AT
+SUMMARY:ABC - austrian beer challenge — Entry Deadline
+UID:0c55577c-9f5d-4ead-b321-3edc59e661ff@0c55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:d8f2ced8-7a1f-4a57-984c-4f4411023914@d8f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:385f2c2f-6542-45f5-b17b-aed94adbc0c7@385f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Eunice\, LA\, US
+SUMMARY:Boot Brew Fest — Judging Date
+UID:5d654831-13cc-4476-bf96-05aec3280408@5d65.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Grand Rapids\, Michigan\, US
+SUMMARY:Siciliano's Homebrew Competition — Judging Date
+UID:96f3caf4-aa8b-4b27-a5cb-dacfcf6b27d2@96f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Grand Rapids\, Michigan\, US
+SUMMARY:Siciliano's Homebrew Competition — Judging Date
+UID:b906102f-f374-48fd-a271-ed56d3e1f0d2@b906.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DESCRIPTION:Location: Guangzhou\, Guangdong\, CN
+SUMMARY:Joyferm × Beer 12 Studio - Beer Review Seminar - MAR 2026 — Judging Date
+UID:c19de06b-24e0-4f32-bc2e-b2606c23faa2@c19d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:71bff9e0-d96b-4b9f-ac9c-7d0f794f429d@71bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:886e9d0f-3611-44e2-b5d2-9111c3e2c0a2@886e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Location: Olomouc\, CZ
+SUMMARY:Moravská Vernisáž piva — Judging Date
+UID:1e09d23e-91a9-45fd-8b1f-fb41f062f605@1e09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Location: Ipswich\, Suffolk\, GB
+SUMMARY:Anglian Challenge 2026 — Entry Deadline
+UID:bafcfab9-636e-4154-91d2-a992c152083e@bafc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Location: Orlando\, FL\, US
+SUMMARY:Hot N Humid 2026 — Judging Date
+UID:72c3f9d8-f9cf-43db-8770-b373b48bf979@72c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Location: Fort Collins\, Colorado\, US
+SUMMARY:Poetry Slam — Judging Date
+UID:b8f8d2a7-1beb-4ea5-8a42-726effb7697d@b8f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Montevideo\, Montevideo\, UY
+SUMMARY:Primer Concurso CCCUY 2026 — Judging Date
+UID:12572426-33a1-44fd-a2ca-219700eaab54@1257.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:Location: Colorado Springs\, CO\, US
+SUMMARY:Peterson Homebrew Fest — Entry Deadline
+UID:1947e755-60f3-4509-8214-be7cdbb5f9c4@1947.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:f16b2910-13da-4440-b9f3-2379e196240b@f16b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:e1be8a1b-28a2-4bf0-9064-eb29d7447aa1@e1be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+DESCRIPTION:Location: Dortmund\, NRW\, DE
+SUMMARY:Ruhrpottmeisterschaft der Hobbybrauer 2026 — Entry Deadline
+UID:8102dbe1-0a9b-46f4-b759-6cdc299140a5@8102.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Location: Lebanon\, NJ\, US
+SUMMARY:8th Annual Garden State Homebrew Competition — Entry Deadline
+UID:e907dde8-4da5-46e3-9a23-68446ba0b6c2@e907.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DESCRIPTION:Location: WICHITA\, KS\, US
+SUMMARY:WHO Brews It — Entry Deadline
+UID:e95f122d-1e11-4773-a40a-a78b3dee0126@e95f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Penticton\, British Columbia\, CA
+SUMMARY:Okanagan Fest of Ale — Judging Date
+UID:946b9179-51b0-41e5-ad88-8cd2ef6b8c20@946b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+DESCRIPTION:Location: Walnut Creek\, CA\, US
+SUMMARY:BareBottle Homebrew Invitational — Entry Deadline
+UID:d238eae2-0c15-4d8a-81fb-c2003b2d16f6@d238.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Location: Grand Junction\, CO\, US
+SUMMARY:Collared Lizard Classic 2026 — Judging Date
+UID:cbb78183-99e6-43df-8c7b-2479a9093f56@cbb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Location: Grodzisk Wielkopolski\, Wielkopolskie\, PL
+SUMMARY:Grodzisk Beer Competition (Homebrew) — Entry Deadline
+UID:2e411159-b863-4866-80c3-827aa85c5b9f@2e41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Location: Fort Worth\, Texas\, US
+SUMMARY:Bluebonnet Brewoff for 2026 — Judging Date
+UID:08bea660-c4d0-475c-8265-9260c39df8ef@08be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Location: \,
+SUMMARY:V Concurs Homebrewer Montseny — Entry Deadline
+UID:368103e6-f083-4727-ba84-fb18ab7e98fd@3681.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+DESCRIPTION:Location: Ensenada\, Baja California\, MX
+SUMMARY:Copa Cervecera Del Pacifico — Entry Deadline
+UID:6841c003-3267-47e0-a060-9421f56f47e7@6841.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Location: Orlando\, FL\, US
+SUMMARY:Hot N Humid 2026 — Entry Deadline
+UID:39aeac0d-2266-455f-ac73-febfc97f15bb@39ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:f098750e-d8dc-46af-9d7f-4ee796b25bd5@f098.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Sacramento\, CA\, US
+SUMMARY:California Commercial Craft Beer — Entry Deadline
+UID:a1ac3c57-abf4-4a38-9a50-633de376d58e@a1ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:fc7e17fa-e182-43fb-8acf-cf3d26aa2bba@fc7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Location: Saskatoon\, SK\, CA
+SUMMARY:Prairie Beer Awards 2025 Saskatoon — Judging Date
+UID:f8f7b6de-7f11-4647-a30c-f532900660cc@f8f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260527
+DESCRIPTION:Location: Losone\, Ticino\, CH
+SUMMARY:MBC meets Osteria La Fabbrica — Entry Deadline
+UID:d4924807-eddd-49b1-9abf-77f741f3048c@d492.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:Location: Richmond\, VA\,
+SUMMARY:Dominion Cup 2026 — Judging Date
+UID:45e57259-08ea-404d-9bfd-4bb88b3b5a4f@45e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Location: DEL MAR\, CA\, US
+SUMMARY:San Diego County Fair Craft Brew Competition — Entry Deadline
+UID:be4b4bde-179a-423c-b8a7-ef11eff903ef@be4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Naremburn\, NSW\, AU
+SUMMARY:Flat Rock Brew Comp — Entry Deadline
+UID:9aed1ff5-0a9b-4b9f-9f4a-8d0d1a11e85c@9aed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:Location: Arequipa\, AREQUIPA\, PE
+SUMMARY:COPA DE LOS VOLCANES 4TA EDICION — Entry Deadline
+UID:aa077d6a-eec8-4aed-87de-211e30f11721@aa07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Location: Niagara Falls\, NY\, US
+SUMMARY:Amber Waves of Grain — Entry Deadline
+UID:17092a26-27ae-4cfa-aeb9-19910250727e@1709.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Location: Casette d'Ete (FM)\, IT
+SUMMARY:BREW WARS - Episode II - Alte Fermentazioni — Entry Deadline
+UID:1585271e-70dd-43cf-89b9-8742831e71a8@1585.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Location: Miami\, FL\, US
+SUMMARY:Coconut Cup - 2026 — Entry Deadline
+UID:8eb18960-dd44-4875-ade5-2f70bbb962f5@8eb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Melbourne\, Victoria\, AU
+SUMMARY:Merri Mashers IPA Competition 2026 — Entry Deadline
+UID:559a4e6f-2a70-4973-ae3f-a8b0298d82e7@559a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Location: Singapore\, Singapore\, SG
+SUMMARY:Singapore International Beer Awards 2026( SINBA) — Judging Date
+UID:69c08731-4c70-497b-b800-393673637e28@69c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:19f3f808-6907-4c62-9c75-b86a62860d89@19f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Location: Amarillo\, TX\, US
+SUMMARY:Palo Duro Cup — Entry Deadline
+UID:c2d9e927-8413-4c8c-9728-a8fcdba1114e@c2d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DESCRIPTION:Location: Los Angeles\, California\, US
+SUMMARY:Bright Side Of Summer — Entry Deadline
+UID:4553ebeb-445e-4102-b40b-5dbabd178aa5@4553.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Location: \, Alberta\, CA
+SUMMARY:BRB Sizzlin' Hop Summer Showdown - 3rd Annual — Judging Date
+UID:4de3befc-37e4-431c-8cb5-4bb8d7024514@4de3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:8c1590fe-995e-47cb-ba61-58eab81fa420@8c15.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:Location: Pleasanton\, CA\, US
+SUMMARY:2026 Bay Area Brew Off - Alameda County Fair Homebrew Competition — Judging Date
+UID:ac45c6af-f209-4676-bd3e-9d306a6d2e57@ac45.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Location: Bayreuth\, Bayern\, DE
+SUMMARY:Homebrew Bayreuth by Maisel and Friends — Judging Date
+UID:649ef150-baa4-4948-806f-5e4bcb158ef7@649e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: Indianapolis\, IN\, US
+SUMMARY:2026 National Homebrew Competition First Round - Indianapolis — Entry Deadline
+UID:050de9a0-5647-4756-acf8-8dc6e65c7a18@050d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:dc20794d-58d6-43db-bbbc-6a9595c5868a@dc20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: Corvallis\, Oregon\, US
+SUMMARY:44th Annual Oregon Homebrew Festival — Judging Date
+UID:b7f80c46-bb32-4aad-a921-50eec43b218f@b7f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: San Bernardino\, Cordillera\, PY
+SUMMARY:V Paraguayan Cup — Judging Date
+UID:d380f431-1b90-4e72-af61-6b9cb88c9efb@d380.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Location: Sunriver\, OR\, US
+SUMMARY:2026 Best of Craft Beer Awards — Entry Deadline
+UID:e7958dc1-64a8-4281-90bb-8aff85ce8d4b@e795.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Rome\, IT
+SUMMARY:Lost and Found 4 old-style homebrewing contest — Judging Date
+UID:f3c7b1b2-9c96-4654-8fd6-30b9a48a60ea@f3c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Location: Campo Grande\, MS\, BR
+SUMMARY:XIX CONCURSO NACIONAL DAS ACERVAS 2026 — Judging Date
+UID:cc51f3fd-a9d1-4c5d-8750-f6ddb9c0cbdc@cc51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:Location: Rancho Cordova\, CA\, US
+SUMMARY:Brewers Cup Of California — Entry Deadline
+UID:a9a43706-c30c-4ace-80ba-f55c3d94be75@a9a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:Location: Bałtów\, Świętokrzyskie\, PL
+SUMMARY:MPPD 2026 - Polish Open Homebrewers Championship — Entry Deadline
+UID:636c35c8-9db2-4f50-a569-2af803192aa6@636c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: San Diego\, CA\,
+SUMMARY:America's Finest City Homebrew Competition 2026 — Judging Date
+UID:3ab41912-fe36-42a5-8eab-25aea1109389@3ab4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DESCRIPTION:Location: \, Alberta\, CA
+SUMMARY:BRB Sizzlin' Hop Summer Showdown - 3rd Annual — Entry Deadline
+UID:c6616aa9-91f5-4083-a3db-1b92d6275736@c661.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Location: Minnetonka\, MN\, US
+SUMMARY:Valkyries Horn Mead Competition - Amateur — Judging Date
+UID:d7ba55fc-0132-468e-b97f-058c6ccba9fe@d7ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:Location: \, EC
+SUMMARY:Copa Cervecera Mitad del Mundo X - 2026 — Entry Deadline
+UID:85a28618-54cf-48a5-b6a3-10b4efde74c0@85a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: La Redondela\, ANDALUCÍA\, ES
+SUMMARY:IV Concurso Homebrewer Save The Lagers — Judging Date
+UID:312e8c18-aedd-47f3-bba1-64f9408205cc@312e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:b24e4242-118e-4857-9c2a-97c2a52371bc@b24e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Location: Bergamo\, IT
+SUMMARY:DIASTATICUS – SAISON & FARMHOUSE ALE — Entry Deadline
+UID:6aa839da-e2df-4a38-8427-2937aeafff56@6aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Location: Washington\, DC\, US
+SUMMARY:Cherry Blossom Homebrew Competition — Judging Date
+UID:ce36f02e-83b4-482d-b0c1-7dbc10dd729a@ce36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:e93cf9e0-673b-431a-afc0-80767abe381e@e93c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Location: Rennes\, FR
+SUMMARY:Saint Malo Craft Beer Expo Homebrew Competition 2026 — Entry Deadline
+UID:038a668b-0fa8-43d6-bc60-04aa90e9176b@038a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Location: Port Jefferson Station\, N.Y.\, US
+SUMMARY:29th Annual Beer Mead and Cider Brew Off — Judging Date
+UID:73812847-c2e7-42b5-ba29-fa7135b47d85@7381.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: Fortaleza\, Ceará\, BR
+SUMMARY:Concurso Estadual de cervejeiros caseiros do Ceará 2026 - ACervA Cearense — Judging Date
+UID:a977d0bc-0614-496d-96df-6ceb488b59f5@a977.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DESCRIPTION:Location: Bloomington\, IN\, US
+SUMMARY:Tap Out Homebrew Pro-Am — Judging Date
+UID:fb0726fd-1766-4487-be61-2a1dc5814c2a@fb07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Location: Kelowna\, BC\, CA
+SUMMARY:2nd Annual Ogopogo Brewers Challenge (Homebrew & Commercial) — Entry Deadline
+UID:1e05d924-5351-417b-b7e8-32fac05e6867@1e05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+DESCRIPTION:Location: Budapest\, Pest\, HU
+SUMMARY:II. Sörminta Házisörfőző Verseny 2026. — Judging Date
+UID:ad523ffe-d20f-4be8-8eb6-90fc6130220d@ad52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Location: Mexico City\, Mexico City\, MX
+SUMMARY:Chilango Homebrewer Cup 2026 — Entry Deadline
+UID:d7f630c3-8225-4a23-b61e-89645ca85ebe@d7f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Location: Aci Castello (CT)\, Non-USA\, Non-Canada\, IT
+SUMMARY:Trinacria Homebrewers Championship 2026 - I Tappa — Entry Deadline
+UID:2b323825-3a03-442a-9feb-aea7bc2d914a@2b32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Location: Woodinville\, WA\, US
+SUMMARY:Cascade Brewers Cup — Judging Date
+UID:36586f2e-1f74-4e8f-8fcf-b0d78db788b7@3658.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: Chicago\, IL\, US
+SUMMARY:2026 National Homebrew Competition First Round - Chicago — Entry Deadline
+UID:a2b43d61-19f1-4373-8908-9eabcbbb44e9@a2b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Location: Denver\, Colorado\, US
+SUMMARY:Orpheus MeadFest Homebrew Division — Entry Deadline
+UID:81a8bcdd-c65b-4732-b408-8eea14ca70f3@81a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Location: Lebanon\, TN\, US
+SUMMARY:Tennessee State Fair Homebrewing Competition — Entry Deadline
+UID:a154ed1d-c441-4243-9c67-cada4c8f38e1@a154.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DESCRIPTION:Location: Kosice\, SK
+SUMMARY:Hopnrolla Home Brew 2026 — Judging Date
+UID:85e8bf9a-ec65-47c3-ba37-4a579e5b95cb@85e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Location: Muang Chiangmai\, Chiangmai\, TH
+SUMMARY:North Beer Challenge 2026 — Entry Deadline
+UID:587847ca-a2f8-4135-8392-d4f066106308@5878.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Brighton\, MI\, US
+SUMMARY:Celebrity Deathmash 2026 — Entry Deadline
+UID:018081b9-6261-4c1f-9878-970545f8cf62@0180.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Location: Santiago de Chile\, Capital\, Metropolitana\, CL
+SUMMARY:HomeBrew Cup Chile 2026 - 7th Edition — Entry Deadline
+UID:a430c0a7-8f52-42a6-8dcd-2a01f5882528@a430.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:9b53dcce-0992-422e-a526-80d8709b3acc@9b53.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:78cbba2f-63ae-400d-b468-15215dee9f35@78cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: \,
+SUMMARY:Malt Madness — Judging Date
+UID:bf34c21c-ef8c-46f1-8154-a1d7f3490bf3@bf34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DESCRIPTION:Location: Saskatoon\, SK\, CA
+SUMMARY:Prairie Beer Awards 2025 Saskatoon — Entry Deadline
+UID:06262576-a28c-43cb-8b20-5b1d6dd78f6c@0626.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Longmont\, CO\, US
+SUMMARY:Peak-to-Peak ProAm 2026 — Judging Date
+UID:d1e4e496-f81b-4e78-a2e7-95b1a6f1cebd@d1e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Morristown\, NJ\, US
+SUMMARY:Yeasty Boi’s: No Sleep ’Til Belgium — Judging Date
+UID:c18e8bda-956b-42e5-a4dd-59eb451da72c@c18e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:Location: Gavoi\, Sardinia\, IT
+SUMMARY:BeerBagia Homebrewing Contest 2026 — Judging Date
+UID:b7f3a999-3e1c-4d3b-ae62-2b6340eb141a@b7f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Location: Centallo (CN)\, IT
+SUMMARY:Faida degli Homebrewers Atto X — Entry Deadline
+UID:74e73726-0874-458d-9d2e-a5075cb5d628@74e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Location: Boulder\, Colorado\, US
+SUMMARY:Dredhop 2026 — Entry Deadline
+UID:39804773-fd28-46ce-9070-e7edb6ef675b@3980.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Firenze\, Firenze\, IT
+SUMMARY:BrewIT goes RED — Entry Deadline
+UID:57245cc0-a5e8-49b5-8025-5efa29dcff5c@5724.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: Amarillo\, TX\, US
+SUMMARY:Palo Duro Cup — Judging Date
+UID:7219af47-2b9e-4b33-a9e0-38c11ce79243@7219.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Location: Fredericksburg\, TX\, US
+SUMMARY:Fredericksburg Craft Beer Competition — Judging Date
+UID:7347b61f-6759-4f89-a311-35d39c07b222@7347.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Location: Penticton\, British Columbia\, CA
+SUMMARY:Okanagan Fest of Ale — Entry Deadline
+UID:140742a0-3ee3-4097-a566-e6562abd5289@1407.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Location: Kosice\, SK
+SUMMARY:Hopnrolla Home Brew 2026 — Entry Deadline
+UID:54158b15-e635-4bf7-8f63-e7069c6a8d88@5415.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:Location: Budapest\, HU
+SUMMARY:XIV. HOMEBREWERS INTERNATIONAL COMPETITION - HUNGARY — Judging Date
+UID:11dc150d-82b3-4011-8378-fff2699e28cb@11dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+DESCRIPTION:Location: Ipswich\, Suffolk\, GB
+SUMMARY:Anglian Challenge 2026 — Judging Date
+UID:52a6360e-fdd0-4039-873c-a9103074d55d@52a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:87fdc94e-0c1f-4e0f-992f-e2a23f57bcc6@87fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:1c2c0683-b2e1-4fea-837f-195d04c72a1b@1c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:f96ea8fc-7257-4cc7-952b-c27ac08496bc@f96e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Location: Losone\, Ticino\, CH
+SUMMARY:MBC meets Osteria La Fabbrica — Judging Date
+UID:50810595-acae-483f-b344-70016cc32ae7@5081.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Location: Frankenmuth\, MI\, US
+SUMMARY:World Expo of Beer Commercial Competition — Entry Deadline
+UID:7077fbf8-8121-492f-8db7-00c6314baca4@7077.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Shanghai\, Shanghai\, CN
+SUMMARY:首届中国茶啤大赛丨The 1st Chinese Tea Beer Awards — Judging Date
+UID:5a24461e-4cad-4a91-9344-2c087e36cf7d@5a24.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Location: Gainesville\, FL\, US
+SUMMARY:Hogtown Brew Off — Entry Deadline
+UID:f88a344a-74a1-4109-aac0-fa4f3b999a80@f88a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Location: London\, GB
+SUMMARY:West Coast Best Coast 2026 — Judging Date
+UID:cec62fee-5977-4d7d-832c-ddb00ec056a7@cec6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Location: Dublin\, Non-USA\, Non-Canada\, IE
+SUMMARY:NHC Ireland National Homebrew Competition 2026 — Judging Date
+UID:a4d20c76-84ec-48e7-966d-95ff28c20a62@a4d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Location: Miamisburg\, OH\, US
+SUMMARY:Star City Open — Entry Deadline
+UID:e492c3ff-4749-4b90-b8f7-9e9765ac6345@e492.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Washington\, DC\, US
+SUMMARY:Cherry Blossom Homebrew Competition — Entry Deadline
+UID:d757e68d-ea0e-4fa2-aedd-de6a830b6cf8@d757.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Kansas City\, MO\, US
+SUMMARY:2026 National Homebrew Competition First Round - Kansas City\, MO — Judging Date
+UID:6109d4cd-4d25-497b-8b59-d98c7009d4c7@6109.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Duluth\, MN\, US
+SUMMARY:Great Northern Brew Ha Ha — Judging Date
+UID:8562bcd6-3a8d-4ed2-b978-86e8b3fa80c4@8562.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: \, AR
+SUMMARY:Copa Argentina de Cervezas XI & South Beer Cup\, The Champions XIV — Entry Deadline
+UID:9d7e8b8a-cbb8-49d3-b2b4-9a0b6cbf7049@9d7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:Location: Portage\, MI\, US
+SUMMARY:2026 Michigan Beer Cup — Judging Date
+UID:eeee1207-3283-48e7-86f4-e08620ded1a7@eeee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Location: \,
+SUMMARY:Commander SAAZ 2026 — Judging Date
+UID:6e0f7473-fff7-492d-8cb2-ffa26251df1d@6e0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Auburn\, CA\, US
+SUMMARY:PUBS Invitational — Judging Date
+UID:3968a06e-5a19-44d0-8975-21c6ded09e4d@3968.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:767042b6-b7dd-4226-b285-5eb51ef907ed@7670.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:d46fcb9d-dd03-4218-abb3-a062299a865f@d46f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: Woodinville\, WA\, US
+SUMMARY:2026 National Homebrew Competition First Round - Seattle — Entry Deadline
+UID:4d1d9dc8-b8d0-4e10-87b1-33f3abcf57dc@4d1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Location: Chesterland\, Ohio\, US
+SUMMARY:King of the Mountain — Entry Deadline
+UID:ef1bc76e-e3d0-448f-9232-fb968e47252c@ef1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Brighton\, MI\, US
+SUMMARY:Celebrity Deathmash 2026 — Judging Date
+UID:a428d5ca-f190-43dc-94f6-83b67714b8bb@a428.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Location: Boynton Beach\, Florida\, US
+SUMMARY:Hurricane Blowoff 2026 — Entry Deadline
+UID:468d3cca-f564-4af0-a21c-0d526afc26e6@468d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Cuenca\, Azuay\, EC
+SUMMARY:Copa Cervecera del Austro 2026 — Judging Date
+UID:b245aca9-9b98-4c6e-8ae2-dd1c953f73d2@b245.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Location: Alameda\, CA\, US
+SUMMARY:World Cup of Beer — Entry Deadline
+UID:0cb86a2e-4690-4633-bf0d-214e583d29fd@0cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Location: Grodzisk Wielkopolski\, Wielkopolskie\, PL
+SUMMARY:Grodzisk Beer Competition (Homebrew) — Judging Date
+UID:99030fbb-3e51-41ac-aee4-937f23c97d21@9903.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Location: Ciudad de Mexico\, Ciudad de Mexico\, MX
+SUMMARY:COPA MEGA BEERFEST 4a Ed — Entry Deadline
+UID:b0f93d95-9cc8-4186-9aa9-4adc7f34cadc@b0f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Location: San Rafael\, CA\, US
+SUMMARY:Marin County Fair 2026 Homebrew Competition — Entry Deadline
+UID:dce1b0e6-93f8-4532-908e-909c64ff39c2@dce1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Location: Portland\, Oregon\, US
+SUMMARY:Portland Brewers Cup — Entry Deadline
+UID:799734a4-fd73-4a1c-b946-a8a205f335c7@7997.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Barcelona\, Barcelona\, ES
+SUMMARY:European Ferment Masters — Judging Date
+UID:511e6f85-6a8b-4cc8-b2df-1b07ef715609@511e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DESCRIPTION:Location: INDIANAPOLIS\, IN\, US
+SUMMARY:Indiana Brewers Cup — Judging Date
+UID:f8118b03-4cd4-4971-a2cd-0abf06bbbb0a@f811.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+DESCRIPTION:Location: Daegu\, KR
+SUMMARY:Daegu Stout Smackdown — Entry Deadline
+UID:55df561b-0ffc-4c33-ac74-c5ff78838dd3@55df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Location: Gavoi\, Sardinia\, IT
+SUMMARY:BeerBagia Homebrewing Contest 2026 — Entry Deadline
+UID:4b9a6fb8-f1a8-49c6-a596-cb4507782eec@4b9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Location: Hickory\, NC\, US
+SUMMARY:Carolinas Championship of Beer 2026 — Entry Deadline
+UID:47089d86-24ce-4376-8f1e-857e5d9ace79@4708.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:7a0aa83e-be5b-4b67-a9d0-26a4d8070a08@7a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Location: Hamburg\, New York\, US
+SUMMARY:Erie County Fair Homebrew Competition — Judging Date
+UID:e4640f48-d7b7-457d-820e-c505d36a9023@e464.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: Casette d'Ete (FM)\, IT
+SUMMARY:BREW WARS - Episode II - Alte Fermentazioni — Judging Date
+UID:eb3b899d-7de7-4937-887e-4a932bdea762@eb3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Location: Tempe\, AZ\, US
+SUMMARY:2026 ASH Cactus Classic — Judging Date
+UID:4ed7cd72-06b0-4c05-beab-bf9ab7767041@4ed7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DESCRIPTION:Location: WICHITA\, KS\, US
+SUMMARY:WHO Brews It — Judging Date
+UID:d907c1aa-8f00-45f3-8347-0b9b38808182@d907.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:Location: Lebanon\, NJ\, US
+SUMMARY:8th Annual Garden State Homebrew Competition — Judging Date
+UID:5f439eb9-beb2-42ae-ab8f-70993f849235@5f43.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DESCRIPTION:Location: Sacramento\, CA\, US
+SUMMARY:California Commercial Craft Beer — Judging Date
+UID:9b8fa658-9a41-4149-b94f-6d991c9d0032@9b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:3e38143b-3208-46a4-b2aa-f201cace08c1@3e38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:Location: Cheyenne\, WY\, US
+SUMMARY:Wyoming Brewers Festival Brew Battle 2026 — Entry Deadline
+UID:d0a91150-8238-4040-a0f2-22a01335a47a@d0a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DESCRIPTION:Location: San Rafael\, CA\, US
+SUMMARY:Marin County Fair 2026 Homebrew Competition — Judging Date
+UID:a2a6bf25-aa6b-4dd1-bb97-f402a22de9ee@a2a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Burlington\, Vermont\, US
+SUMMARY:Greg Noonan Memorial Homebrew Competition — Judging Date
+UID:204c2ece-9cda-49c9-b5fb-c373efd2eab3@204c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:9c62b3c9-c394-4fd4-b653-b24f61a37afd@9c62.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:ec4dd385-a6cd-40dc-b55b-615d14910045@ec4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:406b3e8b-3738-46ac-a060-4f4b6ffffcf5@406b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Location: Richmond\, VA\, US
+SUMMARY:Virginia Craft Brewers Guild — Judging Date
+UID:06dfc688-118c-42a8-ad3d-d960889782fa@06df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Location: Asuncion\, Capital\, PY
+SUMMARY:Copa Guaraní de Cervezas 2026 — Entry Deadline
+UID:68f892ab-897e-4e35-8160-683ce34aac24@68f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:6b00ac7c-b7c4-4563-8079-a09e04e01955@6b00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Location: Corvallis\, Oregon\, US
+SUMMARY:44th Annual Oregon Homebrew Festival — Entry Deadline
+UID:89031775-8c09-4297-81fd-9349989992c9@8903.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Frankenmuth\, MI\, US
+SUMMARY:World Expo of Beer Commercial Competition — Judging Date
+UID:e4d4dabf-38ce-456c-82b7-2826d7e26779@e4d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Location: Oklahoma City\, OK\, US
+SUMMARY:Red Earth Brewers Spring Brew Off — Entry Deadline
+UID:fbcabaf2-7af4-4395-ad61-736d916dd715@fbca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:Location: Dundalk\, Louth\, IE
+SUMMARY:Hoppenheimer German Styles — Judging Date
+UID:d288efc0-2832-40f7-b8c0-6d4420ac7ee3@d288.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:def09233-0d9c-4d72-a1e6-1847e01fc133@def0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:dc5e91e5-efc7-4a9c-860e-ceb4cfb95b4b@dc5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:c09a7965-7e7a-4db7-8da3-45d1e736e950@c09a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Location: Morristown\, NJ\, US
+SUMMARY:Motown MASH — Entry Deadline
+UID:e443b105-d69b-4c6c-a4b5-66dc0324cbac@e443.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:Location: Denver\, CO\, US
+SUMMARY:Orpheus MeadFest Commercial Division — Judging Date
+UID:6747f8d3-3366-4f42-ab76-dd6f11be9dbe@6747.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260831
+DESCRIPTION:Location: Calgary\, Alberta\, CA
+SUMMARY:Canada Beer Cup Calgary 2026 — Judging Date
+UID:6ff889af-ebea-41f3-888f-50bf5769c2db@6ff8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Location: Morristown\, NJ\, US
+SUMMARY:Yeasty Boi’s: No Sleep ’Til Belgium — Entry Deadline
+UID:60087c77-2d89-42d3-b42d-010a85486aa9@6008.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:89e5449a-6b44-44a8-a559-528c33e98521@89e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Location: Brookfield\, IL\, US
+SUMMARY:Brixtoberfest — Entry Deadline
+UID:fa16e049-0e7d-4c82-9fa8-bcfa722f546d@fa16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Location: Vancouver\, BC\, CA
+SUMMARY:VanBrewer Awards — Judging Date
+UID:8171ae16-1997-4464-9d22-b76db5adffbf@8171.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Location: K?i?anov\, CZECH REPUBLIC\, CZ
+SUMMARY:GOOD WATER BEER CUP 2026 — Judging Date
+UID:27255483-ae34-4819-8fc7-d9bca29fddb1@2725.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Columbus\, Ohio\, US
+SUMMARY:SODZ British Beerfest — Judging Date
+UID:db8a10c1-0673-4ebc-bfeb-4832250e86c3@db8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Woodland Hills\, CA\, US
+SUMMARY:2026 Maltose Falcons Mayfaire — Judging Date
+UID:ee6ff096-beb4-4ea6-b0c6-23e6d2ed95e6@ee6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:67a832d8-8348-4fab-9cb5-b84e32658bce@67a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Location: Hampton\, VA\, US
+SUMMARY:19th Annual Virginia Beer Blitz — Judging Date
+UID:472114bb-8bc6-422a-9b01-b4a8b8a6219b@4721.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Colmurano (MC)\, IT
+SUMMARY:BREW WARS - Episode I - Basse Fermentazioni — Judging Date
+UID:9796aa70-2493-4a0b-88fe-9b50ed4cc2c9@9796.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Location: Kelowna\, BC\, CA
+SUMMARY:2nd Annual Ogopogo Brewers Challenge (Homebrew & Commercial) — Judging Date
+UID:1cb3b861-356f-4035-95ae-baa2b0522d50@1cb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Location: Cuenca\, Azuay\, EC
+SUMMARY:Copa Cervecera del Austro 2026 — Entry Deadline
+UID:db8753ce-5935-417d-9460-5dafcb429851@db87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Location: Ensenada\, Baja California\, MX
+SUMMARY:Copa Cervecera Del Pacifico — Judging Date
+UID:92e73918-846e-4f88-b45f-29a10d34bb40@92e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Location: Milano\, Milano\, IT
+SUMMARY:BrewIT goes BLACK — Entry Deadline
+UID:f13f4577-1317-454f-b7dc-4843390111a1@f13f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Location: Bento Gonçalves\, Rio Grande do Sul\, BR
+SUMMARY:IV Copa Sul-Americana de Cerveja — Entry Deadline
+UID:40d9e923-006e-47d9-b47c-af13a8973422@40d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Location: St. Louis\, MO\, US
+SUMMARY:Honey Beer Competition — Entry Deadline
+UID:51281045-c7dd-4de1-b158-b3db7c1e3c25@5128.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Location: Brooklyn\, NY\, US
+SUMMARY:Homebrew Alley XX — Entry Deadline
+UID:344bba69-c27c-4cfd-94b3-2130f87514c0@344b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Location: Genova\, IT
+SUMMARY:Lanterna Beers 2026 — Entry Deadline
+UID:9d81f436-1f7e-49b2-9462-7f35a7f7144c@9d81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Location: West Allis\, WI\, US
+SUMMARY:Wisconsin State Fair Amateur Homebrew Competition — Entry Deadline
+UID:e96ea86a-a38e-46b9-ba96-7ca372255c26@e96e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Location: San Bernardino\, Cordillera\, PY
+SUMMARY:V Paraguayan Cup - Homebrewers — Entry Deadline
+UID:9cdca09f-c3bf-4022-8bae-af825a0baed2@9cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:9c3890f6-31d8-4ec0-a614-aeb64d641b8c@9c38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Colmurano (MC)\, IT
+SUMMARY:BREW WARS - Episode I - Basse Fermentazioni — Entry Deadline
+UID:1139c4ab-86a0-4d59-a793-f6634fd4d6dd@1139.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260131
+DESCRIPTION:Location: Rome\, IT
+SUMMARY:Lost and Found 4 old-style homebrewing contest — Entry Deadline
+UID:7726f956-99da-4064-8c27-e9e8b869208a@7726.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:35b6994a-504c-47ef-b67a-8f8fffc29716@35b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Location: Port Jefferson Station\, N.Y.\, US
+SUMMARY:29th Annual Beer Mead and Cider Brew Off — Entry Deadline
+UID:9c4fcf78-f569-4edb-b26a-b70087bcfb65@9c4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260714
+DESCRIPTION:Location: Guadalajara\, Jal.\, MX
+SUMMARY:Copa San Arnulfo Guadalajara — Entry Deadline
+UID:9aa0f48d-2e24-4ce4-a18a-57e7a39f142a@9aa0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Chicago\, IL\, US
+SUMMARY:2026 National Homebrew Competition First Round - Chicago — Judging Date
+UID:6db3870c-b288-4ec7-b99f-2e4f17b887c3@6db3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+DESCRIPTION:Location: Upper Hutt\, NZ
+SUMMARY:Autumn Invitational — Entry Deadline
+UID:9fb9492b-8ae5-41d8-b5df-da4d2b604f98@9fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:Location: Downingtown\, PA\, US
+SUMMARY:2026 Buzz Off — Entry Deadline
+UID:613939b6-54ac-4c8e-acd8-f52aeaab5c94@6139.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+DESCRIPTION:Location: Fortaleza\, Ceará\, BR
+SUMMARY:Concurso Estadual de cervejeiros caseiros do Ceará 2026 - ACervA Cearense — Entry Deadline
+UID:47cfb8b8-5921-4091-a38e-9562f09be69c@47cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Location: Essen\, NRW\, DE
+SUMMARY:Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co — Judging Date
+UID:ab224623-c1e7-4d0a-b4da-89d2bbc80854@ab22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:Location: Richmond\, VA\,
+SUMMARY:Dominion Cup 2026 — Entry Deadline
+UID:cfdf15d4-ee1f-4cd7-aa73-4585adff3bf9@cfdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Auburn\, CA\, US
+SUMMARY:PUBS Invitational — Entry Deadline
+UID:71cba3f1-0f78-4bcd-8d48-512db62722a2@71cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Location: Paju-si\, Gyeonggi-do\, KR
+SUMMARY:Korea Homebrew Competition 24th — Judging Date
+UID:f5eae300-8f06-4432-8d25-7e9b06d26be0@f5ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Aurora\, IL\, US
+SUMMARY:28th Annual Drunk Monk Challenge — Judging Date
+UID:f7d4242d-f07c-4b2f-9010-3b83a9ab8518@f7d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:a1763793-0ed8-4a63-8881-942ab269eea1@a176.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260421
+DESCRIPTION:Location: Curitiba\, Paraná\, BR
+SUMMARY:X Concurso Sul Brasileiro das Acervas — Judging Date
+UID:ed9993c1-fa28-47e6-a97c-a5ba8e67310e@ed99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:e6a84498-490e-4aa6-a53d-648af4f3af53@e6a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+DESCRIPTION:Location: Cape Town\, ZA
+SUMMARY:African Beer Cup — Judging Date
+UID:6f6010f9-71bb-48c6-920f-8ab78ee4d1c9@6f60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: King of Prussia\, PA\, US
+SUMMARY:2026 National Homebrew Competition 1st Round - Philadelphia\, PA — Entry Deadline
+UID:96b637b3-6469-4aba-a9b8-67d130d491cc@96b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: Portland\, Oregon\, US
+SUMMARY:Portland Brewers Cup — Judging Date
+UID:d4a973e2-d5d0-4791-9f71-121e7af68960@d4a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Location: Asheville\, NC\, US
+SUMMARY:2026 National Homebrew Competition - Final Round — Entry Deadline
+UID:82ff9973-4328-4833-afe9-cbe16a03b7d5@82ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Location: Aachen\, DE
+SUMMARY:Natürlich geht mehr! Kreativbrauwettbewerb 2026 (Fruchtbier) — Entry Deadline
+UID:078d562b-a772-4440-9c15-01ae0744fc28@078d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Location: DEL MAR\, CA\, US
+SUMMARY:San Diego County Fair Craft Brew Competition — Judging Date
+UID:c2d89578-bcf8-48d9-90d4-fe9dc564ee89@c2d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:16f3b26e-9b4d-4450-823a-a9df0d5b8fdf@16f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Location: Dublin\, Non-USA\, Non-Canada\, IE
+SUMMARY:NHC Ireland National Homebrew Competition 2026 — Entry Deadline
+UID:bba9e545-bd38-4aaa-967e-cc93aa848f46@bba9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Location: Bento Gonçalves\, Rio Grande do Sul\, BR
+SUMMARY:IV Copa Sul-Americana de Cerveja — Judging Date
+UID:8bf9731d-f054-4131-8050-fc02d18a4ce6@8bf9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: Kansas City\, MO\, US
+SUMMARY:2026 National Homebrew Competition First Round - Kansas City\, MO — Entry Deadline
+UID:ce686731-010a-490a-a354-f2a2bfd3882a@ce68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Location: La Crosse\, WI\, US
+SUMMARY:Between the Bluffs homebrew competition — Entry Deadline
+UID:81e7bc75-f7e2-4c34-8c0a-ce634f503851@81e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+DESCRIPTION:Location: Bratislava\, SK
+SUMMARY:Bratislavsky Hrncova 2026 — Entry Deadline
+UID:f21511f7-c1cd-49b3-99b0-5e1e77c814b0@f215.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Location: Grand Junction\, CO\, US
+SUMMARY:Collared Lizard Classic 2026 — Entry Deadline
+UID:187d2a8d-c346-455f-a9fb-cbde7c655ac6@187d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Location: Niagara Falls\, NY\, US
+SUMMARY:Amber Waves of Grain — Entry Deadline
+UID:9b0786fd-d0fd-4643-baf8-5ae0246bc537@9b07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: \,
+SUMMARY:2nd Taiwan Honey Beer home brew competition — Judging Date
+UID:2470e7e9-5bc5-4193-8a12-a25058d18611@2470.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:Location: Lebanon\, TN\, US
+SUMMARY:Tennessee State Fair Homebrewing Competition — Judging Date
+UID:28d8b20a-5198-4283-9470-b513aa6e1a55@28d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+DESCRIPTION:Location: Fort Collins\, Colorado\, US
+SUMMARY:Poetry Slam — Entry Deadline
+UID:73b63979-33d3-43e2-9263-af0bb62ced89@73b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Location: Hoover\, AL\, US
+SUMMARY:Alabama Brewer's Cup — Judging Date
+UID:105e3da6-f269-4a99-950a-835d8f06ace8@105e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Raleigh\, NC\, US
+SUMMARY:Shamrock Open XXXI — Judging Date
+UID:27064a52-0a54-4730-be7d-a529e604af3f@2706.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Location: Alameda\, CA\, US
+SUMMARY:World Cup of Beer — Judging Date
+UID:e190f96c-ad7c-441f-af9c-64a40be7f648@e190.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Location: Woodinville\, WA\, US
+SUMMARY:Cascade Brewers Cup — Entry Deadline
+UID:df26ff51-2282-481b-9420-f6d781292764@df26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Location: Barcelona\, Barcelona\, ES
+SUMMARY:European Ferment Masters — Entry Deadline
+UID:7f1fa8a3-9b64-447b-ab6f-4c1473a7228e@7f1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DESCRIPTION:Location: St. Louis\, MO\, US
+SUMMARY:Honey Beer Competition — Judging Date
+UID:732d8147-f7ba-40c7-98f4-c765cac74cb9@732d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:803f210d-56fa-404a-967e-ee06ed8a9f09@803f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Location: Itasca\, IL\, US
+SUMMARY:Wortapalooza — Entry Deadline
+UID:56f025f7-dd69-4e67-825a-92ae58143a76@56f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Location: Eunice\, LA\, US
+SUMMARY:Boot Brew Fest — Entry Deadline
+UID:d7fde784-0821-4747-9084-bfdc20e96ca5@d7fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Rondebosch\, Western Cape\, ZA
+SUMMARY:FOOLS AND FANS 9 — Judging Date
+UID:a2a8ee1d-246d-4a2a-8246-1721df94c9aa@a2a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Location: London\, London\, GB
+SUMMARY:LAB Open 2026 — Entry Deadline
+UID:a3045cf6-0938-418d-8d91-dbf0b66e558c@a304.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:Location: Woodbridge\, CT\, US
+SUMMARY:Southern New England Regional Homebrew Competition — Judging Date
+UID:6e356cfe-1b45-41b7-886a-db61fcc7aa7d@6e35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Location: Rancho Cordova\, CA\, US
+SUMMARY:Brewers Cup Of California — Judging Date
+UID:8b522506-1312-4674-bf7d-782f3bccce1d@8b52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Location: Delta\, PA\, US
+SUMMARY:Valhalla: The Mead-ing Of Life — Entry Deadline
+UID:89eba97d-ecd8-4900-a452-b2fceddae37b@89eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:Location: Hampton\, VA\, US
+SUMMARY:19th Annual Virginia Beer Blitz — Entry Deadline
+UID:a2757448-a4af-4a19-bbaf-07ad5d836b6b@a275.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Location: Hoover\, AL\, US
+SUMMARY:Alabama Brewer's Cup — Entry Deadline
+UID:fee597ff-54e3-42b7-b222-7b7a98653fe4@fee5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: Muntlix\, Vorarlberg\, AT
+SUMMARY:ABC - austrian beer challenge — Judging Date
+UID:4048cd2c-20af-45ae-ba88-9788a90c8b62@4048.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Location: Louisville\, KY\, US
+SUMMARY:Kentucky State Fair Homebrew Competition — Entry Deadline
+UID:49947c92-544b-426d-ac10-fe9761ee2ca2@4994.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:68de9bd6-ef99-43b3-ad24-66ba6fab9fab@68de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:16845c97-4a2d-47e9-acba-7970a90a04b9@1684.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:4b328a27-29dc-404d-b48d-ebcf4c524273@4b32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DESCRIPTION:Location: Mexico City\, Mexico City\, MX
+SUMMARY:Chilango Homebrewer Cup 2026 — Judging Date
+UID:df1eb528-134b-455a-94fb-0ad31e396afb@df1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Location: Indianapolis\, IN\, US
+SUMMARY:2026 National Homebrew Competition First Round - Indianapolis — Judging Date
+UID:20846ee9-708a-4e4b-87b1-4d9e56a83225@2084.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DESCRIPTION:Location: Portland\, OR\, US
+SUMMARY:Your Honey or Your Life — Judging Date
+UID:daae3e87-df17-4b72-9fc3-b2b6fd421fc5@daae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+DESCRIPTION:Location: \, EC
+SUMMARY:Copa Cervecera Mitad del Mundo X - 2026 — Judging Date
+UID:a196b8ac-66e7-4b5e-9827-6c761368a754@a196.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Location: Split\, HR
+SUMMARY:SMASH Homebrewing Competition 2026 — Judging Date
+UID:40c589d1-4c57-44ee-9d3b-0503195aa27c@40c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:fa03cc2a-a865-429d-a602-d71f93929297@fa03.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Location: Grodzisk Wielkopolski\, Wielkopolskie\, PL
+SUMMARY:Grodzisk Beer Competition (Professional) — Entry Deadline
+UID:c2aa0c5b-faf0-412b-a91e-7659acaff507@c2aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Location: Centallo (CN)\, IT
+SUMMARY:Faida degli Homebrewers Atto X — Judging Date
+UID:ab5bda43-415a-45a8-ab21-e90d34e366fa@ab5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+DESCRIPTION:Location: Asuncion\, Capital\, PY
+SUMMARY:Copa Guaraní de Cervezas 2026 - Caseros (10mo Concurso de Cervezas Caseras del Paraguay) — Judging Date
+UID:67f886af-118f-49ed-84c4-8da700a7209e@67f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Location: La Crosse\, WI\, US
+SUMMARY:Between the Bluffs homebrew competition — Judging Date
+UID:07d2b580-a70b-4b05-8b9e-78fb1e42d164@07d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Location: Rockville\, Maryland\, US
+SUMMARY:Spirit of Free Beer — Judging Date
+UID:921bdfd3-3024-4713-882c-a81042128a3b@921b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Morristown\, NJ\, US
+SUMMARY:Yeasty Boi’s: No Sleep ’Til Belgium — Judging Date
+UID:c3168f01-6a4c-44c3-bd5a-134b8223b3a0@c316.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Location: Paju-si\, Gyeonggi-do\, KR
+SUMMARY:Korea Homebrew Competition 24th — Entry Deadline
+UID:37e1f89c-e105-437a-9c31-0f87f69f092a@37e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Location: \, AR
+SUMMARY:Copa Argentina de Cervezas XI & South Beer Cup\, The Champions XIV — Judging Date
+UID:d3d259a4-73fd-4cae-ba90-35c91b163f88@d3d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DESCRIPTION:Location: Essen\, NRW\, DE
+SUMMARY:Zweite Essener Hobbybrauer-Meisterschaft: Stout & Co — Entry Deadline
+UID:565f2b50-3002-41b1-a7ff-b63f37698f76@565f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Location: Genova\, IT
+SUMMARY:Lanterna Beers 2026 — Judging Date
+UID:a228aa89-ce92-40fd-a928-c85a388a18e6@a228.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+DESCRIPTION:Location: TAMPICO\, MX
+SUMMARY:ARO ROJO — Judging Date
+UID:637c3bd6-ac20-4e2d-a0f4-f6ea6a8b98fa@637c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Location: BOGOTÁ\, BOGOTÁ DC\, CO
+SUMMARY:Copa de Las Alturas 2026 — Entry Deadline
+UID:e9bd55d8-1088-4eda-9439-d056de0f32c7@e9bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Columbus\, Ohio\, US
+SUMMARY:SODZ British Beerfest — Judging Date
+UID:b863f496-2059-4dba-8940-9eef6404a929@b863.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:6dd9985f-d1d8-48bc-af71-afc45b40a8ca@6dd9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: Longmont\, CO\, US
+SUMMARY:2026 National Homebrew Competition First Round - Longmont\, CO — Entry Deadline
+UID:44751478-f8f7-41a2-ad43-0eb5dc329b29@4475.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260124
+DESCRIPTION:Location: Fort Worth\, Texas\, US
+SUMMARY:Bluebonnet Brewoff for 2026 — Entry Deadline
+UID:d57efd04-94ae-4e23-b801-822eb1db01d5@d57e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Judging Date
+UID:d94a8b86-092a-4961-b83d-ced53be78b47@d94a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: San Diego\, CA\, US
+SUMMARY:2026 National Homebrew Competition First Round - San Diego\, CA — Entry Deadline
+UID:de68bea3-e02d-4c87-9235-785008426ea5@de68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Location: Valencia\, Valencia\, ES
+SUMMARY:XVI Competicion Nacional de ACCE — Judging Date
+UID:652abfc4-3b19-4f53-acb5-ba35b77ab5d6@652a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+DESCRIPTION:Location: Asheville\, NC\, US
+SUMMARY:2026 National Homebrew Competition - Final Round — Judging Date
+UID:b4d2503a-3472-4bf8-8341-7021603c01e5@b4d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Location: San Bernardino\, Cordillera\, PY
+SUMMARY:V Paraguayan Cup - Homebrewers — Judging Date
+UID:31b1cd7c-f292-4be5-b4e5-f72f4ba48c91@31b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Location: San Antonio\, TX\, US
+SUMMARY:2026 Alamo City Brew Battle — Entry Deadline
+UID:bfb60e91-3e0a-4944-ab1a-52199216a3a2@bfb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Location: Riverside\, CA\, US
+SUMMARY:BeerMe BrewCup — Judging Date
+UID:cdaa64ed-b962-48ae-9833-b4c589eb5e41@cdaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:Location: INDIANAPOLIS\, IN\, US
+SUMMARY:Indiana Brewers Cup — Entry Deadline
+UID:e9b0c484-19ea-42a4-91c5-6e344bd9db32@e9b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Location: Pueblo\, CO\, US
+SUMMARY:Colorado State Fair Craft Beer Competition — Judging Date
+UID:4da857ad-765a-4355-9df3-c7dc3a9af01e@4da8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Location: La Redondela\, ANDALUCÍA\, ES
+SUMMARY:IV Concurso Homebrewer Save The Lagers — Entry Deadline
+UID:aa23e352-5cd2-4111-835d-6d5f2af9aa38@aa23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Regina\, SK\, CA
+SUMMARY:Ales Open — Entry Deadline
+UID:99e66a25-fa8d-44f3-97bd-6a01898de152@99e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Location: Brooklyn\, NY\, US
+SUMMARY:Homebrew Alley XX — Judging Date
+UID:a29f6866-83b4-422c-8f33-c55d8e155b37@a29f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+DESCRIPTION:Location: Budapest\, Pest\, HU
+SUMMARY:II. Sörminta Házisörfőző Verseny 2026. — Entry Deadline
+UID:9cda1393-ed03-4ff3-8251-6f650bd274c2@9cda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Location: Tampa\, FL\, US
+SUMMARY:2026 National Homebrew Competition First Round - Tampa — Entry Deadline
+UID:cce55136-f46d-40d6-8491-2d43231223df@cce5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Location: Colorado Springs\, CO\, US
+SUMMARY:Peterson Homebrew Fest — Judging Date
+UID:c928b8e5-a732-432d-aa10-26ef2a997c52@c928.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Location: Tempe\, AZ\, US
+SUMMARY:2026 ASH Cactus Classic — Entry Deadline
+UID:5d553994-8561-4f88-8a16-8f2350d83b87@5d55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Longmont\, CO\, US
+SUMMARY:2026 National Homebrew Competition First Round - Longmont\, CO — Judging Date
+UID:c8894543-4e84-4aa5-825d-6422151b833d@c889.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:4975f301-e96b-4709-9bf6-e84a11ee6d4d@4975.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Bloomington\, IN\, US
+SUMMARY:Tap Out Homebrew Pro-Am — Entry Deadline
+UID:4569ffd3-ed8d-48a1-8a02-07ab66b6463b@4569.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Location: San Salvador\, San Salvador\, SV
+SUMMARY:Copa C4 — Entry Deadline
+UID:e2eb633a-848c-48d3-8931-7448017d6886@e2eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DESCRIPTION:Location: Campo Grande\, MS\, BR
+SUMMARY:XIX CONCURSO NACIONAL DAS ACERVAS 2026 — Entry Deadline
+UID:2525ba7c-6eb3-48e7-aa69-31123e5ffb58@2525.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Location: Rennes\, Ille-et-Vilaine\, FR
+SUMMARY:7th CRAB Homebrewing Competition — Entry Deadline
+UID:66082532-c185-499b-9007-5366911c885b@6608.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Location: \,
+SUMMARY:Coal Country Brewers Cup 2026 — Judging Date
+UID:095e36a3-2600-4bdd-a51e-2370b8922e13@095e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Location: Pueblo\, CO\, US
+SUMMARY:Colorado State Fair Craft Beer Competition — Entry Deadline
+UID:0b8fab64-e463-4447-b989-80b9c3b325c0@0b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:Location: Bałtów\, Świętokrzyskie\, PL
+SUMMARY:MPPD 2026 - Polish Open Homebrewers Championship — Judging Date
+UID:0087ec3d-9e40-4a7f-a339-1a981a399afb@0087.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Location: Olomouc\, CZ
+SUMMARY:Moravská Vernisáž piva — Entry Deadline
+UID:f5703758-b291-458d-8bda-d424b400b554@f570.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Location: \,
+SUMMARY:Malt Madness — Entry Deadline
+UID:026912e5-510c-41b6-aba6-21d26b6583e4@0269.org
 END:VEVENT
 END:VCALENDAR
