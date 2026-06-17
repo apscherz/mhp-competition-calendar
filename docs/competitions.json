@@ -912,28 +912,22 @@
     "location": "Burlington, VT, US"
   },
   {
-    "name": "WEST COAST BREWERS FESTIVAL",
-    "judging_date": "2003-05-04",
-    "entry_deadline": null,
-    "location": "Sacramento, CA, US"
-  },
-  {
     "name": "2003 AHA NHC First Round, Midwest",
     "judging_date": "2003-05-04",
     "entry_deadline": null,
     "location": "Basehor, KS, US"
   },
   {
+    "name": "WEST COAST BREWERS FESTIVAL",
+    "judging_date": "2003-05-04",
+    "entry_deadline": null,
+    "location": "Sacramento, CA, US"
+  },
+  {
     "name": "2003 AHA National Homebrew Competition - Northwest",
     "judging_date": "2003-05-04",
     "entry_deadline": null,
     "location": "Portland, OR, US"
-  },
-  {
-    "name": "2003 AHA NHC First Round, CIDER",
-    "judging_date": "2003-05-04",
-    "entry_deadline": null,
-    "location": "Red Hook, NY, US"
   },
   {
     "name": "2003 AHA NHC First Round, East",
@@ -946,6 +940,12 @@
     "judging_date": "2003-05-04",
     "entry_deadline": null,
     "location": "Rochester, NY, US"
+  },
+  {
+    "name": "2003 AHA NHC First Round, CIDER",
+    "judging_date": "2003-05-04",
+    "entry_deadline": null,
+    "location": "Red Hook, NY, US"
   },
   {
     "name": "ALES Homebrew Open",
@@ -1050,16 +1050,16 @@
     "location": "Buffalo, NY, US"
   },
   {
-    "name": "San Joaquin Fair 2003 Homebrew Competition",
-    "judging_date": "2003-05-31",
-    "entry_deadline": null,
-    "location": "Stockton, CA, US"
-  },
-  {
     "name": "Ninth Annual Boneyard Brew-Off",
     "judging_date": "2003-05-31",
     "entry_deadline": null,
     "location": "Champaign, IL, US"
+  },
+  {
+    "name": "San Joaquin Fair 2003 Homebrew Competition",
+    "judging_date": "2003-05-31",
+    "entry_deadline": null,
+    "location": "Stockton, CA, US"
   },
   {
     "name": "Wisconsin State Fair Homebrewer's Show",
@@ -1110,16 +1110,16 @@
     "location": "Cheyenne, WY, US"
   },
   {
-    "name": "Mt. Baldy Cup",
-    "judging_date": "2003-06-14",
-    "entry_deadline": null,
-    "location": "Westville, IN, US"
-  },
-  {
     "name": "Bay Area Brew Off",
     "judging_date": "2003-06-14",
     "entry_deadline": null,
     "location": "Pleasanton, CA, US"
+  },
+  {
+    "name": "Mt. Baldy Cup",
+    "judging_date": "2003-06-14",
+    "entry_deadline": null,
+    "location": "Westville, IN, US"
   },
   {
     "name": "Beer good bus tour",
@@ -1164,6 +1164,18 @@
     "location": "Costa Mesa, CA, US"
   },
   {
+    "name": "Indiana State Fair Brewers Cup",
+    "judging_date": "2003-07-12",
+    "entry_deadline": null,
+    "location": "Indianapolis, IN, US"
+  },
+  {
+    "name": "Mudshark Brewing Co.Homebrew Competition",
+    "judging_date": "2003-07-12",
+    "entry_deadline": null,
+    "location": "Lake Havasu City, AZ, US"
+  },
+  {
     "name": "E.T. Barnette Homebrew Competition",
     "judging_date": "2003-07-12",
     "entry_deadline": null,
@@ -1174,18 +1186,6 @@
     "judging_date": "2003-07-12",
     "entry_deadline": null,
     "location": "Plymouth, CA, US"
-  },
-  {
-    "name": "Mudshark Brewing Co.Homebrew Competition",
-    "judging_date": "2003-07-12",
-    "entry_deadline": null,
-    "location": "Lake Havasu City, AZ, US"
-  },
-  {
-    "name": "Indiana State Fair Brewers Cup",
-    "judging_date": "2003-07-12",
-    "entry_deadline": null,
-    "location": "Indianapolis, IN, US"
   },
   {
     "name": "Ohio State Fair Homebrew Competition",
@@ -1224,10 +1224,22 @@
     "location": "Des Moines, IA, US"
   },
   {
+    "name": "4th Annual New York State Fair HBC",
+    "judging_date": "2003-08-02",
+    "entry_deadline": null,
+    "location": "Syracuse, NY, US"
+  },
+  {
     "name": "8th Annual Montgomery County Fair HBC",
     "judging_date": "2003-08-02",
     "entry_deadline": null,
     "location": "Gaithersburg, MD, US"
+  },
+  {
+    "name": "2003 Los Angeles County Fair",
+    "judging_date": "2003-08-02",
+    "entry_deadline": null,
+    "location": "Pomona, CA, US"
   },
   {
     "name": "European Pale Lager AHA Club-Only Competition",
@@ -1242,28 +1254,10 @@
     "location": "Bartlesville, OK, US"
   },
   {
-    "name": "4th Annual New York State Fair HBC",
-    "judging_date": "2003-08-02",
-    "entry_deadline": null,
-    "location": "Syracuse, NY, US"
-  },
-  {
-    "name": "2003 Los Angeles County Fair",
-    "judging_date": "2003-08-02",
-    "entry_deadline": null,
-    "location": "Pomona, CA, US"
-  },
-  {
     "name": "Nevada County Fair",
     "judging_date": "2003-08-03",
     "entry_deadline": null,
     "location": "Grass Valley, CA, US"
-  },
-  {
-    "name": "Evergreen State Fair",
-    "judging_date": "2003-08-09",
-    "entry_deadline": null,
-    "location": "Monroe, WA, US"
   },
   {
     "name": "Mountain Brewer Open",
@@ -1272,16 +1266,16 @@
     "location": "Huntington, WV, US"
   },
   {
+    "name": "Evergreen State Fair",
+    "judging_date": "2003-08-09",
+    "entry_deadline": null,
+    "location": "Monroe, WA, US"
+  },
+  {
     "name": "Kentucky State Fair",
     "judging_date": "2003-08-10",
     "entry_deadline": null,
     "location": "Louisville, KY, US"
-  },
-  {
-    "name": "California Brewers Festival Competition",
-    "judging_date": "2003-08-16",
-    "entry_deadline": null,
-    "location": "Sacramento, CA, US"
   },
   {
     "name": "State Fair Home Brew Contest",
@@ -1294,6 +1288,12 @@
     "judging_date": "2003-08-16",
     "entry_deadline": null,
     "location": "Albuquerque, NM, US"
+  },
+  {
+    "name": "California Brewers Festival Competition",
+    "judging_date": "2003-08-16",
+    "entry_deadline": null,
+    "location": "Sacramento, CA, US"
   },
   {
     "name": "Nebraska State Fair Wine and Beer Compet",
@@ -1314,16 +1314,16 @@
     "location": "Palmer, AK, US"
   },
   {
-    "name": "Beer & Sweat 2003",
-    "judging_date": "2003-08-23",
-    "entry_deadline": null,
-    "location": "Florence, KY, US"
-  },
-  {
     "name": "Michigan State Fair Homebrew Competition",
     "judging_date": "2003-08-23",
     "entry_deadline": null,
     "location": "Westland, MI, US"
+  },
+  {
+    "name": "Beer & Sweat 2003",
+    "judging_date": "2003-08-23",
+    "entry_deadline": null,
+    "location": "Florence, KY, US"
   },
   {
     "name": "Western Washington Fair Amateur Beer Competition",
@@ -1362,16 +1362,10 @@
     "location": "Crownsville, MD, US"
   },
   {
-    "name": "8th Annual Dayton Beerfest",
+    "name": "Topsfield Fair Homebrew Competition",
     "judging_date": "2003-09-13",
     "entry_deadline": null,
-    "location": "Dayton, OH, US"
-  },
-  {
-    "name": "Cactus Challenge",
-    "judging_date": "2003-09-13",
-    "entry_deadline": null,
-    "location": "Lubbock, TX, US"
+    "location": "Topsfield, MA, US"
   },
   {
     "name": "River City Roundup Fair & Festival",
@@ -1380,16 +1374,22 @@
     "location": "Omaha, NE, US"
   },
   {
+    "name": "Cactus Challenge",
+    "judging_date": "2003-09-13",
+    "entry_deadline": null,
+    "location": "Lubbock, TX, US"
+  },
+  {
+    "name": "8th Annual Dayton Beerfest",
+    "judging_date": "2003-09-13",
+    "entry_deadline": null,
+    "location": "Dayton, OH, US"
+  },
+  {
     "name": "Sheldon Jackson Memorial Club-only",
     "judging_date": "2003-09-13",
     "entry_deadline": null,
     "location": "Las Vegas, NV, US"
-  },
-  {
-    "name": "Topsfield Fair Homebrew Competition",
-    "judging_date": "2003-09-13",
-    "entry_deadline": null,
-    "location": "Topsfield, MA, US"
   },
   {
     "name": "Blue Ridge Brew Off",
@@ -1452,28 +1452,28 @@
     "location": "Manchester, NH, US"
   },
   {
-    "name": "1st Annual Hogtown Brew-off",
-    "judging_date": "2003-10-11",
-    "entry_deadline": null,
-    "location": "Gainesville, FL, US"
-  },
-  {
-    "name": "KCRF Home Brew Competition",
-    "judging_date": "2003-10-11",
-    "entry_deadline": null,
-    "location": "Bonner Springs, KS, US"
-  },
-  {
     "name": "2003 OkTOSOfest Challenge",
     "judging_date": "2003-10-11",
     "entry_deadline": null,
     "location": "Denver, CO, US"
   },
   {
+    "name": "1st Annual Hogtown Brew-off",
+    "judging_date": "2003-10-11",
+    "entry_deadline": null,
+    "location": "Gainesville, FL, US"
+  },
+  {
     "name": "QUAFF Oktoberfest Picnic",
     "judging_date": "2003-10-11",
     "entry_deadline": null,
     "location": "Santee, CA, US"
+  },
+  {
+    "name": "KCRF Home Brew Competition",
+    "judging_date": "2003-10-11",
+    "entry_deadline": null,
+    "location": "Bonner Springs, KS, US"
   },
   {
     "name": "The 20th Annual Dixie Cup",
@@ -1500,16 +1500,16 @@
     "location": "Danbury, CT, US"
   },
   {
-    "name": "Queen of Beer Womens Homebrew Comp",
-    "judging_date": "2003-10-25",
-    "entry_deadline": null,
-    "location": "Placerville, CA, US"
-  },
-  {
     "name": "Southern NE Regional Homebrew Competition",
     "judging_date": "2003-10-25",
     "entry_deadline": null,
     "location": "Danbury, CT, US"
+  },
+  {
+    "name": "8th Annual Music City Brew-Off",
+    "judging_date": "2003-10-25",
+    "entry_deadline": null,
+    "location": "Nashville, TN, US"
   },
   {
     "name": "Spooky Brew Review",
@@ -1638,16 +1638,16 @@
     "location": "St. Louis, MO, US"
   },
   {
-    "name": "Humpy's Big Fish Homebrew Competition",
-    "judging_date": "2003-12-13",
-    "entry_deadline": null,
-    "location": "Anchorage, AK, US"
-  },
-  {
     "name": "UNYHA 26th Annual HBC / 15th Annual Empire State",
     "judging_date": "2003-12-13",
     "entry_deadline": null,
     "location": "Rochester, NY, US"
+  },
+  {
+    "name": "Humpy's Big Fish Homebrew Competition",
+    "judging_date": "2003-12-13",
+    "entry_deadline": null,
+    "location": "Anchorage, AK, US"
   },
   {
     "name": "Big Beers, Belgians & Barleywines Festival",
@@ -1686,16 +1686,16 @@
     "location": "Tampa, FL, US"
   },
   {
-    "name": "Winterfest",
-    "judging_date": "2004-02-07",
-    "entry_deadline": null,
-    "location": "Las Vegas, NV, US"
-  },
-  {
     "name": "Peach State Brew Off",
     "judging_date": "2004-02-07",
     "entry_deadline": null,
     "location": "Atlanta, GA, US"
+  },
+  {
+    "name": "Winterfest",
+    "judging_date": "2004-02-07",
+    "entry_deadline": null,
+    "location": "Las Vegas, NV, US"
   },
   {
     "name": "10th Annual Boston Homebrew Competition",
@@ -1716,6 +1716,18 @@
     "location": "Anchorage, AK, US"
   },
   {
+    "name": "Toronado BW Fest",
+    "judging_date": "2004-02-21",
+    "entry_deadline": null,
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "name": "21st Annual KC Bier Meisters Homebrew Competition",
+    "judging_date": "2004-02-21",
+    "entry_deadline": null,
+    "location": "Basehor, KS, US"
+  },
+  {
     "name": "War of the Worts VIII",
     "judging_date": "2004-02-21",
     "entry_deadline": null,
@@ -1728,28 +1740,16 @@
     "location": "Edmonton, AB, CA"
   },
   {
-    "name": "21st Annual KC Bier Meisters Homebrew Competition",
-    "judging_date": "2004-02-21",
+    "name": "BABBLE Leap Beer Brew Off",
+    "judging_date": "2004-02-28",
     "entry_deadline": null,
-    "location": "Basehor, KS, US"
-  },
-  {
-    "name": "Toronado BW Fest",
-    "judging_date": "2004-02-21",
-    "entry_deadline": null,
-    "location": "San Francisco, CA, US"
+    "location": "Lake Barrington, IL, US"
   },
   {
     "name": "America's Finest City 11th Annual Homebrew Competi",
     "judging_date": "2004-02-28",
     "entry_deadline": null,
     "location": "San Diego, CA, US"
-  },
-  {
-    "name": "BABBLE Leap Beer Brew Off",
-    "judging_date": "2004-02-28",
-    "entry_deadline": null,
-    "location": "Lake Barrington, IL, US"
   },
   {
     "name": "Who brewed Dat?",
@@ -1812,10 +1812,10 @@
     "location": "Willimantic, CT, US"
   },
   {
-    "name": "Bluebonnet Brew-off",
+    "name": "March Mashness",
     "judging_date": "2004-03-20",
     "entry_deadline": null,
-    "location": "Irving, TX, US"
+    "location": "St. Cloud, MN, US"
   },
   {
     "name": "Drunk Monk Challenge",
@@ -1824,10 +1824,10 @@
     "location": "Aurora, IL, US"
   },
   {
-    "name": "March Mashness",
+    "name": "Bluebonnet Brew-off",
     "judging_date": "2004-03-20",
     "entry_deadline": null,
-    "location": "St. Cloud, MN, US"
+    "location": "Irving, TX, US"
   },
   {
     "name": "CABA's March in Montreal",
@@ -1836,16 +1836,16 @@
     "location": "Montreal, QC, CA"
   },
   {
-    "name": "14th Annual Hudson Valley Homebrew Competiton",
-    "judging_date": "2004-03-27",
-    "entry_deadline": null,
-    "location": "Hyde Park, NY, US"
-  },
-  {
     "name": "TRASH XIV",
     "judging_date": "2004-03-27",
     "entry_deadline": null,
     "location": "Pittsburgh, PA, US"
+  },
+  {
+    "name": "CARBOY Shamrock Open",
+    "judging_date": "2004-03-27",
+    "entry_deadline": null,
+    "location": "Raleigh, NC, US"
   },
   {
     "name": "SODZ 1st Annual British Beerfest",
@@ -1854,10 +1854,10 @@
     "location": "Columbus, OH, US"
   },
   {
-    "name": "CARBOY Shamrock Open",
+    "name": "14th Annual Hudson Valley Homebrew Competiton",
     "judging_date": "2004-03-27",
     "entry_deadline": null,
-    "location": "Raleigh, NC, US"
+    "location": "Hyde Park, NY, US"
   },
   {
     "name": "Hurricane Blowoff 2004",
@@ -1902,12 +1902,6 @@
     "location": "New Orleans, LA, US"
   },
   {
-    "name": "U.S. Open",
-    "judging_date": "2004-04-24",
-    "entry_deadline": null,
-    "location": "Charlotte, NC, US"
-  },
-  {
     "name": "Titletown Open Homebrew Contest",
     "judging_date": "2004-04-24",
     "entry_deadline": null,
@@ -1920,10 +1914,22 @@
     "location": "Idaho Falls, ID, US"
   },
   {
+    "name": "Best of Philly 2004",
+    "judging_date": "2004-04-24",
+    "entry_deadline": null,
+    "location": "Philadelphia, PA, US"
+  },
+  {
     "name": "AHA NHC 2004 - South",
     "judging_date": "2004-04-24",
     "entry_deadline": null,
     "location": "Houston, TX, US"
+  },
+  {
+    "name": "AHA NHC 2004 - California",
+    "judging_date": "2004-04-24",
+    "entry_deadline": null,
+    "location": "San Diego, CA, US"
   },
   {
     "name": "All Bout Ales",
@@ -1932,16 +1938,16 @@
     "location": "Ajax, ON, CA"
   },
   {
-    "name": "Snow Goose 2004 Break Up",
+    "name": "Bluff City Brewers Homebrew Extravaganza",
     "judging_date": "2004-04-24",
     "entry_deadline": null,
-    "location": "Anchorage, AK, US"
+    "location": "Memphis, TN, US"
   },
   {
-    "name": "Best of Philly 2004",
+    "name": "U.S. Open",
     "judging_date": "2004-04-24",
     "entry_deadline": null,
-    "location": "Philadelphia, PA, US"
+    "location": "Charlotte, NC, US"
   },
   {
     "name": "Bluff City Brewers Homebrew Extravaganza",
@@ -1950,10 +1956,10 @@
     "location": "Memphis, TN, US"
   },
   {
-    "name": "HDBA Spring Fling Thing",
-    "judging_date": "2004-04-24",
+    "name": "AHA NHC 2004 - Northwest",
+    "judging_date": "2004-04-25",
     "entry_deadline": null,
-    "location": "Idaho Falls, ID, US"
+    "location": "Seattle, WA, US"
   },
   {
     "name": "AHA NHC 2004 - Northeast",
@@ -1962,22 +1968,10 @@
     "location": "Rochester, NY, US"
   },
   {
-    "name": "AHA NHC 2004 - Northwest",
-    "judging_date": "2004-04-25",
-    "entry_deadline": null,
-    "location": "Seattle, WA, US"
-  },
-  {
     "name": "The Green Mountain Homebrew Competition",
     "judging_date": "2004-04-26",
     "entry_deadline": null,
     "location": "Winooski, VT, US"
-  },
-  {
-    "name": "9th annual South Shore Brewoff",
-    "judging_date": "2004-05-01",
-    "entry_deadline": null,
-    "location": "Braintree, MA, US"
   },
   {
     "name": "AHA NHC 2004 - East",
@@ -1986,10 +1980,16 @@
     "location": "Westlake, OH, US"
   },
   {
-    "name": "AHA NHC 2004 - Cider",
+    "name": "9th annual South Shore Brewoff",
+    "judging_date": "2004-05-01",
+    "entry_deadline": null,
+    "location": "Braintree, MA, US"
+  },
+  {
+    "name": "AHA NHC 2004 - Mountain",
     "judging_date": "2004-05-02",
     "entry_deadline": null,
-    "location": "Rhinebeck, NY, US"
+    "location": "Denver, CO, US"
   },
   {
     "name": "AHA NHC 2004 - Great Lakes",
@@ -1998,16 +1998,16 @@
     "location": "Chicago, IL, US"
   },
   {
+    "name": "AHA NHC 2004 - Cider",
+    "judging_date": "2004-05-02",
+    "entry_deadline": null,
+    "location": "Rhinebeck, NY, US"
+  },
+  {
     "name": "West Coast Brewers Festival",
     "judging_date": "2004-05-02",
     "entry_deadline": null,
     "location": "Sacramento, CA, US"
-  },
-  {
-    "name": "AHA NHC 2004 - Mountain",
-    "judging_date": "2004-05-02",
-    "entry_deadline": null,
-    "location": "Denver, CO, US"
   },
   {
     "name": "ALES Homebrew Open / AHA Qualifier Compeition",
@@ -2040,22 +2040,22 @@
     "location": "New Bern, NC, US"
   },
   {
+    "name": "22nd Annual Oregon Homebrew Festival",
+    "judging_date": "2004-05-15",
+    "entry_deadline": null,
+    "location": "Corvallis, OR, US"
+  },
+  {
     "name": "B.E.E.R. 8th Annual Brewoff",
     "judging_date": "2004-05-15",
     "entry_deadline": null,
     "location": "Nesconset, NY, US"
   },
   {
-    "name": "8th Annual Silver Dollar Fair Homebrew Competition",
+    "name": "Bay Area Brew Off",
     "judging_date": "2004-05-15",
     "entry_deadline": null,
-    "location": "Chico, CA, US"
-  },
-  {
-    "name": "22nd Annual Oregon Homebrew Festival",
-    "judging_date": "2004-05-15",
-    "entry_deadline": null,
-    "location": "Corvallis, OR, US"
+    "location": "Pleasanton, CA, US"
   },
   {
     "name": "2004 Mayfaire Homebrew Competition",
@@ -2064,10 +2064,10 @@
     "location": "Canoga Park, CA, US"
   },
   {
-    "name": "Bay Area Brew Off",
+    "name": "8th Annual Silver Dollar Fair Homebrew Competition",
     "judging_date": "2004-05-15",
     "entry_deadline": null,
-    "location": "Pleasanton, CA, US"
+    "location": "Chico, CA, US"
   },
   {
     "name": "12th Annual Dominion Cup",
@@ -2088,16 +2088,10 @@
     "location": "Cincinnati, OH, US"
   },
   {
-    "name": "WI State Fair Homebrew Competition 2004",
+    "name": "The Upper Mississippi Mash-Out",
     "judging_date": "2004-05-22",
     "entry_deadline": null,
-    "location": "West Allis, WI, US"
-  },
-  {
-    "name": "The 8th Annual Celtic Brew-Off",
-    "judging_date": "2004-05-22",
-    "entry_deadline": null,
-    "location": "Bedford, TX, US"
+    "location": "Minneapolis, MN, US"
   },
   {
     "name": "The 8th Annual Celtic Brew-Off",
@@ -2110,6 +2104,12 @@
     "judging_date": "2004-05-22",
     "entry_deadline": null,
     "location": "Minneapolis, MN, US"
+  },
+  {
+    "name": "The 8th Annual Celtic Brew-Off",
+    "judging_date": "2004-05-22",
+    "entry_deadline": null,
+    "location": "Bedford, TX, US"
   },
   {
     "name": "Sunshine Challenge 2004",
@@ -2142,16 +2142,16 @@
     "location": "Edmonton, AB, CA"
   },
   {
-    "name": "Third Annual Cumberland Kegger",
-    "judging_date": "2004-06-05",
-    "entry_deadline": null,
-    "location": "Knoxville, TN, US"
-  },
-  {
     "name": "2004 Appleton Libation Enthusiasts Wheat Beer",
     "judging_date": "2004-06-05",
     "entry_deadline": null,
     "location": "Oshkosh, WI, US"
+  },
+  {
+    "name": "Third Annual Cumberland Kegger",
+    "judging_date": "2004-06-05",
+    "entry_deadline": null,
+    "location": "Knoxville, TN, US"
   },
   {
     "name": "Tenth Annual BUZZ Boneyard Brew-Off",
@@ -2166,16 +2166,16 @@
     "location": "Houston, TX, US"
   },
   {
-    "name": "Spirit of Free Beer",
-    "judging_date": "2004-06-12",
-    "entry_deadline": null,
-    "location": "Ashburn, VA, US"
-  },
-  {
     "name": "DEA Spring Competition",
     "judging_date": "2004-06-12",
     "entry_deadline": null,
     "location": "Greenville, NC, US"
+  },
+  {
+    "name": "Spirit of Free Beer",
+    "judging_date": "2004-06-12",
+    "entry_deadline": null,
+    "location": "Ashburn, VA, US"
   },
   {
     "name": "Mt. Baldy Cup",
@@ -2250,10 +2250,10 @@
     "location": "Pomona, CA, US"
   },
   {
-    "name": "5th Annual Mammoth Brewing Co. Homebrew Competition",
+    "name": "E.T. Barnette Homebrew Competition",
     "judging_date": "2004-07-17",
     "entry_deadline": null,
-    "location": "Mammoth Lakes, CA, US"
+    "location": "Fairbanks, AK, US"
   },
   {
     "name": "Ohio State Fair Homebrew Competition",
@@ -2262,10 +2262,10 @@
     "location": "Columbus, OH, US"
   },
   {
-    "name": "E.T. Barnette Homebrew Competition",
+    "name": "5th Annual Mammoth Brewing Co. Homebrew Competition",
     "judging_date": "2004-07-17",
     "entry_deadline": null,
-    "location": "Fairbanks, AK, US"
+    "location": "Mammoth Lakes, CA, US"
   },
   {
     "name": "MCAB VI",
@@ -2352,16 +2352,16 @@
     "location": "Louisville, KY, US"
   },
   {
-    "name": "Lane County Fair",
-    "judging_date": "2004-08-15",
-    "entry_deadline": null,
-    "location": "Eugene, OR, US"
-  },
-  {
     "name": "16th Annual New Mexico State Fair Pro-Am",
     "judging_date": "2004-08-15",
     "entry_deadline": null,
     "location": "Albuquerque, NM, US"
+  },
+  {
+    "name": "Lane County Fair",
+    "judging_date": "2004-08-15",
+    "entry_deadline": null,
+    "location": "Eugene, OR, US"
   },
   {
     "name": "Fixed Recipe 2004",
@@ -2448,6 +2448,12 @@
     "location": "Omaha, NE, US"
   },
   {
+    "name": "Blue Ridge Brew Off",
+    "judging_date": "2004-09-11",
+    "entry_deadline": null,
+    "location": "Asheville, NC, US"
+  },
+  {
     "name": "Santa Cruz County Fair Homebrew",
     "judging_date": "2004-09-11",
     "entry_deadline": null,
@@ -2458,12 +2464,6 @@
     "judging_date": "2004-09-11",
     "entry_deadline": null,
     "location": "Dayton, OH, US"
-  },
-  {
-    "name": "Blue Ridge Brew Off",
-    "judging_date": "2004-09-11",
-    "entry_deadline": null,
-    "location": "Asheville, NC, US"
   },
   {
     "name": "Tulare County Fair Homebrew Competition",
@@ -2490,16 +2490,16 @@
     "location": "Lubbock, TX, US"
   },
   {
-    "name": "Sheldon Jackson Memorial",
-    "judging_date": "2004-09-18",
-    "entry_deadline": null,
-    "location": "Needles, CA, US"
-  },
-  {
     "name": "Dearborn Oktoberfest Homebrewing Competition",
     "judging_date": "2004-09-18",
     "entry_deadline": null,
     "location": "Dearborn, MI, US"
+  },
+  {
+    "name": "Sheldon Jackson Memorial",
+    "judging_date": "2004-09-18",
+    "entry_deadline": null,
+    "location": "Needles, CA, US"
   },
   {
     "name": "Autumn Pour",
@@ -2508,16 +2508,16 @@
     "location": "Juneau, AK, US"
   },
   {
-    "name": "2004 X-Brew! HBC",
-    "judging_date": "2004-09-25",
-    "entry_deadline": null,
-    "location": "Redmond, WA, US"
-  },
-  {
     "name": "QUAFF Oktoberfest Homebrew Competition",
     "judging_date": "2004-09-25",
     "entry_deadline": null,
     "location": "Santee, CA, US"
+  },
+  {
+    "name": "2004 X-Brew! HBC",
+    "judging_date": "2004-09-25",
+    "entry_deadline": null,
+    "location": "Redmond, WA, US"
   },
   {
     "name": "FOAM Cup 2004",
@@ -2616,28 +2616,10 @@
     "location": "Nashville, TN, US"
   },
   {
-    "name": "Bones Bash '04",
-    "judging_date": "2004-11-06",
-    "entry_deadline": null,
-    "location": "Philadelphia, PA, US"
-  },
-  {
     "name": "9th Knickerbocker Battle of the Brews",
     "judging_date": "2004-11-06",
     "entry_deadline": null,
     "location": "Albany, NY, US"
-  },
-  {
-    "name": "Foam On The Range 2004",
-    "judging_date": "2004-11-06",
-    "entry_deadline": null,
-    "location": "Denver, CO, US"
-  },
-  {
-    "name": "California State Homebrew Competition",
-    "judging_date": "2004-11-06",
-    "entry_deadline": null,
-    "location": "San Francisco, CA, US"
   },
   {
     "name": "Georgia Craft Brew Challenge",
@@ -2646,16 +2628,34 @@
     "location": "Atlanta, GA, US"
   },
   {
-    "name": "2004 THIRSTY Classic",
+    "name": "California State Homebrew Competition",
     "judging_date": "2004-11-06",
     "entry_deadline": null,
-    "location": "Iowa City, IA, US"
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "name": "Bones Bash '04",
+    "judging_date": "2004-11-06",
+    "entry_deadline": null,
+    "location": "Philadelphia, PA, US"
   },
   {
     "name": "2004 Oktobersbest Zinzinnati Competition",
     "judging_date": "2004-11-06",
     "entry_deadline": null,
     "location": "Newport, KY, US"
+  },
+  {
+    "name": "Foam On The Range 2004",
+    "judging_date": "2004-11-06",
+    "entry_deadline": null,
+    "location": "Denver, CO, US"
+  },
+  {
+    "name": "2004 THIRSTY Classic",
+    "judging_date": "2004-11-06",
+    "entry_deadline": null,
+    "location": "Iowa City, IA, US"
   },
   {
     "name": "Novembeerfest",
@@ -2670,16 +2670,16 @@
     "location": "Northfield, OH, US"
   },
   {
-    "name": "BURP Real Ale Competition",
-    "judging_date": "2004-11-12",
-    "entry_deadline": null,
-    "location": "Rockville, MD, US"
-  },
-  {
     "name": "6th Annual Orlando Beer Festival",
     "judging_date": "2004-11-12",
     "entry_deadline": null,
     "location": "Orlando, FL, US"
+  },
+  {
+    "name": "BURP Real Ale Competition",
+    "judging_date": "2004-11-12",
+    "entry_deadline": null,
+    "location": "Rockville, MD, US"
   },
   {
     "name": "Beer Summit Homebrewers Competition",
@@ -2826,10 +2826,10 @@
     "location": "Kansas City, MO, US"
   },
   {
-    "name": "FebFest 2005 Homebrew Competition",
+    "name": "War of the Worts X",
     "judging_date": "2005-02-19",
     "entry_deadline": null,
-    "location": "Libertyville, IL, US"
+    "location": "Montgomeryville, PA, US"
   },
   {
     "name": "Best Florida Beer Competition at the Florida State",
@@ -2838,22 +2838,22 @@
     "location": "Tampa, FL, US"
   },
   {
-    "name": "11th Annual Boston Homebrew Competition",
-    "judging_date": "2005-02-19",
-    "entry_deadline": null,
-    "location": "Bedford, MA, US"
-  },
-  {
-    "name": "War of the Worts X",
-    "judging_date": "2005-02-19",
-    "entry_deadline": null,
-    "location": "Montgomeryville, PA, US"
-  },
-  {
     "name": "FebFest 2005 Homebrew Competition",
     "judging_date": "2005-02-19",
     "entry_deadline": null,
     "location": "Libertyville, IL, US"
+  },
+  {
+    "name": "Peach State Brew Off",
+    "judging_date": "2005-02-19",
+    "entry_deadline": null,
+    "location": "Atlanta, GA, US"
+  },
+  {
+    "name": "Best Florida Beer Competition at the Florida State",
+    "judging_date": "2005-02-19",
+    "entry_deadline": null,
+    "location": "Tampa, FL, US"
   },
   {
     "name": "Best of Brooklyn VII",
@@ -2862,16 +2862,16 @@
     "location": "Brooklyn, NY, US"
   },
   {
-    "name": "BABBLE Brew-Off",
-    "judging_date": "2005-02-26",
-    "entry_deadline": null,
-    "location": "Lake Barrington, IL, US"
-  },
-  {
     "name": "Brew House Brew Off",
     "judging_date": "2005-02-26",
     "entry_deadline": null,
     "location": "Edmonton, AB, CA"
+  },
+  {
+    "name": "BABBLE Brew-Off",
+    "judging_date": "2005-02-26",
+    "entry_deadline": null,
+    "location": "Lake Barrington, IL, US"
   },
   {
     "name": "Washoe Zephyr Zymurgists Homebrew Competition",
@@ -2884,12 +2884,6 @@
     "judging_date": "2005-03-05",
     "entry_deadline": null,
     "location": "Chula Vista, CA, US"
-  },
-  {
-    "name": "16th Annual Reggale and Dredhop",
-    "judging_date": "2005-03-05",
-    "entry_deadline": null,
-    "location": "Denver, CO, US"
   },
   {
     "name": "2005 Bluebonnet Brewoff",
@@ -2910,6 +2904,12 @@
     "location": "Urbandale, IA, US"
   },
   {
+    "name": "16th Annual Reggale and Dredhop",
+    "judging_date": "2005-03-05",
+    "entry_deadline": null,
+    "location": "Denver, CO, US"
+  },
+  {
     "name": "10th Annual Kona Brewers Festival Homebrew Competition",
     "judging_date": "2005-03-10",
     "entry_deadline": null,
@@ -2922,16 +2922,16 @@
     "location": "Peoria, IL, US"
   },
   {
+    "name": "Shamrock Open",
+    "judging_date": "2005-03-12",
+    "entry_deadline": null,
+    "location": "Raleigh, NC, US"
+  },
+  {
     "name": "Werthogs Annual Homebrew Competition",
     "judging_date": "2005-03-12",
     "entry_deadline": null,
     "location": "Lethbridge, AB, CA"
-  },
-  {
-    "name": "Big Bend Brew Off 2005",
-    "judging_date": "2005-03-12",
-    "entry_deadline": null,
-    "location": "Tallahassee, FL, US"
   },
   {
     "name": "Drunk Monk Challenge",
@@ -2940,10 +2940,10 @@
     "location": "Aurora, IL, US"
   },
   {
-    "name": "Shamrock Open",
+    "name": "Big Bend Brew Off 2005",
     "judging_date": "2005-03-12",
     "entry_deadline": null,
-    "location": "Raleigh, NC, US"
+    "location": "Tallahassee, FL, US"
   },
   {
     "name": "March Mashness",
@@ -3000,16 +3000,16 @@
     "location": "Concord, CA, US"
   },
   {
-    "name": "AHA National Homebrew Competition - South Region",
-    "judging_date": "2005-04-22",
-    "entry_deadline": null,
-    "location": "Houston, TX, US"
-  },
-  {
     "name": "AHA National Homebrew Competition - Mountain Region",
     "judging_date": "2005-04-22",
     "entry_deadline": null,
     "location": "Denver, CO, US"
+  },
+  {
+    "name": "AHA National Homebrew Competition - South Region",
+    "judging_date": "2005-04-22",
+    "entry_deadline": null,
+    "location": "Houston, TX, US"
   },
   {
     "name": "AHA National Homebrew Competition - East Region",
@@ -3036,16 +3036,16 @@
     "location": "Roseville, MN, US"
   },
   {
-    "name": "Bluff City Brewers 17th Annual Homebrewers Extravaganza",
-    "judging_date": "2005-04-23",
-    "entry_deadline": null,
-    "location": "Memphis, TN, US"
-  },
-  {
     "name": "U.S. Open",
     "judging_date": "2005-04-23",
     "entry_deadline": null,
     "location": "Charlotte, NC, US"
+  },
+  {
+    "name": "Bluff City Brewers 17th Annual Homebrewers Extravaganza",
+    "judging_date": "2005-04-23",
+    "entry_deadline": null,
+    "location": "Memphis, TN, US"
   },
   {
     "name": "AHA National Homebrew Competition - Northwest Region",
@@ -3054,22 +3054,16 @@
     "location": "Kirkland, WA, US"
   },
   {
-    "name": "12th Annual Dominion Cup",
-    "judging_date": "2005-04-30",
-    "entry_deadline": null,
-    "location": "Richmond, VA, US"
-  },
-  {
     "name": "Titletown Open Homebrew Competition XI",
     "judging_date": "2005-04-30",
     "entry_deadline": null,
     "location": "Green Bay, WI, US"
   },
   {
-    "name": "AHA National Homebrew Competition - Northeast Region",
+    "name": "12th Annual Dominion Cup",
     "judging_date": "2005-04-30",
     "entry_deadline": null,
-    "location": "Rochester, NY, US"
+    "location": "Richmond, VA, US"
   },
   {
     "name": "ALES Home Brew Open/ AHA NHC Qualifier",
@@ -3078,16 +3072,16 @@
     "location": "Regina, SK, CA"
   },
   {
+    "name": "AHA National Homebrew Competition - Northeast Region",
+    "judging_date": "2005-04-30",
+    "entry_deadline": null,
+    "location": "Rochester, NY, US"
+  },
+  {
     "name": "AHA National Homebrew Competition - Great Lakes Region",
     "judging_date": "2005-04-30",
     "entry_deadline": null,
     "location": "Libertyville, IL, US"
-  },
-  {
-    "name": "AHA National Homebrew Competition - Cider Site",
-    "judging_date": "2005-05-01",
-    "entry_deadline": null,
-    "location": "Red Hook, NY, US"
   },
   {
     "name": "West Coast Brewers Fest Commercial Comp.",
@@ -3096,22 +3090,28 @@
     "location": "Sacramento, CA, US"
   },
   {
+    "name": "AHA National Homebrew Competition - Cider Site",
+    "judging_date": "2005-05-01",
+    "entry_deadline": null,
+    "location": "Red Hook, NY, US"
+  },
+  {
     "name": "Belgian Blow Out",
     "judging_date": "2005-05-04",
     "entry_deadline": null,
     "location": "Toronto, ON, CA"
   },
   {
-    "name": "2005 Mayfaire Homebrewed Beer Comp",
-    "judging_date": "2005-05-07",
-    "entry_deadline": null,
-    "location": "Woodland Hills, CA, US"
-  },
-  {
     "name": "Extract Beers AHA Club-Only Competition",
     "judging_date": "2005-05-07",
     "entry_deadline": null,
     "location": "Gainesville, FL, US"
+  },
+  {
+    "name": "2005 Mayfaire Homebrewed Beer Comp",
+    "judging_date": "2005-05-07",
+    "entry_deadline": null,
+    "location": "Woodland Hills, CA, US"
   },
   {
     "name": "World Expo of Beer",
@@ -3126,16 +3126,22 @@
     "location": "Pleasanton, CA, US"
   },
   {
+    "name": "The BrewMaster's Open",
+    "judging_date": "2005-05-14",
+    "entry_deadline": null,
+    "location": "Atlanta, GA, US"
+  },
+  {
     "name": "Green Mountain Homebrew Competition",
     "judging_date": "2005-05-14",
     "entry_deadline": null,
     "location": "Burlington, VT, US"
   },
   {
-    "name": "The BrewMaster's Open",
+    "name": "Spirit of Free Beer XIII",
     "judging_date": "2005-05-14",
     "entry_deadline": null,
-    "location": "Atlanta, GA, US"
+    "location": "Chantilly, VA, US"
   },
   {
     "name": "9th Annual B.E.E.R. Brew-Off",
@@ -3144,16 +3150,10 @@
     "location": "Lake Grove, NY, US"
   },
   {
-    "name": "Spirit of Free Beer XIII",
+    "name": "Alameda County Fair Bay Area Brew Off",
     "judging_date": "2005-05-14",
     "entry_deadline": null,
-    "location": "Chantilly, VA, US"
-  },
-  {
-    "name": "Spirit of Free Beer XIII",
-    "judging_date": "2005-05-14",
-    "entry_deadline": null,
-    "location": "Chantilly, VA, US"
+    "location": "Pleasanton, CA, US"
   },
   {
     "name": "9th Ann. Silver Dollar Fair Homebrew Comp.",
@@ -3174,28 +3174,22 @@
     "location": "Orlando, FL, US"
   },
   {
-    "name": "9th Annual Amber Waves of Grain",
-    "judging_date": "2005-05-20",
-    "entry_deadline": null,
-    "location": "Buffalo, NY, US"
-  },
-  {
     "name": "23rd Annual Oregon Homebrew and Microbrew Festival",
     "judging_date": "2005-05-20",
     "entry_deadline": null,
     "location": "Corvallis, OR, US"
   },
   {
-    "name": "Cal St Fair Commercial Craftbrewing 2005",
-    "judging_date": "2005-05-21",
+    "name": "9th Annual Amber Waves of Grain",
+    "judging_date": "2005-05-20",
     "entry_deadline": null,
-    "location": "Sacramento, CA, US"
+    "location": "Buffalo, NY, US"
   },
   {
-    "name": "2005 WI State Fair Homebrewer's Show",
+    "name": "May Mead Madness 05",
     "judging_date": "2005-05-21",
     "entry_deadline": null,
-    "location": "West Allis, WI, US"
+    "location": "New Bern, NC, US"
   },
   {
     "name": "2005 BUZZ Off",
@@ -3210,16 +3204,22 @@
     "location": "Arlington, TX, US"
   },
   {
-    "name": "May Mead Madness 05",
+    "name": "2005 WI State Fair Homebrewer's Show",
     "judging_date": "2005-05-21",
     "entry_deadline": null,
-    "location": "New Bern, NC, US"
+    "location": "West Allis, WI, US"
   },
   {
     "name": "11th Annual 8 Seconds of Froth",
     "judging_date": "2005-05-21",
     "entry_deadline": null,
     "location": "Cheyenne, WY, US"
+  },
+  {
+    "name": "Cal St Fair Commercial Craftbrewing 2005",
+    "judging_date": "2005-05-21",
+    "entry_deadline": null,
+    "location": "Sacramento, CA, US"
   },
   {
     "name": "13th Great Alaska Homebrew Competition",
@@ -3240,16 +3240,16 @@
     "location": "Idaho Falls, ID, US"
   },
   {
-    "name": "San Joaquin Fair 2005 Homebrew Competition",
-    "judging_date": "2005-06-04",
-    "entry_deadline": null,
-    "location": "Stockton, CA, US"
-  },
-  {
     "name": "11th Annual BUZZ Boneyard Brew-Off",
     "judging_date": "2005-06-04",
     "entry_deadline": null,
     "location": "Champaign, IL, US"
+  },
+  {
+    "name": "San Joaquin Fair 2005 Homebrew Competition",
+    "judging_date": "2005-06-04",
+    "entry_deadline": null,
+    "location": "Stockton, CA, US"
   },
   {
     "name": "10th Annual Big Batch Brew Bash",
@@ -3258,10 +3258,10 @@
     "location": "Houston, TX, US"
   },
   {
-    "name": "DEA 2005",
+    "name": "Beers of Summer",
     "judging_date": "2005-06-11",
     "entry_deadline": null,
-    "location": "Greenville, NC, US"
+    "location": "Appleton, WI, US"
   },
   {
     "name": "TRASH XV",
@@ -3270,10 +3270,10 @@
     "location": "Pittsburgh, PA, US"
   },
   {
-    "name": "Beers of Summer",
+    "name": "DEA 2005",
     "judging_date": "2005-06-11",
     "entry_deadline": null,
-    "location": "Appleton, WI, US"
+    "location": "Greenville, NC, US"
   },
   {
     "name": "AHA National Homebrew Competition - Second Round",
@@ -3510,12 +3510,6 @@
     "location": "Anchorage, AK, US"
   },
   {
-    "name": "Beerfest",
-    "judging_date": "2006-02-11",
-    "entry_deadline": null,
-    "location": "Mirboo North, VIC, AU"
-  },
-  {
     "name": "Big Beautiful Belgians AHA Club-Only Competition",
     "judging_date": "2006-02-11",
     "entry_deadline": null,
@@ -3526,6 +3520,12 @@
     "judging_date": "2006-02-11",
     "entry_deadline": "2006-02-04",
     "location": "Tampa, FL, US"
+  },
+  {
+    "name": "Beerfest",
+    "judging_date": "2006-02-11",
+    "entry_deadline": null,
+    "location": "Mirboo North, VIC, AU"
   },
   {
     "name": "America's Finest City Homebrew Competition",
@@ -3540,10 +3540,10 @@
     "location": "Kansas City, KS, US"
   },
   {
-    "name": "War of the Worts XI",
+    "name": "Febfest 2006 Homebrew Competition",
     "judging_date": "2006-02-18",
     "entry_deadline": null,
-    "location": "North Wales, PA, US"
+    "location": "Libertyville, IL, US"
   },
   {
     "name": "12th Annual Boston Homebrew Competition",
@@ -3552,10 +3552,10 @@
     "location": "Boston, MA, US"
   },
   {
-    "name": "Transatlantic Showdown 2006",
+    "name": "War of the Worts XI",
     "judging_date": "2006-02-18",
-    "entry_deadline": "2006-02-11",
-    "location": "Hampton, VA, US"
+    "entry_deadline": null,
+    "location": "North Wales, PA, US"
   },
   {
     "name": "Best Florida Beer Competition - Homebrew",
@@ -3564,10 +3564,10 @@
     "location": "Tampa, FL, US"
   },
   {
-    "name": "Febfest 2006 Homebrew Competition",
+    "name": "Transatlantic Showdown 2006",
     "judging_date": "2006-02-18",
-    "entry_deadline": null,
-    "location": "Libertyville, IL, US"
+    "entry_deadline": "2006-02-11",
+    "location": "Hampton, VA, US"
   },
   {
     "name": "BABBLE Brew-Off 2006",
@@ -3612,12 +3612,6 @@
     "location": "Kailua-Kona, HI, US"
   },
   {
-    "name": "Ninth Annual Eastern Connecticut Homebrew Competition",
-    "judging_date": "2006-03-11",
-    "entry_deadline": null,
-    "location": "Willimantic, CT, US"
-  },
-  {
     "name": "MCAB VIII",
     "judging_date": "2006-03-11",
     "entry_deadline": "2006-03-04",
@@ -3630,10 +3624,22 @@
     "location": "Citrus Heights, CA, US"
   },
   {
+    "name": "Ninth Annual Eastern Connecticut Homebrew Competition",
+    "judging_date": "2006-03-11",
+    "entry_deadline": null,
+    "location": "Willimantic, CT, US"
+  },
+  {
     "name": "World Cup of Beers 2006",
     "judging_date": "2006-03-11",
     "entry_deadline": null,
     "location": "Berkeley, CA, US"
+  },
+  {
+    "name": "Blessing of the Bock 2006",
+    "judging_date": "2006-03-11",
+    "entry_deadline": "2006-03-10",
+    "location": "Milwaukee, WI, US"
   },
   {
     "name": "Great Arizona Homebrew Competition",
@@ -3646,12 +3652,6 @@
     "judging_date": "2006-03-11",
     "entry_deadline": null,
     "location": "Aurora, IL, US"
-  },
-  {
-    "name": "Blessing of the Bock 2006",
-    "judging_date": "2006-03-11",
-    "entry_deadline": "2006-03-10",
-    "location": "Milwaukee, WI, US"
   },
   {
     "name": "2006 Bluebonnet Brewoff",
@@ -3690,16 +3690,16 @@
     "location": "Castle Hill, NSW, AU"
   },
   {
-    "name": "Homebrew Fair II",
-    "judging_date": "2006-03-25",
-    "entry_deadline": "2006-03-25",
-    "location": "Seattle, WA, US"
-  },
-  {
     "name": "March in Montreal",
     "judging_date": "2006-03-25",
     "entry_deadline": "2006-03-01",
     "location": "Montreal, QC, CA"
+  },
+  {
+    "name": "Homebrew Fair II",
+    "judging_date": "2006-03-25",
+    "entry_deadline": "2006-03-25",
+    "location": "Seattle, WA, US"
   },
   {
     "name": "16th Annual Hudson Valley Homebrew Competition",
@@ -3708,16 +3708,16 @@
     "location": "Hyde Park, NY, US"
   },
   {
-    "name": "March Mashness",
-    "judging_date": "2006-03-25",
-    "entry_deadline": null,
-    "location": "St. Cloud, MN, US"
-  },
-  {
     "name": "Slurp and Burp",
     "judging_date": "2006-03-25",
     "entry_deadline": "2006-03-17",
     "location": "Estacada, OR, US"
+  },
+  {
+    "name": "March Mashness",
+    "judging_date": "2006-03-25",
+    "entry_deadline": null,
+    "location": "St. Cloud, MN, US"
   },
   {
     "name": "Canberra Brewers Club Competition One",
@@ -3732,6 +3732,18 @@
     "location": "Boston, MA, US"
   },
   {
+    "name": "Upstate New York Homebrewers Association 28th Annual Contest and 17th Empire State Open",
+    "judging_date": "2006-04-01",
+    "entry_deadline": "2006-03-22",
+    "location": "Rochester, NY, US"
+  },
+  {
+    "name": "Hurricane Blowoff",
+    "judging_date": "2006-04-01",
+    "entry_deadline": "2006-03-19",
+    "location": "West Palm Beach, FL, US"
+  },
+  {
     "name": "2006 South Shore Brewoff",
     "judging_date": "2006-04-01",
     "entry_deadline": null,
@@ -3744,28 +3756,16 @@
     "location": "West Palm Beach, FL, US"
   },
   {
-    "name": "Upstate New York Homebrewers Association 28th Annual Contest and 17th Empire State Open",
+    "name": "ALES Homebrew Open -- AHA NHC Qualifier Competition",
     "judging_date": "2006-04-01",
-    "entry_deadline": "2006-03-22",
-    "location": "Rochester, NY, US"
-  },
-  {
-    "name": "SODZ 3rd Annual British Beer Competition",
-    "judging_date": "2006-04-01",
-    "entry_deadline": null,
-    "location": "Columbus, OH, US"
+    "entry_deadline": "2006-03-31",
+    "location": "Regina, SK, CA"
   },
   {
     "name": "2006 South Shore Brewoff",
     "judging_date": "2006-04-01",
     "entry_deadline": null,
     "location": "Mansfield, MA, US"
-  },
-  {
-    "name": "ALES Homebrew Open -- AHA NHC Qualifier Competition",
-    "judging_date": "2006-04-01",
-    "entry_deadline": "2006-03-31",
-    "location": "Regina, SK, CA"
   },
   {
     "name": "American Ale AHA Club-Only Competition",
@@ -3810,16 +3810,16 @@
     "location": "Urbandale, IA, US"
   },
   {
-    "name": "WortHog Summer Beer Festival 2006",
-    "judging_date": "2006-04-22",
-    "entry_deadline": "2006-04-15",
-    "location": "Pretoria, GP, ZA"
-  },
-  {
     "name": "AHA South Region - National Homebrew Competition",
     "judging_date": "2006-04-22",
     "entry_deadline": "2006-04-14",
     "location": "Houston, TX, US"
+  },
+  {
+    "name": "WortHog Summer Beer Festival 2006",
+    "judging_date": "2006-04-22",
+    "entry_deadline": "2006-04-15",
+    "location": "Pretoria, GP, ZA"
   },
   {
     "name": "AHA Northwest Region, Portland  - National Homebrew Competition",
@@ -3846,22 +3846,16 @@
     "location": "San Diego, CA, US"
   },
   {
-    "name": "Titletown Open (12th Annual)",
-    "judging_date": "2006-04-28",
-    "entry_deadline": null,
-    "location": "Green Bay, WI, US"
-  },
-  {
     "name": "AHA East Region - National Homebrew Competition",
     "judging_date": "2006-04-28",
     "entry_deadline": "2006-04-14",
     "location": "Westlake, OH, US"
   },
   {
-    "name": "World Expo of Beer",
-    "judging_date": "2006-04-29",
-    "entry_deadline": "2006-04-22",
-    "location": "Frankenmuth, MI, US"
+    "name": "Titletown Open (12th Annual)",
+    "judging_date": "2006-04-28",
+    "entry_deadline": null,
+    "location": "Green Bay, WI, US"
   },
   {
     "name": "2006 AHA 1st Round Nationals - Seattle",
@@ -3870,16 +3864,22 @@
     "location": "Seattle, WA, US"
   },
   {
-    "name": "AHA Great Lakes Region - National Homebrew Competition",
+    "name": "World Expo of Beer",
     "judging_date": "2006-04-29",
-    "entry_deadline": "2006-04-14",
-    "location": "Chicago, IL, US"
+    "entry_deadline": "2006-04-22",
+    "location": "Frankenmuth, MI, US"
   },
   {
     "name": "AHA Northeast Region  - National Homebrew Competition",
     "judging_date": "2006-04-29",
     "entry_deadline": "2006-04-14",
     "location": "Philadelphia, PA, US"
+  },
+  {
+    "name": "AHA Great Lakes Region - National Homebrew Competition",
+    "judging_date": "2006-04-29",
+    "entry_deadline": "2006-04-14",
+    "location": "Chicago, IL, US"
   },
   {
     "name": "10th Annual Silver Dollar Fair Homebrew Competition",
@@ -3906,16 +3906,16 @@
     "location": "Madison, WI, US"
   },
   {
-    "name": "Spirit of Free Beer",
-    "judging_date": "2006-05-13",
-    "entry_deadline": "2006-05-06",
-    "location": "Ashburn, VA, US"
-  },
-  {
     "name": "Mayfaire Competition",
     "judging_date": "2006-05-13",
     "entry_deadline": "2006-04-20",
     "location": "Woodland Hills, CA, US"
+  },
+  {
+    "name": "Spirit of Free Beer",
+    "judging_date": "2006-05-13",
+    "entry_deadline": "2006-05-06",
+    "location": "Ashburn, VA, US"
   },
   {
     "name": "Alameda County Fair Homebrew Competition",
@@ -3930,22 +3930,16 @@
     "location": "Cheyenne, WY, US"
   },
   {
-    "name": "U.S. Open",
-    "judging_date": "2006-05-13",
-    "entry_deadline": "2006-05-07",
-    "location": "Charlotte, NC, US"
-  },
-  {
     "name": "Green Mountain Homebrew Competition",
     "judging_date": "2006-05-13",
     "entry_deadline": "2006-04-28",
     "location": "Burlington, VT, US"
   },
   {
-    "name": "Enchanted Brewing Challenge",
-    "judging_date": "2006-05-19",
-    "entry_deadline": "2006-05-05",
-    "location": "Albuquerque, NM, US"
+    "name": "U.S. Open",
+    "judging_date": "2006-05-13",
+    "entry_deadline": "2006-05-07",
+    "location": "Charlotte, NC, US"
   },
   {
     "name": "Amber Waves of Grain - 10th Annual Western NY Homebrew Competition",
@@ -3954,10 +3948,10 @@
     "location": "Buffalo, NY, US"
   },
   {
-    "name": "2006 WI State Fair Homebrewer's Show",
-    "judging_date": "2006-05-20",
-    "entry_deadline": "2006-05-01",
-    "location": "West Allis, WI, US"
+    "name": "Enchanted Brewing Challenge",
+    "judging_date": "2006-05-19",
+    "entry_deadline": "2006-05-05",
+    "location": "Albuquerque, NM, US"
   },
   {
     "name": "24th Annual Oregon Homebrew and Microbrew Festival",
@@ -3966,16 +3960,10 @@
     "location": "Corvallis, OR, US"
   },
   {
-    "name": "May Mead Madness 2006",
+    "name": "2006 WI State Fair Homebrewer's Show",
     "judging_date": "2006-05-20",
-    "entry_deadline": "2006-05-13",
-    "location": "New Bern, NC, US"
-  },
-  {
-    "name": "B.E.E.R.'s 10th Annual Brew-Off",
-    "judging_date": "2006-05-20",
-    "entry_deadline": "2006-05-13",
-    "location": "Nesconset, NY, US"
+    "entry_deadline": "2006-05-01",
+    "location": "West Allis, WI, US"
   },
   {
     "name": "The BrewMasters Open",
@@ -3984,10 +3972,10 @@
     "location": "Alpharetta, GA, US"
   },
   {
-    "name": "Extract Beers AHA Club-Only Competition",
+    "name": "May Mead Madness 2006",
     "judging_date": "2006-05-20",
-    "entry_deadline": "2006-05-12",
-    "location": "Culver City, CA, US"
+    "entry_deadline": "2006-05-13",
+    "location": "New Bern, NC, US"
   },
   {
     "name": "Bloatarian Open",
@@ -3996,16 +3984,28 @@
     "location": "Cincinnati, OH, US"
   },
   {
-    "name": "California State Fair Commercial Craft Brewing Competition",
-    "judging_date": "2006-05-21",
-    "entry_deadline": "2006-05-04",
-    "location": "Sacramento, CA, US"
+    "name": "B.E.E.R.'s 10th Annual Brew-Off",
+    "judging_date": "2006-05-20",
+    "entry_deadline": "2006-05-13",
+    "location": "Nesconset, NY, US"
+  },
+  {
+    "name": "Extract Beers AHA Club-Only Competition",
+    "judging_date": "2006-05-20",
+    "entry_deadline": "2006-05-12",
+    "location": "Culver City, CA, US"
   },
   {
     "name": "Club Competition 2",
     "judging_date": "2006-05-21",
     "entry_deadline": "2006-05-04",
     "location": "Canberra, ACT, AU"
+  },
+  {
+    "name": "California State Fair Commercial Craft Brewing Competition",
+    "judging_date": "2006-05-21",
+    "entry_deadline": "2006-05-04",
+    "location": "Sacramento, CA, US"
   },
   {
     "name": "14th Great Alaska Craftbeer and Homebrew Competition (Festival)",
@@ -4038,28 +4038,28 @@
     "location": "Greenville, NC, US"
   },
   {
-    "name": "12th Annual Boneyard Brew-Off",
-    "judging_date": "2006-06-03",
-    "entry_deadline": "2006-05-31",
-    "location": "Champaign, IL, US"
-  },
-  {
     "name": "JRHB Dominion Cup",
     "judging_date": "2006-06-03",
     "entry_deadline": null,
     "location": "Richmond, VA, US"
   },
   {
-    "name": "12th Annual Boneyard Brew-Off",
+    "name": "Fifth Annual Cumberland Kegger",
     "judging_date": "2006-06-03",
-    "entry_deadline": "2006-05-31",
-    "location": "Champaign, IL, US"
+    "entry_deadline": "2006-06-01",
+    "location": "Crossville, TN, US"
   },
   {
     "name": "DEA 2006",
     "judging_date": "2006-06-03",
     "entry_deadline": "2006-05-28",
     "location": "Greenville, NC, US"
+  },
+  {
+    "name": "12th Annual Boneyard Brew-Off",
+    "judging_date": "2006-06-03",
+    "entry_deadline": "2006-05-31",
+    "location": "Champaign, IL, US"
   },
   {
     "name": "11th Annual Big Batch Brew Bash",
@@ -4122,6 +4122,12 @@
     "location": "Costa Mesa, CA, US"
   },
   {
+    "name": "Garfield Heights Homedays Festival",
+    "judging_date": "2006-07-02",
+    "entry_deadline": "2006-06-30",
+    "location": "Garfield Heights, OH, US"
+  },
+  {
     "name": "WanCup 2006",
     "judging_date": "2006-07-02",
     "entry_deadline": "2006-06-30",
@@ -4132,12 +4138,6 @@
     "judging_date": "2006-07-02",
     "entry_deadline": "2006-05-24",
     "location": "Solana Beach, CA, US"
-  },
-  {
-    "name": "Garfield Heights Homedays Festival",
-    "judging_date": "2006-07-02",
-    "entry_deadline": "2006-06-30",
-    "location": "Garfield Heights, OH, US"
   },
   {
     "name": "Indiana State Fair Brewers Cup",
@@ -4152,16 +4152,16 @@
     "location": "Columbus, OH, US"
   },
   {
-    "name": "E.T. Barnette Homebrew Competition",
-    "judging_date": "2006-07-15",
-    "entry_deadline": "2006-07-12",
-    "location": "Fox, AK, US"
-  },
-  {
     "name": "Amador County Fair Homebrew Competition",
     "judging_date": "2006-07-15",
     "entry_deadline": "2006-06-30",
     "location": "Plymouth, CA, US"
+  },
+  {
+    "name": "E.T. Barnette Homebrew Competition",
+    "judging_date": "2006-07-15",
+    "entry_deadline": "2006-07-12",
+    "location": "Fox, AK, US"
   },
   {
     "name": "Amador Invitational",
@@ -4176,6 +4176,12 @@
     "location": "Canberra, ACT, AU"
   },
   {
+    "name": "Mountain Brewer Open",
+    "judging_date": "2006-07-29",
+    "entry_deadline": "2006-07-22",
+    "location": "Huntington, WV, US"
+  },
+  {
     "name": "Los Angeles County Fair",
     "judging_date": "2006-07-29",
     "entry_deadline": "2006-07-15",
@@ -4188,16 +4194,10 @@
     "location": "Seabrook, TX, US"
   },
   {
-    "name": "Mountain Brewer Open",
-    "judging_date": "2006-07-29",
-    "entry_deadline": "2006-07-22",
-    "location": "Huntington, WV, US"
-  },
-  {
-    "name": "Nevada County Fair Homebrew Competition",
+    "name": "19th Annual Southern California Regional Homebrew Championship",
     "judging_date": "2006-07-30",
-    "entry_deadline": "2006-07-22",
-    "location": "Grass Valley, CA, US"
+    "entry_deadline": "2006-07-21",
+    "location": "Corona, CA, US"
   },
   {
     "name": "19th Annual Southern California Regional Homebrew Championship",
@@ -4218,16 +4218,16 @@
     "location": "Puyallup, WA, US"
   },
   {
-    "name": "Evergreen State Fair 2006",
-    "judging_date": "2006-08-12",
-    "entry_deadline": "2006-08-09",
-    "location": "Monroe, WA, US"
-  },
-  {
     "name": "Alamo City Cerveza Fest",
     "judging_date": "2006-08-12",
     "entry_deadline": "2006-08-05",
     "location": "San Antonio, TX, US"
+  },
+  {
+    "name": "Evergreen State Fair 2006",
+    "judging_date": "2006-08-12",
+    "entry_deadline": "2006-08-09",
+    "location": "Monroe, WA, US"
   },
   {
     "name": "Grant County Fair",
@@ -4260,16 +4260,22 @@
     "location": "Albuquerque, NM, US"
   },
   {
+    "name": "Blues'n'Brews 2006 Homebrew Competition",
+    "judging_date": "2006-08-19",
+    "entry_deadline": "2006-08-13",
+    "location": "Fitchburg, MA, US"
+  },
+  {
     "name": "California Brewers Festival Commercial Competition",
     "judging_date": "2006-08-19",
     "entry_deadline": "2006-08-17",
     "location": "Sacramento, CA, US"
   },
   {
-    "name": "Benton/Franklin County Fair Homebrew Competition",
+    "name": "Baker County Fair Home Brew Competition",
     "judging_date": "2006-08-19",
     "entry_deadline": "2006-08-18",
-    "location": "Kennewick, WA, US"
+    "location": "Halfway, OR, US"
   },
   {
     "name": "Minnesota State Fair Homebrew Competition",
@@ -4278,22 +4284,16 @@
     "location": "St. Paul, MN, US"
   },
   {
-    "name": "Blues'n'Brews 2006 Homebrew Competition",
-    "judging_date": "2006-08-19",
-    "entry_deadline": "2006-08-13",
-    "location": "Fitchburg, MA, US"
-  },
-  {
     "name": "Beer and Sweat",
     "judging_date": "2006-08-19",
     "entry_deadline": "2006-08-11",
     "location": "Cincinnati, OH, US"
   },
   {
-    "name": "Baker County Fair Home Brew Competition",
+    "name": "Benton/Franklin County Fair Homebrew Competition",
     "judging_date": "2006-08-19",
     "entry_deadline": "2006-08-18",
-    "location": "Halfway, OR, US"
+    "location": "Kennewick, WA, US"
   },
   {
     "name": "Mead AHA Club-Only Competition",
@@ -4320,22 +4320,16 @@
     "location": "Longmont, CO, US"
   },
   {
-    "name": "Michigan State Fair Home Brewing Competition",
-    "judging_date": "2006-08-26",
-    "entry_deadline": "2006-08-04",
-    "location": "Detroit, MI, US"
-  },
-  {
-    "name": "Limbo Challenge",
-    "judging_date": "2006-08-26",
-    "entry_deadline": "2006-08-16",
-    "location": "Grapevine, TX, US"
-  },
-  {
     "name": "LA County Fair Commercial Beer Competition",
     "judging_date": "2006-08-26",
     "entry_deadline": "2006-08-11",
     "location": "Pomona, CA, US"
+  },
+  {
+    "name": "Michigan State Fair Home Brewing Competition",
+    "judging_date": "2006-08-26",
+    "entry_deadline": "2006-08-04",
+    "location": "Detroit, MI, US"
   },
   {
     "name": "2006 Longshot American Homebrew Contest - San Francisco Regional",
@@ -4344,10 +4338,22 @@
     "location": "San Francisco, CA, US"
   },
   {
+    "name": "Limbo Challenge",
+    "judging_date": "2006-08-26",
+    "entry_deadline": "2006-08-16",
+    "location": "Grapevine, TX, US"
+  },
+  {
     "name": "2006 Longshot American Homebrew Contest from Samuel Adams",
     "judging_date": "2006-08-26",
     "entry_deadline": "2006-08-18",
     "location": "Tallahassee, FL, US"
+  },
+  {
+    "name": "Santa Cruz County Fair Homebrew Competition",
+    "judging_date": "2006-09-09",
+    "entry_deadline": "2006-08-29",
+    "location": "Watsonville, CA, US"
   },
   {
     "name": "10th Annual New England Homebrewers Jamboree",
@@ -4362,10 +4368,10 @@
     "location": "Chicago, IL, US"
   },
   {
-    "name": "Santa Cruz County Fair Homebrew Competition",
+    "name": "Blue Ridge Brew Off",
     "judging_date": "2006-09-09",
-    "entry_deadline": "2006-08-29",
-    "location": "Watsonville, CA, US"
+    "entry_deadline": "2006-09-01",
+    "location": "Asheville, NC, US"
   },
   {
     "name": "Topsfield Fair Homebrew Competition",
@@ -4380,10 +4386,10 @@
     "location": "Dayton, OH, US"
   },
   {
-    "name": "Blue Ridge Brew Off",
+    "name": "2006 Longshot American Homebrew Contest - San Diego Regional",
     "judging_date": "2006-09-09",
-    "entry_deadline": "2006-09-01",
-    "location": "Asheville, NC, US"
+    "entry_deadline": "2006-08-18",
+    "location": "San Diego, CA, US"
   },
   {
     "name": "Eastern Idaho State Fair",
@@ -4392,10 +4398,10 @@
     "location": "Blackfoot, ID, US"
   },
   {
-    "name": "2006 Longshot American Homebrew Contest - San Diego Regional",
-    "judging_date": "2006-09-09",
-    "entry_deadline": "2006-08-18",
-    "location": "San Diego, CA, US"
+    "name": "Tulare County Fair Homebrew Competition",
+    "judging_date": "2006-09-10",
+    "entry_deadline": "2006-08-25",
+    "location": "Tulare, CA, US"
   },
   {
     "name": "2006 Longshot American Homebrew Contest - Boston Regional",
@@ -4404,22 +4410,10 @@
     "location": "Boston, MA, US"
   },
   {
-    "name": "Tulare County Fair Homebrew Competition",
-    "judging_date": "2006-09-10",
-    "entry_deadline": "2006-08-25",
-    "location": "Tulare, CA, US"
-  },
-  {
     "name": "Great Frederick Fair",
     "judging_date": "2006-09-10",
     "entry_deadline": "2006-09-10",
     "location": "Frederick, MD, US"
-  },
-  {
-    "name": "X-BREW Homebrew Competition",
-    "judging_date": "2006-09-16",
-    "entry_deadline": "2006-09-11",
-    "location": "Issaquah, WA, US"
   },
   {
     "name": "Pacific Brewers Cup",
@@ -4428,10 +4422,16 @@
     "location": "Los Angeles, CA, US"
   },
   {
-    "name": "Arizona Society of Homebrewers Oktoberfest",
+    "name": "X-BREW Homebrew Competition",
     "judging_date": "2006-09-16",
     "entry_deadline": "2006-09-11",
-    "location": "Mesa, AZ, US"
+    "location": "Issaquah, WA, US"
+  },
+  {
+    "name": "River City Roundup Fair & Festival",
+    "judging_date": "2006-09-16",
+    "entry_deadline": "2006-09-09",
+    "location": "Omaha, NE, US"
   },
   {
     "name": "Cactus Challenge",
@@ -4440,10 +4440,10 @@
     "location": "Lubbock, TX, US"
   },
   {
-    "name": "River City Roundup Fair & Festival",
+    "name": "Arizona Society of Homebrewers Oktoberfest",
     "judging_date": "2006-09-16",
-    "entry_deadline": "2006-09-09",
-    "location": "Omaha, NE, US"
+    "entry_deadline": "2006-09-11",
+    "location": "Mesa, AZ, US"
   },
   {
     "name": "The Schooner Homebrew Championship",
@@ -4500,10 +4500,10 @@
     "location": "Cincinnati, OH, US"
   },
   {
-    "name": "Oktobers'Best Zinzinnati",
+    "name": "Valhalla - The meading of life",
     "judging_date": "2006-10-14",
     "entry_deadline": "2006-10-07",
-    "location": "Cincinnati, OH, US"
+    "location": "West Chester, PA, US"
   },
   {
     "name": "Australian National Amateur Wine And Beer Show (ANAWBS)",
@@ -4530,16 +4530,16 @@
     "location": "Nashville, TN, US"
   },
   {
-    "name": "AHA Club-Only Competition for Category 13, Stout",
-    "judging_date": "2006-10-21",
-    "entry_deadline": "2006-10-13",
-    "location": "Saint Paul, MN, US"
-  },
-  {
     "name": "Dixie Cup XXIII",
     "judging_date": "2006-10-21",
     "entry_deadline": "2006-10-06",
     "location": "Houston, TX, US"
+  },
+  {
+    "name": "AHA Club-Only Competition for Category 13, Stout",
+    "judging_date": "2006-10-21",
+    "entry_deadline": "2006-10-13",
+    "location": "Saint Paul, MN, US"
   },
   {
     "name": "Schleswig Wine & Bier Contest",
@@ -4548,22 +4548,28 @@
     "location": "Schleswig, IA, US"
   },
   {
-    "name": "Hoppy Halloween Challenge",
-    "judging_date": "2006-10-28",
-    "entry_deadline": "2006-10-07",
-    "location": "Fargo, ND, US"
-  },
-  {
     "name": "CBS Spooky Brew Review",
     "judging_date": "2006-10-28",
     "entry_deadline": "2006-10-19",
     "location": "Flossmoor, IL, US"
   },
   {
+    "name": "Hoppy Halloween Challenge",
+    "judging_date": "2006-10-28",
+    "entry_deadline": "2006-10-07",
+    "location": "Fargo, ND, US"
+  },
+  {
     "name": "Southern New England Regional Homebrew Competition",
     "judging_date": "2006-10-29",
     "entry_deadline": "2006-10-21",
     "location": "Newtown, CT, US"
+  },
+  {
+    "name": "The Wizard of SAAZ Homebrew Competition",
+    "judging_date": "2006-11-04",
+    "entry_deadline": "2006-10-28",
+    "location": "Akron, OH, US"
   },
   {
     "name": "2006 THIRSTY Classic",
@@ -4578,34 +4584,10 @@
     "location": "Kent, WA, US"
   },
   {
-    "name": "The Wizard of SAAZ Homebrew Competition",
-    "judging_date": "2006-11-04",
-    "entry_deadline": "2006-10-28",
-    "location": "Akron, OH, US"
-  },
-  {
     "name": "Castle Hill Agriculutural Society Home Brewing Championship",
     "judging_date": "2006-11-05",
     "entry_deadline": "2006-10-21",
     "location": "Sydney, NSW, AU"
-  },
-  {
-    "name": "Franco Belgian Challenge Cup",
-    "judging_date": "2006-11-11",
-    "entry_deadline": "2006-11-01",
-    "location": "Madison, WI, US"
-  },
-  {
-    "name": "11th Knickerbocker Battle of the Brews",
-    "judging_date": "2006-11-11",
-    "entry_deadline": "2006-11-04",
-    "location": "Albany, NY, US"
-  },
-  {
-    "name": "Michigan Fruit Festival",
-    "judging_date": "2006-11-11",
-    "entry_deadline": "2006-10-07",
-    "location": "Columbus, MI, US"
   },
   {
     "name": "Second Annual MALT Turkey Shoot",
@@ -4614,10 +4596,10 @@
     "location": "Baltimore, MD, US"
   },
   {
-    "name": "Foam On The Range 2006",
+    "name": "Michigan Fruit Festival",
     "judging_date": "2006-11-11",
-    "entry_deadline": "2006-11-04",
-    "location": "Denver, CO, US"
+    "entry_deadline": "2006-10-07",
+    "location": "Columbus, MI, US"
   },
   {
     "name": "Fall Classic",
@@ -4626,10 +4608,28 @@
     "location": "Portland, OR, US"
   },
   {
+    "name": "Franco Belgian Challenge Cup",
+    "judging_date": "2006-11-11",
+    "entry_deadline": "2006-11-01",
+    "location": "Madison, WI, US"
+  },
+  {
+    "name": "Foam On The Range 2006",
+    "judging_date": "2006-11-11",
+    "entry_deadline": "2006-11-04",
+    "location": "Denver, CO, US"
+  },
+  {
     "name": "AHA Club-Only Competition for Category 6, Cream Ale, Blonde Ale, American Wheat , American Rye",
     "judging_date": "2006-11-11",
     "entry_deadline": "2006-11-08",
     "location": "Macomb, MI, US"
+  },
+  {
+    "name": "11th Knickerbocker Battle of the Brews",
+    "judging_date": "2006-11-11",
+    "entry_deadline": "2006-11-04",
+    "location": "Albany, NY, US"
   },
   {
     "name": "California State Homebrew Competition",
@@ -4728,16 +4728,16 @@
     "location": "Lakewood, CO, US"
   },
   {
-    "name": "International Mead Festival",
-    "judging_date": "2007-02-09",
-    "entry_deadline": null,
-    "location": "Lakewood, CO, US"
-  },
-  {
     "name": "Beerfest",
     "judging_date": "2007-02-09",
     "entry_deadline": "2007-01-31",
     "location": "Mirboo North, VIC, AU"
+  },
+  {
+    "name": "International Mead Festival",
+    "judging_date": "2007-02-09",
+    "entry_deadline": null,
+    "location": "Lakewood, CO, US"
   },
   {
     "name": "KLCC Microbrew Festival Homebrew Competition",
@@ -4764,16 +4764,16 @@
     "location": "Ajax, ON, CA"
   },
   {
-    "name": "War of the Worts XII",
-    "judging_date": "2007-02-17",
-    "entry_deadline": "2007-02-10",
-    "location": "North Wales, PA, US"
-  },
-  {
     "name": "The Coconut Cup",
     "judging_date": "2007-02-17",
     "entry_deadline": "2007-02-09",
     "location": "Miami, FL, US"
+  },
+  {
+    "name": "War of the Worts XII",
+    "judging_date": "2007-02-17",
+    "entry_deadline": "2007-02-10",
+    "location": "North Wales, PA, US"
   },
   {
     "name": "Homebrew Alley",
@@ -4800,16 +4800,10 @@
     "location": "Libertyville, IL, US"
   },
   {
-    "name": "BABBLE Brew-Off",
+    "name": "MCAB IX",
     "judging_date": "2007-02-24",
-    "entry_deadline": "2007-02-17",
-    "location": "Lincolnshire, IL, US"
-  },
-  {
-    "name": "Febfest 2007",
-    "judging_date": "2007-02-24",
-    "entry_deadline": "2007-02-17",
-    "location": "Libertyville, IL, US"
+    "entry_deadline": "2007-02-16",
+    "location": "St. Paul, MN, US"
   },
   {
     "name": "2007 Peach State Brew-Off",
@@ -4824,16 +4818,10 @@
     "location": "Anchorage, AK, US"
   },
   {
-    "name": "18th Annual Reggale & Dredhop Competition",
-    "judging_date": "2007-03-03",
-    "entry_deadline": "2007-02-23",
-    "location": "Denver, CO, US"
-  },
-  {
-    "name": "UNYHA 29th Annual/18th Empire State Open",
-    "judging_date": "2007-03-03",
+    "name": "Febfest 2007",
+    "judging_date": "2007-02-24",
     "entry_deadline": "2007-02-17",
-    "location": "Rochester, NY, US"
+    "location": "Libertyville, IL, US"
   },
   {
     "name": "IBU Open",
@@ -4842,10 +4830,22 @@
     "location": "Des Moines, IA, US"
   },
   {
+    "name": "18th Annual Reggale & Dredhop Competition",
+    "judging_date": "2007-03-03",
+    "entry_deadline": "2007-02-23",
+    "location": "Denver, CO, US"
+  },
+  {
     "name": "Great Arizona Homebrew Competition",
     "judging_date": "2007-03-03",
     "entry_deadline": "2007-03-01",
     "location": "Phoenix, AZ, US"
+  },
+  {
+    "name": "UNYHA 29th Annual/18th Empire State Open",
+    "judging_date": "2007-03-03",
+    "entry_deadline": "2007-02-17",
+    "location": "Rochester, NY, US"
   },
   {
     "name": "Best Florida Beer Championships At The Florida State Fair",
@@ -4872,16 +4872,16 @@
     "location": "Sacramento, CA, US"
   },
   {
-    "name": "9th Annual Drunk Monk Challenge",
-    "judging_date": "2007-03-10",
-    "entry_deadline": "2007-03-03",
-    "location": "Aurora, IL, US"
-  },
-  {
     "name": "SODZ 4th Annual British Beerfest Competition",
     "judging_date": "2007-03-10",
     "entry_deadline": "2007-03-02",
     "location": "Columbus, OH, US"
+  },
+  {
+    "name": "9th Annual Drunk Monk Challenge",
+    "judging_date": "2007-03-10",
+    "entry_deadline": "2007-03-03",
+    "location": "Aurora, IL, US"
   },
   {
     "name": "Homebrew Fair III",
@@ -4896,16 +4896,22 @@
     "location": "Estacada, OR, US"
   },
   {
+    "name": "17th Annual Hudson Valley Home Brewers, Homebrew  Competition",
+    "judging_date": "2007-03-24",
+    "entry_deadline": "2007-03-16",
+    "location": "New Paltz, NY, US"
+  },
+  {
     "name": "8th Werthogs Homebrew Competition",
     "judging_date": "2007-03-24",
     "entry_deadline": "2007-03-19",
     "location": "Lethbridge, AB, CA"
   },
   {
-    "name": "17th Annual Hudson Valley Home Brewers, Homebrew  Competition",
+    "name": "March Mashness",
     "judging_date": "2007-03-24",
     "entry_deadline": "2007-03-16",
-    "location": "New Paltz, NY, US"
+    "location": "Sauk Rapids, MN, US"
   },
   {
     "name": "BlueBonnet Brew-Off - 21st Annual!",
@@ -4920,16 +4926,10 @@
     "location": "Raleigh, NC, US"
   },
   {
-    "name": "March Mashness",
-    "judging_date": "2007-03-24",
-    "entry_deadline": "2007-03-16",
-    "location": "Sauk Rapids, MN, US"
-  },
-  {
-    "name": "March in Montreal",
+    "name": "BOSS Chicago Cup Challenge",
     "judging_date": "2007-03-31",
-    "entry_deadline": "2007-03-10",
-    "location": "Montreal, QC, CA"
+    "entry_deadline": "2007-03-23",
+    "location": "Blue Island, IL, US"
   },
   {
     "name": "10th Annual Eastern Connecticut Homebrew Competition",
@@ -4938,10 +4938,10 @@
     "location": "Willimantic, CT, US"
   },
   {
-    "name": "BOSS Chicago Cup Challenge",
+    "name": "March in Montreal",
     "judging_date": "2007-03-31",
-    "entry_deadline": "2007-03-23",
-    "location": "Blue Island, IL, US"
+    "entry_deadline": "2007-03-10",
+    "location": "Montreal, QC, CA"
   },
   {
     "name": "Hurricane Blowoff",
@@ -4968,10 +4968,10 @@
     "location": "Regina, SK, CA"
   },
   {
-    "name": "Mayfaire 2007",
+    "name": "2007 South Shore Brewoff",
     "judging_date": "2007-04-14",
-    "entry_deadline": "2007-04-05",
-    "location": "Woodland Hills, CA, US"
+    "entry_deadline": "2007-03-31",
+    "location": "Mansfield, MA, US"
   },
   {
     "name": "Snow Goose Break-Up Homebrew Competition",
@@ -4980,10 +4980,10 @@
     "location": "Anchorage, AK, US"
   },
   {
-    "name": "2007 South Shore Brewoff",
+    "name": "Mayfaire 2007",
     "judging_date": "2007-04-14",
-    "entry_deadline": "2007-03-31",
-    "location": "Mansfield, MA, US"
+    "entry_deadline": "2007-04-05",
+    "location": "Woodland Hills, CA, US"
   },
   {
     "name": "Wort Hog Brewers Summer Beer Festival Competition",
@@ -5022,12 +5022,6 @@
     "location": "Memphis, TN, US"
   },
   {
-    "name": "Titletown Open XIII",
-    "judging_date": "2007-04-21",
-    "entry_deadline": "2007-04-19",
-    "location": "Green Bay, WI, US"
-  },
-  {
     "name": "AHA National Homebrew Competition 1st Round Northwest Region",
     "judging_date": "2007-04-21",
     "entry_deadline": "2007-04-13",
@@ -5038,6 +5032,12 @@
     "judging_date": "2007-04-21",
     "entry_deadline": "2007-04-13",
     "location": "Tallahassee, FL, US"
+  },
+  {
+    "name": "Titletown Open XIII",
+    "judging_date": "2007-04-21",
+    "entry_deadline": "2007-04-19",
+    "location": "Green Bay, WI, US"
   },
   {
     "name": "AHA National Homebrew Competition 1st Round Midwest Region",
@@ -5064,6 +5064,12 @@
     "location": "Fitchburg, WI, US"
   },
   {
+    "name": "World Expo of Beer Competition",
+    "judging_date": "2007-04-28",
+    "entry_deadline": "2007-04-21",
+    "location": "Frankenmuth, MI, US"
+  },
+  {
     "name": "AHA National Homebrew Competition 1st Rd Southwest Region",
     "judging_date": "2007-04-28",
     "entry_deadline": "2007-04-13",
@@ -5074,12 +5080,6 @@
     "judging_date": "2007-04-28",
     "entry_deadline": "2007-04-13",
     "location": "Aurora, IL, US"
-  },
-  {
-    "name": "World Expo of Beer Competition",
-    "judging_date": "2007-04-28",
-    "entry_deadline": "2007-04-21",
-    "location": "Frankenmuth, MI, US"
   },
   {
     "name": "13th Annual Eight Seconds of Froth / Liquid Poets Mugshot Challenge",
@@ -5112,6 +5112,12 @@
     "location": "Boston, MA, US"
   },
   {
+    "name": "2007 U.S. Open Homebrew Competition",
+    "judging_date": "2007-05-12",
+    "entry_deadline": "2007-05-04",
+    "location": "Mooresville, NC, US"
+  },
+  {
     "name": "Goblets of Gold mead competition",
     "judging_date": "2007-05-12",
     "entry_deadline": "2007-05-10",
@@ -5122,12 +5128,6 @@
     "judging_date": "2007-05-12",
     "entry_deadline": "2007-05-02",
     "location": "Alpharetta, GA, US"
-  },
-  {
-    "name": "2007 U.S. Open Homebrew Competition",
-    "judging_date": "2007-05-12",
-    "entry_deadline": "2007-05-04",
-    "location": "Mooresville, NC, US"
   },
   {
     "name": "AHA Extract COC",
@@ -5160,10 +5160,16 @@
     "location": "Chicago, IL, US"
   },
   {
-    "name": "The 25th Annual Oregon Homebrew and Microbrew Festival",
+    "name": "Alameda County Fair Homebrew Competition",
     "judging_date": "2007-05-19",
-    "entry_deadline": "2007-05-03",
-    "location": "Corvallis, OR, US"
+    "entry_deadline": "2007-05-05",
+    "location": "Pleasanton, CA, US"
+  },
+  {
+    "name": "11th Annual B.E.E.R. Brewoff",
+    "judging_date": "2007-05-19",
+    "entry_deadline": "2007-05-12",
+    "location": "Nesconset, NY, US"
   },
   {
     "name": "TRASH XVII",
@@ -5184,34 +5190,16 @@
     "location": "Albuquerque, NM, US"
   },
   {
-    "name": "2007 WI State Fair Homebrewer's Show",
-    "judging_date": "2007-05-19",
-    "entry_deadline": "2007-05-01",
-    "location": "West Allis, WI, WI, US"
-  },
-  {
-    "name": "Alameda County Fair Homebrew Competition",
-    "judging_date": "2007-05-19",
-    "entry_deadline": "2007-05-05",
-    "location": "Pleasanton, CA, US"
-  },
-  {
-    "name": "11th Annual B.E.E.R. Brewoff",
-    "judging_date": "2007-05-19",
-    "entry_deadline": "2007-05-12",
-    "location": "Nesconset, NY, US"
-  },
-  {
-    "name": "Cascade Brewers Cup",
-    "judging_date": "2007-05-19",
-    "entry_deadline": "2007-04-30",
-    "location": "Woodinville, WA, US"
-  },
-  {
     "name": "2007 Sacramento County Fair Home Brew Competition",
     "judging_date": "2007-05-19",
     "entry_deadline": "2007-05-12",
     "location": "Sacramento, CA, US"
+  },
+  {
+    "name": "Celtic Brew-Off - 11th Annual!",
+    "judging_date": "2007-05-19",
+    "entry_deadline": "2007-05-09",
+    "location": "Arlington, TX, US"
   },
   {
     "name": "First Annual ABC Brews Crews Homebrew Competition",
@@ -5220,10 +5208,10 @@
     "location": "Ypsilanti, MI, US"
   },
   {
-    "name": "Celtic Brew-Off - 11th Annual!",
+    "name": "2007 WI State Fair Homebrewer's Show",
     "judging_date": "2007-05-19",
-    "entry_deadline": "2007-05-09",
-    "location": "Arlington, TX, US"
+    "entry_deadline": "2007-05-01",
+    "location": "West Allis, WI, WI, US"
   },
   {
     "name": "7th Annual May Mead Madness",
@@ -5238,10 +5226,22 @@
     "location": "Del Mar, CA, US"
   },
   {
+    "name": "The 25th Annual Oregon Homebrew and Microbrew Festival",
+    "judging_date": "2007-05-19",
+    "entry_deadline": "2007-05-03",
+    "location": "Corvallis, OR, US"
+  },
+  {
     "name": "Bloatarian Open",
     "judging_date": "2007-05-19",
     "entry_deadline": "2007-05-11",
     "location": "Cincinnati, OH, US"
+  },
+  {
+    "name": "Cascade Brewers Cup",
+    "judging_date": "2007-05-19",
+    "entry_deadline": "2007-04-30",
+    "location": "Woodinville, WA, US"
   },
   {
     "name": "12th Annual Big Batch Brew Bash",
@@ -5256,16 +5256,16 @@
     "location": "Haines, AK, US"
   },
   {
-    "name": "2007 California State Fair Commercial Craft Brewing Competition",
-    "judging_date": "2007-05-26",
-    "entry_deadline": "2007-05-09",
-    "location": "Sacramento, CA, US"
-  },
-  {
     "name": "3rd Annual MoreBeer! Forum Competition",
     "judging_date": "2007-05-26",
     "entry_deadline": "2007-05-19",
     "location": "Concord, CA, US"
+  },
+  {
+    "name": "2007 California State Fair Commercial Craft Brewing Competition",
+    "judging_date": "2007-05-26",
+    "entry_deadline": "2007-05-09",
+    "location": "Sacramento, CA, US"
   },
   {
     "name": "California State Fair Home Brewing Competition 2007",
@@ -5280,16 +5280,16 @@
     "location": "Idaho Falls, ID, US"
   },
   {
-    "name": "Santa Cruz Mountain Brewing HomeBrew to ProBrew",
-    "judging_date": "2007-05-31",
-    "entry_deadline": "2007-05-31",
-    "location": "Santa Cruz, CA, US"
-  },
-  {
     "name": "Contra Costa Fair's Amateur Home Brew Competition",
     "judging_date": "2007-05-31",
     "entry_deadline": "2007-05-08",
     "location": "Antioch, CA, US"
+  },
+  {
+    "name": "Santa Cruz Mountain Brewing HomeBrew to ProBrew",
+    "judging_date": "2007-05-31",
+    "entry_deadline": "2007-05-31",
+    "location": "Santa Cruz, CA, US"
   },
   {
     "name": "2007 Samuel Adams American Homebrew Contest - LongShot San Francisco",
@@ -5322,12 +5322,6 @@
     "location": "Albany, NY, US"
   },
   {
-    "name": "2007 BUZZ Off",
-    "judging_date": "2007-06-09",
-    "entry_deadline": "2007-05-26",
-    "location": "West Chester, PA, US"
-  },
-  {
     "name": "Puget Sound Pro-Am Competition",
     "judging_date": "2007-06-09",
     "entry_deadline": "2007-06-06",
@@ -5338,6 +5332,12 @@
     "judging_date": "2007-06-09",
     "entry_deadline": "2007-06-01",
     "location": "Edmonton, AB, CA"
+  },
+  {
+    "name": "2007 BUZZ Off",
+    "judging_date": "2007-06-09",
+    "entry_deadline": "2007-05-26",
+    "location": "West Chester, PA, US"
   },
   {
     "name": "San Diego County Fair Homebrew Competition",
@@ -5394,10 +5394,10 @@
     "location": "Sakura-shi, CHIBA-KEN, JP"
   },
   {
-    "name": "Canadian International Beer Championship",
+    "name": "Alltech's Lexington Brewing Co. Pro Am Competition",
     "judging_date": "2007-07-06",
-    "entry_deadline": "2007-06-15",
-    "location": "Barrie, ON, CA"
+    "entry_deadline": "2007-07-06",
+    "location": "Lexington, KY, US"
   },
   {
     "name": "Alltech's Lexington Brewing Co. Pro Am Competition",
@@ -5418,12 +5418,6 @@
     "location": "Plymouth, CA, US"
   },
   {
-    "name": "NAH presents Mountaintop Homebrew Competition",
-    "judging_date": "2007-07-14",
-    "entry_deadline": "2007-06-30",
-    "location": "Flagstaff, AZ, US"
-  },
-  {
     "name": "Dominion Cup",
     "judging_date": "2007-07-14",
     "entry_deadline": "2007-07-11",
@@ -5434,6 +5428,12 @@
     "judging_date": "2007-07-14",
     "entry_deadline": "2007-06-22",
     "location": "Indianapolis, IN, US"
+  },
+  {
+    "name": "NAH presents Mountaintop Homebrew Competition",
+    "judging_date": "2007-07-14",
+    "entry_deadline": "2007-06-30",
+    "location": "Flagstaff, AZ, US"
   },
   {
     "name": "E.T. Barnette Homebrew Competition",
@@ -5466,16 +5466,16 @@
     "location": "Montrose, CO, US"
   },
   {
-    "name": "10th Annual Mountain Brewer Open",
-    "judging_date": "2007-07-28",
-    "entry_deadline": "2007-07-21",
-    "location": "Huntington, WV, US"
-  },
-  {
     "name": "NYS Craft Brewers Competition",
     "judging_date": "2007-07-28",
     "entry_deadline": "2007-07-16",
     "location": "Syracuse, NY, US"
+  },
+  {
+    "name": "10th Annual Mountain Brewer Open",
+    "judging_date": "2007-07-28",
+    "entry_deadline": "2007-07-21",
+    "location": "Huntington, WV, US"
   },
   {
     "name": "Nevada County Fair Homebrew Competition",
@@ -5502,16 +5502,16 @@
     "location": "Baker City, OR, US"
   },
   {
-    "name": "Grant County Fair",
-    "judging_date": "2007-08-11",
-    "entry_deadline": "2007-08-04",
-    "location": "Moses Lake, WA, US"
-  },
-  {
     "name": "Evergreen State Fair 2007",
     "judging_date": "2007-08-11",
     "entry_deadline": "2007-08-08",
     "location": "Monroe, WA, US"
+  },
+  {
+    "name": "Grant County Fair",
+    "judging_date": "2007-08-11",
+    "entry_deadline": "2007-08-04",
+    "location": "Moses Lake, WA, US"
   },
   {
     "name": "Kentucky State Fair",
@@ -5526,12 +5526,6 @@
     "location": "Albnuquerque, NM, US"
   },
   {
-    "name": "Benton - Franklin County Fair",
-    "judging_date": "2007-08-18",
-    "entry_deadline": "2007-08-01",
-    "location": "Kennewick, WA, US"
-  },
-  {
     "name": "2007 Blues 'N' Brews",
     "judging_date": "2007-08-18",
     "entry_deadline": "2007-08-11",
@@ -5544,16 +5538,22 @@
     "location": "St. Paul, MN, US"
   },
   {
+    "name": "AHA Club-Only Competition Strong Ale",
+    "judging_date": "2007-08-18",
+    "entry_deadline": "2007-08-10",
+    "location": "Houston, TX, US"
+  },
+  {
+    "name": "Benton - Franklin County Fair",
+    "judging_date": "2007-08-18",
+    "entry_deadline": "2007-08-01",
+    "location": "Kennewick, WA, US"
+  },
+  {
     "name": "Beer and Sweat",
     "judging_date": "2007-08-18",
     "entry_deadline": "2007-08-10",
     "location": "Covington, KY, US"
-  },
-  {
-    "name": "Minnesota State Fair Homebrew Competition",
-    "judging_date": "2007-08-18",
-    "entry_deadline": "2007-08-10",
-    "location": "St. Paul, MN, US"
   },
   {
     "name": "Western Washington Fair Amateur Beer Competition",
@@ -5592,16 +5592,16 @@
     "location": "Grapevine, TX, US"
   },
   {
-    "name": "Chelan County Fair",
-    "judging_date": "2007-08-26",
-    "entry_deadline": "2007-08-25",
-    "location": "Cashmere, WA, US"
-  },
-  {
     "name": "The Bruery Batch No. 01 Competition",
     "judging_date": "2007-08-26",
     "entry_deadline": "2007-08-24",
     "location": "Placentia, CA, US"
+  },
+  {
+    "name": "Chelan County Fair",
+    "judging_date": "2007-08-26",
+    "entry_deadline": "2007-08-25",
+    "location": "Cashmere, WA, US"
   },
   {
     "name": "Byggvir's Big Beer Cup",
@@ -5628,6 +5628,12 @@
     "location": "Topsfield, MA, US"
   },
   {
+    "name": "Santa Cruz County Fair Homebrew Competition",
+    "judging_date": "2007-09-08",
+    "entry_deadline": "2007-08-26",
+    "location": "Watsonville, CA, US"
+  },
+  {
     "name": "Malt Madness",
     "judging_date": "2007-09-08",
     "entry_deadline": "2007-08-30",
@@ -5640,10 +5646,10 @@
     "location": "Asheville, NC, US"
   },
   {
-    "name": "Santa Cruz County Fair Homebrew Competition",
-    "judging_date": "2007-09-08",
-    "entry_deadline": "2007-08-26",
-    "location": "Watsonville, CA, US"
+    "name": "Tulare County Fair Homebrew Competition",
+    "judging_date": "2007-09-09",
+    "entry_deadline": "2007-08-24",
+    "location": "Tulare, CA, US"
   },
   {
     "name": "Great Frederick Fair",
@@ -5652,10 +5658,10 @@
     "location": "Frederick, MD, US"
   },
   {
-    "name": "Tulare County Fair Homebrew Competition",
-    "judging_date": "2007-09-09",
-    "entry_deadline": "2007-08-24",
-    "location": "Tulare, CA, US"
+    "name": "X-BREW",
+    "judging_date": "2007-09-15",
+    "entry_deadline": "2007-09-24",
+    "location": "Issaquah, WA, US"
   },
   {
     "name": "Schooner Homebrew Champonship",
@@ -5670,22 +5676,16 @@
     "location": "Beavercreek, OH, US"
   },
   {
-    "name": "X-BREW",
+    "name": "Great Heron Homebrew Open",
     "judging_date": "2007-09-15",
-    "entry_deadline": "2007-09-24",
-    "location": "Issaquah, WA, US"
+    "entry_deadline": "2007-09-02",
+    "location": "Marshfield, WI, US"
   },
   {
     "name": "River City Roundup Fair & Festival",
     "judging_date": "2007-09-15",
     "entry_deadline": "2007-09-08",
     "location": "Omaha, NE, US"
-  },
-  {
-    "name": "Great Heron Homebrew Open",
-    "judging_date": "2007-09-15",
-    "entry_deadline": "2007-09-02",
-    "location": "Marshfield, WI, US"
   },
   {
     "name": "AZ Society of Homebrewers 13th Annual Oktoberfest",
@@ -5706,16 +5706,16 @@
     "location": "San Antonio, TX, US"
   },
   {
-    "name": "Commander SAAZ 2007",
-    "judging_date": "2007-09-22",
-    "entry_deadline": "2007-09-08",
-    "location": "Cocoa Beach, FL, US"
-  },
-  {
     "name": "Michigan Renaissance Festival Homebrew Competition",
     "judging_date": "2007-09-22",
     "entry_deadline": "2007-09-08",
     "location": "Holly, MI, US"
+  },
+  {
+    "name": "Commander SAAZ 2007",
+    "judging_date": "2007-09-22",
+    "entry_deadline": "2007-09-08",
+    "location": "Cocoa Beach, FL, US"
   },
   {
     "name": "FOAM Cup",
@@ -5820,22 +5820,16 @@
     "location": "Philadelphia, PA, US"
   },
   {
-    "name": "National Organic Homebrew Challenge!",
-    "judging_date": "2007-10-21",
-    "entry_deadline": "2007-10-19",
-    "location": "Santa Cruz, CA, US"
-  },
-  {
     "name": "Schleswig Wine & Bier Contest",
     "judging_date": "2007-10-21",
     "entry_deadline": "2007-10-21",
     "location": "Schleswig, IA, US"
   },
   {
-    "name": "Queen of Beer Women's HBC",
-    "judging_date": "2007-10-27",
-    "entry_deadline": "2007-10-15",
-    "location": "Placerville, CA, US"
+    "name": "National Organic Homebrew Challenge!",
+    "judging_date": "2007-10-21",
+    "entry_deadline": "2007-10-19",
+    "location": "Santa Cruz, CA, US"
   },
   {
     "name": "NSW Homebrewing Championship",
@@ -5850,6 +5844,18 @@
     "location": "Chicago, IL, US"
   },
   {
+    "name": "Queen of Beer Women's HBC",
+    "judging_date": "2007-10-27",
+    "entry_deadline": "2007-10-15",
+    "location": "Placerville, CA, US"
+  },
+  {
+    "name": "Hoppy Halloween Challenge",
+    "judging_date": "2007-10-27",
+    "entry_deadline": "2007-10-13",
+    "location": "Fargo, ND, US"
+  },
+  {
     "name": "16th Annual CBS Spooky Brew Review",
     "judging_date": "2007-10-27",
     "entry_deadline": "2007-10-19",
@@ -5860,12 +5866,6 @@
     "judging_date": "2007-10-27",
     "entry_deadline": "2007-10-20",
     "location": "Dromana, VIC, AU"
-  },
-  {
-    "name": "Queen of Beer Women's HBC",
-    "judging_date": "2007-10-27",
-    "entry_deadline": "2007-10-15",
-    "location": "Placerville, CA, US"
   },
   {
     "name": "TRUB Open",
@@ -5886,28 +5886,28 @@
     "location": "Kent, WA, US"
   },
   {
-    "name": "Franco Belgian Challenge Cup",
-    "judging_date": "2007-11-03",
-    "entry_deadline": "2007-10-24",
-    "location": "Verona, WI, US"
-  },
-  {
     "name": "Foam On The Range 2007",
     "judging_date": "2007-11-03",
     "entry_deadline": "2007-10-20",
     "location": "Denver, CO, US"
   },
   {
-    "name": "New England Regional Homebrewers Competiton",
-    "judging_date": "2007-11-03",
-    "entry_deadline": "2007-10-26",
-    "location": "Manchester, NH, US"
-  },
-  {
     "name": "2007 THIRSTY Classic",
     "judging_date": "2007-11-03",
     "entry_deadline": "2007-10-27",
     "location": "Amana, IA, US"
+  },
+  {
+    "name": "Franco Belgian Challenge Cup",
+    "judging_date": "2007-11-03",
+    "entry_deadline": "2007-10-24",
+    "location": "Verona, WI, US"
+  },
+  {
+    "name": "New England Regional Homebrewers Competiton",
+    "judging_date": "2007-11-03",
+    "entry_deadline": "2007-10-26",
+    "location": "Manchester, NH, US"
   },
   {
     "name": "Fall Classic",
@@ -5934,12 +5934,6 @@
     "location": "Philadelphia, PA, US"
   },
   {
-    "name": "Knickerbocker Battle of the Brews",
-    "judging_date": "2007-11-10",
-    "entry_deadline": "2007-11-02",
-    "location": "Albany, NY, US"
-  },
-  {
     "name": "California State Homebrew Compeititon",
     "judging_date": "2007-11-10",
     "entry_deadline": "2007-10-06",
@@ -5958,16 +5952,22 @@
     "location": "Baltimore, MD, US"
   },
   {
-    "name": "Bay Street Bash",
+    "name": "Knickerbocker Battle of the Brews",
     "judging_date": "2007-11-10",
-    "entry_deadline": "2007-11-05",
-    "location": "Savannah, GA, US"
+    "entry_deadline": "2007-11-02",
+    "location": "Albany, NY, US"
   },
   {
     "name": "FOSSILS Porter Competition",
     "judging_date": "2007-11-10",
     "entry_deadline": "2007-11-08",
     "location": "New Albany, IN, US"
+  },
+  {
+    "name": "Bay Street Bash",
+    "judging_date": "2007-11-10",
+    "entry_deadline": "2007-11-05",
+    "location": "Savannah, GA, US"
   },
   {
     "name": "16th Annual Great Brews of America Homebrew Competition",
@@ -6000,16 +6000,16 @@
     "location": "Columbia, SC, US"
   },
   {
-    "name": "New England Fall Regional Homemade Beer Competition",
-    "judging_date": "2007-12-01",
-    "entry_deadline": "2007-11-24",
-    "location": "Deerfield, MA, US"
-  },
-  {
     "name": "Walk The Line On Barleywine 2007",
     "judging_date": "2007-12-01",
     "entry_deadline": "2007-11-24",
     "location": "Dunedin, FL, US"
+  },
+  {
+    "name": "New England Fall Regional Homemade Beer Competition",
+    "judging_date": "2007-12-01",
+    "entry_deadline": "2007-11-24",
+    "location": "Deerfield, MA, US"
   },
   {
     "name": "Dickens Fair Black & Tan HBC",
@@ -6018,28 +6018,28 @@
     "location": "Daly City, CA, US"
   },
   {
-    "name": "AHA Club-Only Competition Pilsner",
-    "judging_date": "2007-12-08",
-    "entry_deadline": "2007-11-30",
-    "location": "Orangevale, CA, US"
-  },
-  {
     "name": "93.7 BOB FM's Colonial Home Brewing contest",
     "judging_date": "2007-12-08",
     "entry_deadline": "2007-11-30",
     "location": "Norfolk, VA, US"
   },
   {
-    "name": "Happy Holiday Homebrew Competition 2007",
-    "judging_date": "2007-12-08",
-    "entry_deadline": null,
-    "location": "St. Louis, MO, US"
-  },
-  {
     "name": "HOTV Holiday Hoopla I",
     "judging_date": "2007-12-08",
     "entry_deadline": "2007-11-30",
     "location": "Corvallis, OR, US"
+  },
+  {
+    "name": "AHA Club-Only Competition Pilsner",
+    "judging_date": "2007-12-08",
+    "entry_deadline": "2007-11-30",
+    "location": "Orangevale, CA, US"
+  },
+  {
+    "name": "Happy Holiday Homebrew Competition 2007",
+    "judging_date": "2007-12-08",
+    "entry_deadline": null,
+    "location": "St. Louis, MO, US"
   },
   {
     "name": "Great Lakes Olde World Syder Competition",
@@ -6066,10 +6066,10 @@
     "location": "Woodland Hills, CA, US"
   },
   {
-    "name": "Upper Mississippi Mash-Out",
+    "name": "Meadllennium 2008",
     "judging_date": "2008-01-26",
-    "entry_deadline": "2008-01-12",
-    "location": "St. Paul, MN, US"
+    "entry_deadline": "2008-01-19",
+    "location": "Oviedo, FL, US"
   },
   {
     "name": "Patriot Homebrew Competition",
@@ -6078,10 +6078,10 @@
     "location": "Foxboro, MA, US"
   },
   {
-    "name": "Meadllennium 2008",
+    "name": "Upper Mississippi Mash-Out",
     "judging_date": "2008-01-26",
-    "entry_deadline": "2008-01-19",
-    "location": "Oviedo, FL, US"
+    "entry_deadline": "2008-01-12",
+    "location": "St. Paul, MN, US"
   },
   {
     "name": "9th Annual Domras Cup Mead Competition",
@@ -6102,6 +6102,12 @@
     "location": "Duluth, MN, US"
   },
   {
+    "name": "MCAB X (Master Championships of Amateur Brewing)",
+    "judging_date": "2008-02-09",
+    "entry_deadline": "2008-02-01",
+    "location": "Houston, TX, US"
+  },
+  {
     "name": "Las Vegas Winterfest 2008",
     "judging_date": "2008-02-09",
     "entry_deadline": "2008-02-01",
@@ -6118,12 +6124,6 @@
     "judging_date": "2008-02-09",
     "entry_deadline": "2007-12-15",
     "location": "Lakewood, CO, US"
-  },
-  {
-    "name": "MCAB X (Master Championships of Amateur Brewing)",
-    "judging_date": "2008-02-09",
-    "entry_deadline": "2008-02-01",
-    "location": "Houston, TX, US"
   },
   {
     "name": "Beerfest",
@@ -6186,10 +6186,10 @@
     "location": "North Wales, PA, US"
   },
   {
-    "name": "Leap Beer Brew-Off",
+    "name": "The 5th Annual Brewhouse Brewoff",
     "judging_date": "2008-02-23",
-    "entry_deadline": "2008-02-16",
-    "location": "Mundelein, IL, US"
+    "entry_deadline": "2008-02-15",
+    "location": "Edmonton, AB, CA"
   },
   {
     "name": "SODZ British Beerfest",
@@ -6198,10 +6198,10 @@
     "location": "Columbus, OH, US"
   },
   {
-    "name": "The 5th Annual Brewhouse Brewoff",
+    "name": "Leap Beer Brew-Off",
     "judging_date": "2008-02-23",
-    "entry_deadline": "2008-02-15",
-    "location": "Edmonton, AB, CA"
+    "entry_deadline": "2008-02-16",
+    "location": "Mundelein, IL, US"
   },
   {
     "name": "2008 Peach State Brew-Off",
@@ -6216,16 +6216,16 @@
     "location": "Boston, MA, US"
   },
   {
-    "name": "19th Annual Reggale and Dredhop",
-    "judging_date": "2008-03-01",
-    "entry_deadline": "2008-02-22",
-    "location": "Denver, CO, US"
-  },
-  {
     "name": "Best Florida Beer Comp 2008",
     "judging_date": "2008-03-01",
     "entry_deadline": "2008-02-15",
     "location": "Dunedin, FL, US"
+  },
+  {
+    "name": "19th Annual Reggale and Dredhop",
+    "judging_date": "2008-03-01",
+    "entry_deadline": "2008-02-22",
+    "location": "Denver, CO, US"
   },
   {
     "name": "Kona Brewer's Festival Home Brew Competition",
@@ -6234,16 +6234,16 @@
     "location": "Kailua Kona, HI, US"
   },
   {
-    "name": "IBU Open",
-    "judging_date": "2008-03-08",
-    "entry_deadline": "2008-03-02",
-    "location": "Des Moines, IA, US"
-  },
-  {
     "name": "Bockfest",
     "judging_date": "2008-03-08",
     "entry_deadline": "2008-02-29",
     "location": "Cincinnati, OH, US"
+  },
+  {
+    "name": "IBU Open",
+    "judging_date": "2008-03-08",
+    "entry_deadline": "2008-03-02",
+    "location": "Des Moines, IA, US"
   },
   {
     "name": "UNYHA 30th Annual/19th Empire State Open",
@@ -6258,16 +6258,16 @@
     "location": "Tanunda, SA, AU"
   },
   {
-    "name": "Celebrewtion",
-    "judging_date": "2008-03-08",
-    "entry_deadline": "2008-03-03",
-    "location": "Sacramento, CA, US"
-  },
-  {
     "name": "10th Annual UKG Drunk Monk Challenge",
     "judging_date": "2008-03-08",
     "entry_deadline": "2008-03-01",
     "location": "Aurora, IL, US"
+  },
+  {
+    "name": "Celebrewtion",
+    "judging_date": "2008-03-08",
+    "entry_deadline": "2008-03-03",
+    "location": "Sacramento, CA, US"
   },
   {
     "name": "McChord Club Brewfest",
@@ -6312,16 +6312,16 @@
     "location": "Dallas/Ft. Worth, TX, US"
   },
   {
-    "name": "World Cup of Beer",
-    "judging_date": "2008-03-29",
-    "entry_deadline": "2008-03-08",
-    "location": "Berkeley, CA, US"
-  },
-  {
     "name": "March in Montreal",
     "judging_date": "2008-03-29",
     "entry_deadline": "2008-03-09",
     "location": "Boisbriand, QC, CA"
+  },
+  {
+    "name": "AHA Club-Only Competition Perfect Porter Challenge",
+    "judging_date": "2008-03-29",
+    "entry_deadline": "2008-03-21",
+    "location": "Zionsville, IN, US"
   },
   {
     "name": "Chicago Cup Challenge",
@@ -6336,10 +6336,10 @@
     "location": "Cranberry Twp., PA, US"
   },
   {
-    "name": "AHA Club-Only Competition Perfect Porter Challenge",
+    "name": "World Cup of Beer",
     "judging_date": "2008-03-29",
-    "entry_deadline": "2008-03-21",
-    "location": "Zionsville, IN, US"
+    "entry_deadline": "2008-03-08",
+    "location": "Berkeley, CA, US"
   },
   {
     "name": "Slurp & Burp Open",
@@ -6378,10 +6378,10 @@
     "location": "Peoria, IL, US"
   },
   {
-    "name": "Homebrew at the W.E.B",
+    "name": "AHA National Homebrew Competition 1st Round Northwest Region",
     "judging_date": "2008-04-12",
     "entry_deadline": "2008-04-11",
-    "location": "Frankenmuth, MI, US"
+    "location": "Anchorage, AK, US"
   },
   {
     "name": "2008 South Shore Brewoff",
@@ -6390,16 +6390,16 @@
     "location": "Mansfield, MA, US"
   },
   {
-    "name": "AHA National Homebrew Competition 1st Round Northwest Region",
-    "judging_date": "2008-04-12",
-    "entry_deadline": "2008-04-11",
-    "location": "Anchorage, AK, US"
-  },
-  {
     "name": "Maltose Falcons Mayfaire",
     "judging_date": "2008-04-12",
     "entry_deadline": "2008-03-27",
     "location": "Woodland Hills, CA, US"
+  },
+  {
+    "name": "Homebrew at the W.E.B",
+    "judging_date": "2008-04-12",
+    "entry_deadline": "2008-04-11",
+    "location": "Frankenmuth, MI, US"
   },
   {
     "name": "World Beer Cup 2008",
@@ -6426,16 +6426,16 @@
     "location": "Columbus, OH, US"
   },
   {
-    "name": "COHO Spring Fling 2008",
-    "judging_date": "2008-04-19",
-    "entry_deadline": "2008-04-14",
-    "location": "Bend, OR, US"
-  },
-  {
     "name": "AHA National Homebrew Competition 1st Round South Region",
     "judging_date": "2008-04-19",
     "entry_deadline": "2008-04-11",
     "location": "Raleigh, NC, US"
+  },
+  {
+    "name": "COHO Spring Fling 2008",
+    "judging_date": "2008-04-19",
+    "entry_deadline": "2008-04-14",
+    "location": "Bend, OR, US"
   },
   {
     "name": "2008 Golden Growler Homebrewing Challenge",
@@ -6450,12 +6450,6 @@
     "location": "Memphis, TN, US"
   },
   {
-    "name": "AHA National Homebrew Competition 1st Round Southwest Region",
-    "judging_date": "2008-04-25",
-    "entry_deadline": "2008-04-11",
-    "location": "San Diego, CA, US"
-  },
-  {
     "name": "AHA National Homebrew Competition 1st Round Great Lakes Region",
     "judging_date": "2008-04-25",
     "entry_deadline": "2008-04-11",
@@ -6468,10 +6462,10 @@
     "location": "Philadelphia, PA, US"
   },
   {
-    "name": "Hurricane Blowoff",
-    "judging_date": "2008-04-26",
+    "name": "AHA National Homebrew Competition 1st Round Southwest Region",
+    "judging_date": "2008-04-25",
     "entry_deadline": "2008-04-11",
-    "location": "West Palm Beach, FL, US"
+    "location": "San Diego, CA, US"
   },
   {
     "name": "World Expo of Beer Competition",
@@ -6486,16 +6480,22 @@
     "location": "Madison, WI, US"
   },
   {
-    "name": "AHA National Homebrew Competition 1st Round Old West Region",
+    "name": "Hurricane Blowoff",
     "judging_date": "2008-04-26",
     "entry_deadline": "2008-04-11",
-    "location": "Denver, CO, US"
+    "location": "West Palm Beach, FL, US"
   },
   {
     "name": "Madison River Brewing 2nd Annual Homebrew Competition",
     "judging_date": "2008-04-26",
     "entry_deadline": "2008-04-19",
     "location": "Belgrade, MT, US"
+  },
+  {
+    "name": "AHA National Homebrew Competition 1st Round Old West Region",
+    "judging_date": "2008-04-26",
+    "entry_deadline": "2008-04-11",
+    "location": "Denver, CO, US"
   },
   {
     "name": "Green Mountain Homebrew Competition",
@@ -6528,16 +6528,16 @@
     "location": "Mooresville, NC, US"
   },
   {
-    "name": "San Diego County Fair Craft Brewers Competition",
-    "judging_date": "2008-05-10",
-    "entry_deadline": "2008-04-18",
-    "location": "Del Mar, CA, US"
-  },
-  {
     "name": "Goblets of Gold - 2008",
     "judging_date": "2008-05-10",
     "entry_deadline": "2008-05-09",
     "location": "Homer, AK, US"
+  },
+  {
+    "name": "San Diego County Fair Craft Brewers Competition",
+    "judging_date": "2008-05-10",
+    "entry_deadline": "2008-04-18",
+    "location": "Del Mar, CA, US"
   },
   {
     "name": "Bloatarian Open",
@@ -6660,10 +6660,10 @@
     "location": "San Francisco, CA, US"
   },
   {
-    "name": "Upland Brewing Company UpCup",
+    "name": "St. Louis Microfest Homebrew Competition",
     "judging_date": "2008-05-31",
-    "entry_deadline": "2008-05-26",
-    "location": "Bloomington, IN, US"
+    "entry_deadline": "2008-05-30",
+    "location": "Saint Louis, MO, US"
   },
   {
     "name": "Puget Sound Pro-Am Competition",
@@ -6672,16 +6672,16 @@
     "location": "Kent, WA, US"
   },
   {
+    "name": "Upland Brewing Company UpCup",
+    "judging_date": "2008-05-31",
+    "entry_deadline": "2008-05-26",
+    "location": "Bloomington, IN, US"
+  },
+  {
     "name": "Aurora Brewing Challenge 2008",
     "judging_date": "2008-05-31",
     "entry_deadline": "2008-05-19",
     "location": "Edmonton, AB, CA"
-  },
-  {
-    "name": "St. Louis Microfest Homebrew Competition",
-    "judging_date": "2008-05-31",
-    "entry_deadline": "2008-05-30",
-    "location": "Saint Louis, MO, US"
   },
   {
     "name": "North American Beer Awards",
@@ -6708,16 +6708,16 @@
     "location": "Boston, MA, US"
   },
   {
+    "name": "Pepper Extravaganza 2008",
+    "judging_date": "2008-06-07",
+    "entry_deadline": "2008-05-31",
+    "location": "DUNEDIN, FL, US"
+  },
+  {
     "name": "Cascade Brewers Cup",
     "judging_date": "2008-06-07",
     "entry_deadline": "2008-05-13",
     "location": "Woodinville, WA, US"
-  },
-  {
-    "name": "Boneyard Brew-Off",
-    "judging_date": "2008-06-07",
-    "entry_deadline": "2008-06-04",
-    "location": "Urbana, IL, US"
   },
   {
     "name": "2008 BUZZ Off",
@@ -6732,16 +6732,16 @@
     "location": "Ypsilanti, MI, US"
   },
   {
-    "name": "Pepper Extravaganza 2008",
-    "judging_date": "2008-06-07",
-    "entry_deadline": "2008-05-31",
-    "location": "DUNEDIN, FL, US"
-  },
-  {
     "name": "Alameda County Fair Homebrew Competition (BABO)",
     "judging_date": "2008-06-07",
     "entry_deadline": "2008-05-24",
     "location": "Pleasanton, CA, US"
+  },
+  {
+    "name": "Boneyard Brew-Off",
+    "judging_date": "2008-06-07",
+    "entry_deadline": "2008-06-04",
+    "location": "Urbana, IL, US"
   },
   {
     "name": "New  York State Fair Homebrewers Competition",
@@ -6792,22 +6792,16 @@
     "location": "Hamamatsu, SHIZUOKA, JP"
   },
   {
-    "name": "Amador County Fair Homebrew Competition",
+    "name": "14th Annual Eight Seconds of Froth",
     "judging_date": "2008-07-12",
-    "entry_deadline": "2008-06-28",
-    "location": "Plymouth, CA, US"
+    "entry_deadline": "2008-07-05",
+    "location": "Cheyenne, WY, US"
   },
   {
     "name": "E.T. Barnette Homebrew Competition",
     "judging_date": "2008-07-12",
     "entry_deadline": "2008-07-09",
     "location": "Fox, AK, US"
-  },
-  {
-    "name": "14th Annual Eight Seconds of Froth",
-    "judging_date": "2008-07-12",
-    "entry_deadline": "2008-07-05",
-    "location": "Cheyenne, WY, US"
   },
   {
     "name": "Indiana State Fair Brewers Cup",
@@ -6822,16 +6816,28 @@
     "location": "Plymouth, CA, US"
   },
   {
-    "name": "Brew City Brew-Off",
-    "judging_date": "2008-07-19",
-    "entry_deadline": "2008-06-14",
-    "location": "Milwaukee, WI, US"
+    "name": "Amador County Fair Homebrew Competition",
+    "judging_date": "2008-07-12",
+    "entry_deadline": "2008-06-28",
+    "location": "Plymouth, CA, US"
   },
   {
     "name": "Ohio Brew Week Homebrew Competition",
     "judging_date": "2008-07-19",
     "entry_deadline": "2008-06-22",
     "location": "Athens, OH, US"
+  },
+  {
+    "name": "ESB Winter Homebrew Competition",
+    "judging_date": "2008-07-19",
+    "entry_deadline": "2008-07-04",
+    "location": "Sydney, NSW, AU"
+  },
+  {
+    "name": "Brew City Brew-Off",
+    "judging_date": "2008-07-19",
+    "entry_deadline": "2008-06-14",
+    "location": "Milwaukee, WI, US"
   },
   {
     "name": "Ohio State Fair Homebrew Competition",
@@ -6844,12 +6850,6 @@
     "judging_date": "2008-07-19",
     "entry_deadline": "2008-07-12",
     "location": "Appleton, WI, US"
-  },
-  {
-    "name": "ESB Winter Homebrew Competition",
-    "judging_date": "2008-07-19",
-    "entry_deadline": "2008-07-04",
-    "location": "Sydney, NSW, AU"
   },
   {
     "name": "Fort Collins Brewery's 2008 Homebrew Your Way to Fame Competition",
@@ -6876,16 +6876,16 @@
     "location": "Huntington, WV, US"
   },
   {
-    "name": "Nevada County Fair Homebrew Competition",
-    "judging_date": "2008-07-27",
-    "entry_deadline": "2008-06-27",
-    "location": "Grass Valley, CA, US"
-  },
-  {
     "name": "Glockenspiel Homebrew Competition",
     "judging_date": "2008-07-27",
     "entry_deadline": "2008-07-20",
     "location": "St. Paul, MN, US"
+  },
+  {
+    "name": "Nevada County Fair Homebrew Competition",
+    "judging_date": "2008-07-27",
+    "entry_deadline": "2008-06-27",
+    "location": "Grass Valley, CA, US"
   },
   {
     "name": "AHA Club-Only Competition Mead",
@@ -6894,10 +6894,10 @@
     "location": "Minneapolis, MN, US"
   },
   {
-    "name": "Baker County Fair - Halfway and Baker City",
+    "name": "Lunar Rendezbrew  XV",
     "judging_date": "2008-08-02",
-    "entry_deadline": "2008-08-01",
-    "location": "Baker City, OR, US"
+    "entry_deadline": "2008-07-12",
+    "location": "Houston, TX, US"
   },
   {
     "name": "Baker County Fair - Halfway and Baker City",
@@ -6942,16 +6942,16 @@
     "location": "Moses Lake, WA, US"
   },
   {
-    "name": "\"Go For The Gold\" Homebrew & Label Contest",
-    "judging_date": "2008-08-09",
-    "entry_deadline": "2008-07-09",
-    "location": "San Mateo, CA, US"
-  },
-  {
     "name": "Evergreen State Fair 2008",
     "judging_date": "2008-08-09",
     "entry_deadline": "2008-08-06",
     "location": "Monroe, WA, US"
+  },
+  {
+    "name": "\"Go For The Gold\" Homebrew & Label Contest",
+    "judging_date": "2008-08-09",
+    "entry_deadline": "2008-07-09",
+    "location": "San Mateo, CA, US"
   },
   {
     "name": "Kentucky State Fair",
@@ -6966,10 +6966,10 @@
     "location": "Albuquerque, NM, US"
   },
   {
-    "name": "California Brewers Festival Commercial Competition",
+    "name": "Blues and Brews Homebrew Competition",
     "judging_date": "2008-08-16",
-    "entry_deadline": "2008-08-13",
-    "location": "Sacramento, CA, US"
+    "entry_deadline": "2008-08-09",
+    "location": "Fitchburg, MA, US"
   },
   {
     "name": "Benton Franklin Fair and Rodeo",
@@ -6984,12 +6984,6 @@
     "location": "Ft. Mitchell, KY, US"
   },
   {
-    "name": "Blues and Brews Homebrew Competition",
-    "judging_date": "2008-08-16",
-    "entry_deadline": "2008-08-09",
-    "location": "Fitchburg, MA, US"
-  },
-  {
     "name": "Minnesota State Fair Homebrew Competition",
     "judging_date": "2008-08-16",
     "entry_deadline": "2008-08-08",
@@ -7000,6 +6994,12 @@
     "judging_date": "2008-08-16",
     "entry_deadline": "2008-07-26",
     "location": "San Antonio, TX, US"
+  },
+  {
+    "name": "California Brewers Festival Commercial Competition",
+    "judging_date": "2008-08-16",
+    "entry_deadline": "2008-08-13",
+    "location": "Sacramento, CA, US"
   },
   {
     "name": "Alaska Ste Fair",
@@ -7146,16 +7146,16 @@
     "location": "Longmont, CO, US"
   },
   {
+    "name": "Blue Ridge Brew Off",
+    "judging_date": "2008-09-13",
+    "entry_deadline": null,
+    "location": "Asheville, NC, US"
+  },
+  {
     "name": "Commander SAAZ 2008",
     "judging_date": "2008-09-13",
     "entry_deadline": "2008-09-10",
     "location": "Cocoa Beach, FL, US"
-  },
-  {
-    "name": "Seafood, Jazz & Brew Festival Homebrew Competition",
-    "judging_date": "2008-09-13",
-    "entry_deadline": "2008-09-08",
-    "location": "Hilton Head Island, SC, US"
   },
   {
     "name": "Western Australia State Amateur Brewers Competition",
@@ -7164,10 +7164,10 @@
     "location": "Perth, WA, AU"
   },
   {
-    "name": "Blue Ridge Brew Off",
+    "name": "Seafood, Jazz & Brew Festival Homebrew Competition",
     "judging_date": "2008-09-13",
-    "entry_deadline": null,
-    "location": "Asheville, NC, US"
+    "entry_deadline": "2008-09-08",
+    "location": "Hilton Head Island, SC, US"
   },
   {
     "name": "The Schooner Homebrew Championship",
@@ -7176,16 +7176,16 @@
     "location": "Racine, WI, US"
   },
   {
-    "name": "River City Roundup Fair & Festival Homebrew Competition",
-    "judging_date": "2008-09-13",
-    "entry_deadline": "2008-09-06",
-    "location": "Omaha, NE, US"
-  },
-  {
     "name": "13th Annual Dayton Beerfest",
     "judging_date": "2008-09-13",
     "entry_deadline": "2008-09-08",
     "location": "Dayton, OH, US"
+  },
+  {
+    "name": "River City Roundup Fair & Festival Homebrew Competition",
+    "judging_date": "2008-09-13",
+    "entry_deadline": "2008-09-06",
+    "location": "Omaha, NE, US"
   },
   {
     "name": "State Amateur Brewers Show of South Australia",
@@ -7236,16 +7236,16 @@
     "location": "Tulsa, OK, US"
   },
   {
-    "name": "Equinox Mead Competition",
-    "judging_date": "2008-09-27",
-    "entry_deadline": "2008-09-26",
-    "location": "Anchorage, AK, US"
-  },
-  {
     "name": "Mid South Fair",
     "judging_date": "2008-09-27",
     "entry_deadline": "2008-08-22",
     "location": "Memphis, TN, US"
+  },
+  {
+    "name": "Equinox Mead Competition",
+    "judging_date": "2008-09-27",
+    "entry_deadline": "2008-09-26",
+    "location": "Anchorage, AK, US"
   },
   {
     "name": "The Big Fresno Fair Homebrew Competition",
@@ -7326,10 +7326,10 @@
     "location": "Little Rock, AR, US"
   },
   {
-    "name": "Lancaster County Brewers showdown",
+    "name": "Dixie Cup XXV",
     "judging_date": "2008-10-18",
-    "entry_deadline": "2008-10-11",
-    "location": "Lancaster, PA, US"
+    "entry_deadline": "2008-09-18",
+    "location": "Houston, TX, US"
   },
   {
     "name": "AHA Club-Only Competition Imperial Anything",
@@ -7338,10 +7338,16 @@
     "location": "Macomb Township, MI, US"
   },
   {
-    "name": "Dixie Cup XXV",
+    "name": "HOPS BOPS 2008",
     "judging_date": "2008-10-18",
-    "entry_deadline": "2008-09-18",
-    "location": "Houston, TX, US"
+    "entry_deadline": "2008-10-13",
+    "location": "Philadelphia, PA, US"
+  },
+  {
+    "name": "Lancaster County Brewers showdown",
+    "judging_date": "2008-10-18",
+    "entry_deadline": "2008-10-11",
+    "location": "Lancaster, PA, US"
   },
   {
     "name": "HOPS BOPS 2008",
@@ -7350,16 +7356,10 @@
     "location": "Philadelphia, PA, US"
   },
   {
-    "name": "Dixie Cup XXV",
+    "name": "Lancaster County Brewers showdown",
     "judging_date": "2008-10-18",
-    "entry_deadline": "2008-09-18",
-    "location": "Houston, TX, US"
-  },
-  {
-    "name": "HOPS BOPS 2008",
-    "judging_date": "2008-10-18",
-    "entry_deadline": "2008-10-13",
-    "location": "Philadelphia, PA, US"
+    "entry_deadline": "2008-10-11",
+    "location": "Lancaster, PA, US"
   },
   {
     "name": "Southern New Engand Regional Homebrew Competition",
@@ -7368,16 +7368,16 @@
     "location": "Newtown, CT, US"
   },
   {
-    "name": "Schleswig Wine & Bier Contest",
-    "judging_date": "2008-10-19",
-    "entry_deadline": "2008-10-19",
-    "location": "Schleswig, IA, US"
-  },
-  {
     "name": "2008 National Organic Homebrew Challenge",
     "judging_date": "2008-10-19",
     "entry_deadline": "2008-10-10",
     "location": "Santa Cruz, CA, US"
+  },
+  {
+    "name": "Schleswig Wine & Bier Contest",
+    "judging_date": "2008-10-19",
+    "entry_deadline": "2008-10-19",
+    "location": "Schleswig, IA, US"
   },
   {
     "name": "Castle Hill Agricultural Society Home Brewing Championship",
@@ -7390,18 +7390,6 @@
     "judging_date": "2008-10-23",
     "entry_deadline": "2008-10-09",
     "location": "Melbourne, VIC, AU"
-  },
-  {
-    "name": "Valhalla: the Meading of Life",
-    "judging_date": "2008-10-25",
-    "entry_deadline": "2008-10-17",
-    "location": "West Chester, PA, US"
-  },
-  {
-    "name": "Atlanta Strong Beer Competition",
-    "judging_date": "2008-10-25",
-    "entry_deadline": "2008-10-17",
-    "location": "Atlanta, GA, US"
   },
   {
     "name": "New England Regional Homebrew Competition",
@@ -7422,6 +7410,18 @@
     "location": "Placerville, CA, US"
   },
   {
+    "name": "Valhalla: the Meading of Life",
+    "judging_date": "2008-10-25",
+    "entry_deadline": "2008-10-17",
+    "location": "West Chester, PA, US"
+  },
+  {
+    "name": "Atlanta Strong Beer Competition",
+    "judging_date": "2008-10-25",
+    "entry_deadline": "2008-10-17",
+    "location": "Atlanta, GA, US"
+  },
+  {
     "name": "Fall Classic",
     "judging_date": "2008-10-26",
     "entry_deadline": "2008-10-23",
@@ -7440,12 +7440,6 @@
     "location": "Kent, WA, US"
   },
   {
-    "name": "2008 THIRSTY Classic",
-    "judging_date": "2008-11-01",
-    "entry_deadline": "2008-10-25",
-    "location": "Amana, IA, US"
-  },
-  {
     "name": "The Dig Pub \"Monster\" Homebrew Competition",
     "judging_date": "2008-11-01",
     "entry_deadline": "2008-10-27",
@@ -7456,6 +7450,12 @@
     "judging_date": "2008-11-01",
     "entry_deadline": null,
     "location": "Greensboro, NC, US"
+  },
+  {
+    "name": "2008 THIRSTY Classic",
+    "judging_date": "2008-11-01",
+    "entry_deadline": "2008-10-25",
+    "location": "Amana, IA, US"
   },
   {
     "name": "Sunshine Challenge 2008",
@@ -7488,15 +7488,15 @@
     "location": "New Albany, IN, US"
   },
   {
-    "name": "30th Annual California State Homebrew Competition",
-    "judging_date": "2008-11-08",
-    "entry_deadline": "2008-10-04",
-    "location": "San Francisco, CA, US"
-  },
-  {
     "name": "Foam On The Range 2008",
     "judging_date": "2008-11-08",
     "entry_deadline": "2008-10-24",
     "location": "Denver, CO, US"
+  },
+  {
+    "name": "30th Annual California State Homebrew Competition",
+    "judging_date": "2008-11-08",
+    "entry_deadline": "2008-10-04",
+    "location": "San Francisco, CA, US"
   }
 ]
