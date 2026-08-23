@@ -2466,16 +2466,16 @@
     "location": "Omaha, NE, US"
   },
   {
-    "name": "Great Frederick Fair",
-    "judging_date": "2004-09-12",
-    "entry_deadline": null,
-    "location": "Frederick, MD, US"
-  },
-  {
     "name": "Tulare County Fair Homebrew Competition",
     "judging_date": "2004-09-12",
     "entry_deadline": null,
     "location": "Visalia, CA, US"
+  },
+  {
+    "name": "Great Frederick Fair",
+    "judging_date": "2004-09-12",
+    "entry_deadline": null,
+    "location": "Frederick, MD, US"
   },
   {
     "name": "Anna Arundel County Fair",
@@ -2628,10 +2628,10 @@
     "location": "Albany, NY, US"
   },
   {
-    "name": "Bones Bash '04",
+    "name": "2004 THIRSTY Classic",
     "judging_date": "2004-11-06",
     "entry_deadline": null,
-    "location": "Philadelphia, PA, US"
+    "location": "Iowa City, IA, US"
   },
   {
     "name": "Georgia Craft Brew Challenge",
@@ -2640,28 +2640,28 @@
     "location": "Atlanta, GA, US"
   },
   {
-    "name": "California State Homebrew Competition",
+    "name": "Bones Bash '04",
     "judging_date": "2004-11-06",
     "entry_deadline": null,
-    "location": "San Francisco, CA, US"
-  },
-  {
-    "name": "2004 THIRSTY Classic",
-    "judging_date": "2004-11-06",
-    "entry_deadline": null,
-    "location": "Iowa City, IA, US"
-  },
-  {
-    "name": "Novembeerfest",
-    "judging_date": "2004-11-06",
-    "entry_deadline": null,
-    "location": "Kent, WA, US"
+    "location": "Philadelphia, PA, US"
   },
   {
     "name": "2004 Oktobersbest Zinzinnati Competition",
     "judging_date": "2004-11-06",
     "entry_deadline": null,
     "location": "Newport, KY, US"
+  },
+  {
+    "name": "California State Homebrew Competition",
+    "judging_date": "2004-11-06",
+    "entry_deadline": null,
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "name": "Novembeerfest",
+    "judging_date": "2004-11-06",
+    "entry_deadline": null,
+    "location": "Kent, WA, US"
   },
   {
     "name": "Winking Lizard Taverns Homebrew Competition",
@@ -2808,16 +2808,16 @@
     "location": "Eugene, OR, US"
   },
   {
-    "name": "March in Montreal 2005",
-    "judging_date": "2005-02-12",
-    "entry_deadline": null,
-    "location": "Montreal, QC, CA"
-  },
-  {
     "name": "B3 Forum Competition",
     "judging_date": "2005-02-12",
     "entry_deadline": null,
     "location": "Concord, CA, US"
+  },
+  {
+    "name": "March in Montreal 2005",
+    "judging_date": "2005-02-12",
+    "entry_deadline": null,
+    "location": "Montreal, QC, CA"
   },
   {
     "name": "Kansas City Bier Meisters 22nd Annual",
@@ -3018,6 +3018,12 @@
     "location": "Westlake, OH, US"
   },
   {
+    "name": "AHA National Homebrew Competition - California Region,",
+    "judging_date": "2005-04-22",
+    "entry_deadline": null,
+    "location": "San Diego, CA, US"
+  },
+  {
     "name": "AHA National Homebrew Competition - Northwest Region",
     "judging_date": "2005-04-22",
     "entry_deadline": null,
@@ -3028,12 +3034,6 @@
     "judging_date": "2005-04-22",
     "entry_deadline": null,
     "location": "Roseville, MN, US"
-  },
-  {
-    "name": "AHA National Homebrew Competition - California Region,",
-    "judging_date": "2005-04-22",
-    "entry_deadline": null,
-    "location": "San Diego, CA, US"
   },
   {
     "name": "Bluff City Brewers 17th Annual Homebrewers Extravaganza",
@@ -3102,16 +3102,16 @@
     "location": "Toronto, ON, CA"
   },
   {
-    "name": "World Expo of Beer",
-    "judging_date": "2005-05-07",
-    "entry_deadline": null,
-    "location": "Saginaw, MI, US"
-  },
-  {
     "name": "2005 Mayfaire Homebrewed Beer Comp",
     "judging_date": "2005-05-07",
     "entry_deadline": null,
     "location": "Woodland Hills, CA, US"
+  },
+  {
+    "name": "World Expo of Beer",
+    "judging_date": "2005-05-07",
+    "entry_deadline": null,
+    "location": "Saginaw, MI, US"
   },
   {
     "name": "Extract Beers AHA Club-Only Competition",
@@ -3138,16 +3138,16 @@
     "location": "Burlington, VT, US"
   },
   {
-    "name": "The BrewMaster's Open",
-    "judging_date": "2005-05-14",
-    "entry_deadline": null,
-    "location": "Atlanta, GA, US"
-  },
-  {
     "name": "9th Annual B.E.E.R. Brew-Off",
     "judging_date": "2005-05-14",
     "entry_deadline": null,
     "location": "Lake Grove, NY, US"
+  },
+  {
+    "name": "The BrewMaster's Open",
+    "judging_date": "2005-05-14",
+    "entry_deadline": null,
+    "location": "Atlanta, GA, US"
   },
   {
     "name": "Spirit of Free Beer XIII",
@@ -3204,6 +3204,12 @@
     "location": "West Allis, WI, US"
   },
   {
+    "name": "Cal St Fair Commercial Craftbrewing 2005",
+    "judging_date": "2005-05-21",
+    "entry_deadline": null,
+    "location": "Sacramento, CA, US"
+  },
+  {
     "name": "11th Annual 8 Seconds of Froth",
     "judging_date": "2005-05-21",
     "entry_deadline": null,
@@ -3214,12 +3220,6 @@
     "judging_date": "2005-05-21",
     "entry_deadline": null,
     "location": "West Chester, PA, US"
-  },
-  {
-    "name": "Cal St Fair Commercial Craftbrewing 2005",
-    "judging_date": "2005-05-21",
-    "entry_deadline": null,
-    "location": "Sacramento, CA, US"
   },
   {
     "name": "13th Great Alaska Homebrew Competition",
