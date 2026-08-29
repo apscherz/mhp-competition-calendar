@@ -3012,12 +3012,6 @@
     "location": "Portland, OR, US"
   },
   {
-    "name": "AHA National Homebrew Competition - East Region",
-    "judging_date": "2005-04-22",
-    "entry_deadline": null,
-    "location": "Westlake, OH, US"
-  },
-  {
     "name": "AHA National Homebrew Competition - South Region",
     "judging_date": "2005-04-22",
     "entry_deadline": null,
@@ -3028,6 +3022,12 @@
     "judging_date": "2005-04-22",
     "entry_deadline": null,
     "location": "San Diego, CA, US"
+  },
+  {
+    "name": "AHA National Homebrew Competition - East Region",
+    "judging_date": "2005-04-22",
+    "entry_deadline": null,
+    "location": "Westlake, OH, US"
   },
   {
     "name": "AHA National Homebrew Competition - Midwest Region",
@@ -3132,28 +3132,28 @@
     "location": "Pleasanton, CA, US"
   },
   {
-    "name": "Green Mountain Homebrew Competition",
-    "judging_date": "2005-05-14",
-    "entry_deadline": null,
-    "location": "Burlington, VT, US"
-  },
-  {
     "name": "Spirit of Free Beer XIII",
     "judging_date": "2005-05-14",
     "entry_deadline": null,
     "location": "Chantilly, VA, US"
   },
   {
-    "name": "9th Annual B.E.E.R. Brew-Off",
+    "name": "Green Mountain Homebrew Competition",
     "judging_date": "2005-05-14",
     "entry_deadline": null,
-    "location": "Lake Grove, NY, US"
+    "location": "Burlington, VT, US"
   },
   {
     "name": "9th Annual B.E.E.R. Brew-Off",
     "judging_date": "2005-05-14",
     "entry_deadline": null,
     "location": "Lake Grove, NY, US"
+  },
+  {
+    "name": "Alameda County Fair Bay Area Brew Off",
+    "judging_date": "2005-05-14",
+    "entry_deadline": null,
+    "location": "Pleasanton, CA, US"
   },
   {
     "name": "9th Ann. Silver Dollar Fair Homebrew Comp.",
@@ -3192,28 +3192,28 @@
     "location": "Arlington, TX, US"
   },
   {
-    "name": "2005 WI State Fair Homebrewer's Show",
-    "judging_date": "2005-05-21",
-    "entry_deadline": null,
-    "location": "West Allis, WI, US"
-  },
-  {
     "name": "May Mead Madness 05",
     "judging_date": "2005-05-21",
     "entry_deadline": null,
     "location": "New Bern, NC, US"
   },
   {
-    "name": "11th Annual 8 Seconds of Froth",
+    "name": "2005 WI State Fair Homebrewer's Show",
     "judging_date": "2005-05-21",
     "entry_deadline": null,
-    "location": "Cheyenne, WY, US"
+    "location": "West Allis, WI, US"
   },
   {
     "name": "2005 BUZZ Off",
     "judging_date": "2005-05-21",
     "entry_deadline": null,
     "location": "West Chester, PA, US"
+  },
+  {
+    "name": "11th Annual 8 Seconds of Froth",
+    "judging_date": "2005-05-21",
+    "entry_deadline": null,
+    "location": "Cheyenne, WY, US"
   },
   {
     "name": "Cal St Fair Commercial Craftbrewing 2005",
@@ -3618,6 +3618,12 @@
     "location": "Berkeley, CA, US"
   },
   {
+    "name": "Blessing of the Bock 2006",
+    "judging_date": "2006-03-11",
+    "entry_deadline": "2006-03-10",
+    "location": "Milwaukee, WI, US"
+  },
+  {
     "name": "Great Arizona Homebrew Competition",
     "judging_date": "2006-03-11",
     "entry_deadline": "2006-03-07",
@@ -3628,12 +3634,6 @@
     "judging_date": "2006-03-11",
     "entry_deadline": "2006-03-04",
     "location": "St. Paul, MN, US"
-  },
-  {
-    "name": "Blessing of the Bock 2006",
-    "judging_date": "2006-03-11",
-    "entry_deadline": "2006-03-10",
-    "location": "Milwaukee, WI, US"
   },
   {
     "name": "GCBA Annual Celebrewtion",
@@ -3660,12 +3660,6 @@
     "location": "Irving, TX, US"
   },
   {
-    "name": "7th Annual Werthogs Homebrew Competition",
-    "judging_date": "2006-03-18",
-    "entry_deadline": "2006-03-13",
-    "location": "Lethbridge, AB, CA"
-  },
-  {
     "name": "Las Vegas Winterfest 2006",
     "judging_date": "2006-03-18",
     "entry_deadline": "2006-03-11",
@@ -3676,6 +3670,12 @@
     "judging_date": "2006-03-18",
     "entry_deadline": "2006-03-11",
     "location": "Raleigh, NC, US"
+  },
+  {
+    "name": "7th Annual Werthogs Homebrew Competition",
+    "judging_date": "2006-03-18",
+    "entry_deadline": "2006-03-13",
+    "location": "Lethbridge, AB, CA"
   },
   {
     "name": "Best the Brewer",
@@ -3702,16 +3702,16 @@
     "location": "Estacada, OR, US"
   },
   {
-    "name": "16th Annual Hudson Valley Homebrew Competition",
-    "judging_date": "2006-03-25",
-    "entry_deadline": "2006-03-18",
-    "location": "Hyde Park, NY, US"
-  },
-  {
     "name": "Homebrew Fair II",
     "judging_date": "2006-03-25",
     "entry_deadline": "2006-03-25",
     "location": "Seattle, WA, US"
+  },
+  {
+    "name": "16th Annual Hudson Valley Homebrew Competition",
+    "judging_date": "2006-03-25",
+    "entry_deadline": "2006-03-18",
+    "location": "Hyde Park, NY, US"
   },
   {
     "name": "March Mashness",
@@ -3732,16 +3732,16 @@
     "location": "Boston, MA, US"
   },
   {
-    "name": "ALES Homebrew Open -- AHA NHC Qualifier Competition",
-    "judging_date": "2006-04-01",
-    "entry_deadline": "2006-03-31",
-    "location": "Regina, SK, CA"
-  },
-  {
     "name": "Upstate New York Homebrewers Association 28th Annual Contest and 17th Empire State Open",
     "judging_date": "2006-04-01",
     "entry_deadline": "2006-03-22",
     "location": "Rochester, NY, US"
+  },
+  {
+    "name": "ALES Homebrew Open -- AHA NHC Qualifier Competition",
+    "judging_date": "2006-04-01",
+    "entry_deadline": "2006-03-31",
+    "location": "Regina, SK, CA"
   },
   {
     "name": "Hurricane Blowoff",
