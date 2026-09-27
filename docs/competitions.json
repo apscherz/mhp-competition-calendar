@@ -3924,6 +3924,12 @@
     "location": "Woodland Hills, CA, US"
   },
   {
+    "name": "12th Annual Eight Seconds of Froth",
+    "judging_date": "2006-05-13",
+    "entry_deadline": "2006-05-05",
+    "location": "Cheyenne, WY, US"
+  },
+  {
     "name": "Green Mountain Homebrew Competition",
     "judging_date": "2006-05-13",
     "entry_deadline": "2006-04-28",
@@ -3934,12 +3940,6 @@
     "judging_date": "2006-05-13",
     "entry_deadline": "2006-04-29",
     "location": "Pleasanton, CA, US"
-  },
-  {
-    "name": "12th Annual Eight Seconds of Froth",
-    "judging_date": "2006-05-13",
-    "entry_deadline": "2006-05-05",
-    "location": "Cheyenne, WY, US"
   },
   {
     "name": "Enchanted Brewing Challenge",
@@ -4386,28 +4386,28 @@
     "location": "Watsonville, CA, US"
   },
   {
-    "name": "11th Annual Dayton Beerfest",
-    "judging_date": "2006-09-09",
-    "entry_deadline": "2006-09-02",
-    "location": "Dayton, OH, US"
-  },
-  {
     "name": "Eastern Idaho State Fair",
     "judging_date": "2006-09-09",
     "entry_deadline": "2006-09-08",
     "location": "Blackfoot, ID, US"
   },
   {
-    "name": "Tulare County Fair Homebrew Competition",
-    "judging_date": "2006-09-10",
-    "entry_deadline": "2006-08-25",
-    "location": "Tulare, CA, US"
+    "name": "11th Annual Dayton Beerfest",
+    "judging_date": "2006-09-09",
+    "entry_deadline": "2006-09-02",
+    "location": "Dayton, OH, US"
   },
   {
     "name": "Great Frederick Fair",
     "judging_date": "2006-09-10",
     "entry_deadline": "2006-09-10",
     "location": "Frederick, MD, US"
+  },
+  {
+    "name": "Tulare County Fair Homebrew Competition",
+    "judging_date": "2006-09-10",
+    "entry_deadline": "2006-08-25",
+    "location": "Tulare, CA, US"
   },
   {
     "name": "2006 Longshot American Homebrew Contest - Boston Regional",
@@ -4908,16 +4908,16 @@
     "location": "Irving, TX, US"
   },
   {
-    "name": "Shamrock Open",
-    "judging_date": "2007-03-24",
-    "entry_deadline": "2007-03-17",
-    "location": "Raleigh, NC, US"
-  },
-  {
     "name": "March Mashness",
     "judging_date": "2007-03-24",
     "entry_deadline": "2007-03-16",
     "location": "Sauk Rapids, MN, US"
+  },
+  {
+    "name": "Shamrock Open",
+    "judging_date": "2007-03-24",
+    "entry_deadline": "2007-03-17",
+    "location": "Raleigh, NC, US"
   },
   {
     "name": "8th Werthogs Homebrew Competition",
@@ -5208,10 +5208,10 @@
     "location": "Pleasanton, CA, US"
   },
   {
-    "name": "7th Annual May Mead Madness",
+    "name": "Bloatarian Open",
     "judging_date": "2007-05-19",
-    "entry_deadline": "2007-05-12",
-    "location": "New Bern, NC, US"
+    "entry_deadline": "2007-05-11",
+    "location": "Cincinnati, OH, US"
   },
   {
     "name": "The 25th Annual Oregon Homebrew and Microbrew Festival",
@@ -5226,10 +5226,10 @@
     "location": "Albuquerque, NM, US"
   },
   {
-    "name": "Bloatarian Open",
+    "name": "7th Annual May Mead Madness",
     "judging_date": "2007-05-19",
-    "entry_deadline": "2007-05-11",
-    "location": "Cincinnati, OH, US"
+    "entry_deadline": "2007-05-12",
+    "location": "New Bern, NC, US"
   },
   {
     "name": "Cascade Brewers Cup",
@@ -6426,16 +6426,16 @@
     "location": "Lodi, CA, US"
   },
   {
-    "name": "2008 Golden Growler Homebrewing Challenge",
-    "judging_date": "2008-04-19",
-    "entry_deadline": "2008-04-12",
-    "location": "Wausau, WI, US"
-  },
-  {
     "name": "Bluff City Brewers & Connoisseurs Homebrew Extravaganza",
     "judging_date": "2008-04-19",
     "entry_deadline": "2008-04-04",
     "location": "Memphis, TN, US"
+  },
+  {
+    "name": "2008 Golden Growler Homebrewing Challenge",
+    "judging_date": "2008-04-19",
+    "entry_deadline": "2008-04-12",
+    "location": "Wausau, WI, US"
   },
   {
     "name": "AHA National Homebrew Competition 1st Round South Region",
@@ -6936,16 +6936,16 @@
     "location": "Rock Creek, OH, US"
   },
   {
-    "name": "\"Go For The Gold\" Homebrew & Label Contest",
-    "judging_date": "2008-08-09",
-    "entry_deadline": "2008-07-09",
-    "location": "San Mateo, CA, US"
-  },
-  {
     "name": "Grant County Fair",
     "judging_date": "2008-08-09",
     "entry_deadline": "2008-04-09",
     "location": "Moses Lake, WA, US"
+  },
+  {
+    "name": "\"Go For The Gold\" Homebrew & Label Contest",
+    "judging_date": "2008-08-09",
+    "entry_deadline": "2008-07-09",
+    "location": "San Mateo, CA, US"
   },
   {
     "name": "Evergreen State Fair 2008",
@@ -7338,16 +7338,16 @@
     "location": "Houston, TX, US"
   },
   {
-    "name": "Oktobersbest",
-    "judging_date": "2008-10-18",
-    "entry_deadline": "2008-10-04",
-    "location": "Newport, KY, US"
-  },
-  {
     "name": "Second Annual USAFA Homebrew Comp",
     "judging_date": "2008-10-18",
     "entry_deadline": "2008-10-14",
     "location": "USAFA, CO, US"
+  },
+  {
+    "name": "Oktobersbest",
+    "judging_date": "2008-10-18",
+    "entry_deadline": "2008-10-04",
+    "location": "Newport, KY, US"
   },
   {
     "name": "HOPS BOPS 2008",
